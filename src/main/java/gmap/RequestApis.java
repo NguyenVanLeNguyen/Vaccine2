@@ -12,6 +12,8 @@ import object.result.RequestBodyAddPlace;
 import object.result.ResponseAddPlace;
 import object.ways.ResponseWays;
 import object.ways.WaysItem;
+
+import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -32,7 +34,7 @@ public class RequestApis {
             con.setRequestMethod("GET");
             con.setRequestProperty("Content-Type", "application/json; utf-8");
             con.setRequestProperty("Accept", "application/json");
-            con.setRequestProperty("Authorization", "Bearer c_ij3813jdckzl5il4qph2rdqsdnj1zeeuzwhrl2kanfdbvkz2dymgexbbzksxrrgl");
+            con.setRequestProperty("Authorization", "Bearer c_nxceghcbeskmw4krfspqmol7tzgtxm7ky2x527qmvvziwwxobfduuede3rtzwvps");
             int responseCode = con.getResponseCode();
             if (responseCode == HttpURLConnection.HTTP_OK) { // success
                 BufferedReader in = new BufferedReader(new InputStreamReader(
@@ -52,16 +54,17 @@ public class RequestApis {
             e.printStackTrace();
         }
     }
-
-    public void getNodesInWay(WaysItem waysItem){
+    ArrayList<NodesItem> listNodes = new ArrayList<>();
+    public void getNodesInWay(WaysItem waysItem, int index){
         URL url = null;
+        Gson gson = new Gson();
         try {
             url = new URL(domain+String.format("/api/v1/%s/nodes",String.valueOf(waysItem.getId())));
             HttpURLConnection con = (HttpURLConnection) url.openConnection();
             con.setRequestMethod("GET");
             con.setRequestProperty("Content-Type", "application/json; utf-8");
             con.setRequestProperty("Accept", "application/json");
-            con.setRequestProperty("Authorization", "Bearer c_ij3813jdckzl5il4qph2rdqsdnj1zeeuzwhrl2kanfdbvkz2dymgexbbzksxrrgl");
+            con.setRequestProperty("Authorization", "Bearer c_nxceghcbeskmw4krfspqmol7tzgtxm7ky2x527qmvvziwwxobfduuede3rtzwvps");
             int responseCode = con.getResponseCode();
             if (responseCode == HttpURLConnection.HTTP_OK) { // success
                 BufferedReader in = new BufferedReader(new InputStreamReader(
@@ -78,12 +81,16 @@ public class RequestApis {
                          for(NodesItem node : responseNodes.getData().getNodes()){
                              waysItem.getListPlaceName().add(node.getName());
                              waysItem.getListLatLng().add(String.format("%.7f,%.7f",node.getLatitude(),node.getLongitude()));
+                             listNodes.add(node);
                          }
+                        /*System.out.println("getNodesInWay: " + waysItem.getName() + " " + index);
+                        System.out.println(gson.toJson(responseNodes));*/
+                        if(mListener != null && responseNodes != null){
+                            mListener.onFinshGetListNodes(responseNodes,waysItem);
+                        }
                     }
                 }
-                if(mListener != null && responseNodes != null){
-                    mListener.onFinshGetListNodes(responseNodes,waysItem);
-                }
+
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -93,13 +100,13 @@ public class RequestApis {
 
     public void createNewPlace(RequestBodyAddPlace requestBody,int wayId) {
         try {
-            URL url = new URL(domain + String.format("/api/v1/%s/nodes", String.valueOf(wayId)));
+            URL url = new URL(domain + String.format("/api/v1/%s/node", String.valueOf(wayId)));
             HttpURLConnection con = null;
             con = (HttpURLConnection) url.openConnection();
             con.setRequestMethod("POST");
             con.setRequestProperty("Content-Type", "application/json; utf-8");
             con.setRequestProperty("Accept", "application/json");
-            con.setRequestProperty("Authorization", "Bearer c_ij3813jdckzl5il4qph2rdqsdnj1zeeuzwhrl2kanfdbvkz2dymgexbbzksxrrgl");
+            con.setRequestProperty("Authorization", "Bearer c_nxceghcbeskmw4krfspqmol7tzgtxm7ky2x527qmvvziwwxobfduuede3rtzwvps");
             con.setDoOutput(true);
             Gson gson = new Gson();
             String jsonRequestBody = gson.toJson(requestBody);
@@ -108,6 +115,7 @@ public class RequestApis {
                 os.write(input, 0, input.length);
             }
             int responseCode = con.getResponseCode();
+            System.out.println(domain + String.format("/api/v1/%s/nodes", String.valueOf(wayId)));
             if (responseCode == HttpURLConnection.HTTP_OK) { // success
                 BufferedReader in = new BufferedReader(new InputStreamReader(
                         con.getInputStream()));
@@ -121,8 +129,11 @@ public class RequestApis {
                     Gson gsonResponse = new Gson();
                     ResponseAddPlace responseAddPlace = gsonResponse.fromJson(response.toString(),ResponseAddPlace.class);
                     if(responseAddPlace.getStatus().equals("OK")){
-                        System.out.println(jsonRequestBody);
+                        System.out.println("++++"+response.toString());
+                    }else {
+                        System.out.println("----"+response.toString());
                     }
+
                 }catch (JsonSyntaxException e){
                     e.printStackTrace();
                 }

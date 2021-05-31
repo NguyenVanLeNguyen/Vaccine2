@@ -15,14 +15,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class RequestGcs {
-    String key = "";
+    String key = "AIzaSyCpYPMRXUWfIR6kjLWGbDBNjFmECi9IEhw";
     Location location;
     Double distance = 1000.0;
-    int pageNumberRequest = 5;
+    Double ratio = 2.0;
+    int pageNumberRequest =10;
     String requestUrl = "https://maps.googleapis.com/maps/api/place/nearbysearch/json";
 
-    public RequestGcs(Location location, Double distancem,Listener mListener) {
-        this.distance = distance;
+    public RequestGcs(Location location, Double distance,Listener mListener) {
+        this.distance = distance*ratio;
         this.location = location;
         this.mListener = mListener;
     }
@@ -60,10 +61,12 @@ public class RequestGcs {
             URL url ;
             if(pageToken.isEmpty()){
                 url = new URL(requestUrl + String.format("?location=%s&radius=%s&key=%s&language=vi",locationStr,radius,key));
-
+                //System.out.println(requestUrl + String.format("?location=%s&radius=%s&key=%s&language=vi",locationStr,radius,key));
             }else {
                 url = new URL(requestUrl + String.format("?location=%s&radius=%s&key=%s&language=vi&pagetoken=%s",locationStr,radius,key,pageToken));
+                //System.out.println(requestUrl + String.format("?location=%s&radius=%s&key=%s&language=vi&pagetoken=%s",locationStr,radius,key,pageToken));
             }
+
             HttpURLConnection con = (HttpURLConnection) url.openConnection();
             con.setRequestMethod("GET");
             int responseCode = con.getResponseCode();
@@ -81,7 +84,7 @@ public class RequestGcs {
                     finishRequestListener.onFinish(responsePlaces);
                 }
             }
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
@@ -91,10 +94,22 @@ public class RequestGcs {
             getPlaces(pagetoken, new FinishRequestListener() {
                 @Override
                 public void onFinish(ResponsePlaces responsePlaces) {
-                    String pagetoken = responsePlaces.getNextPageToken();
-                    int countNextPage = countPage+1;
-                    mListResult.addAll(responsePlaces.getResults());
-                    requestGoogleService(countNextPage,pagetoken);
+                    if(responsePlaces.getStatus().equals("OK")){
+                        String pagetoken = responsePlaces.getNextPageToken();
+                        int countNextPage = countPage+1;
+                        mListResult.addAll(responsePlaces.getResults());
+                        if(!pagetoken.isEmpty() && countNextPage < pageNumberRequest){
+                            requestGoogleService(countNextPage,pagetoken);
+                        }else {
+                            if(mListener != null && !mListResult.isEmpty()){
+                                mListener.onGetPlacesFisnish(mListResult);
+                            }
+                        }
+                    }else {
+                        if(mListener != null && !mListResult.isEmpty()){
+                            mListener.onGetPlacesFisnish(mListResult);
+                        }
+                    }
                 }
             });
         }else{

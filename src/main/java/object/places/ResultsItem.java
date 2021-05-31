@@ -67,7 +67,7 @@ public class ResultsItem{
 	}
 
 	public String getName(){
-		return name;
+		return name== null ? "":name;
 	}
 
 	public Geometry getGeometry(){
@@ -75,7 +75,7 @@ public class ResultsItem{
 	}
 
 	public String getVicinity(){
-		return vicinity;
+		return vicinity == null ? "":vicinity;
 	}
 
 	public List<PhotosItem> getPhotos(){

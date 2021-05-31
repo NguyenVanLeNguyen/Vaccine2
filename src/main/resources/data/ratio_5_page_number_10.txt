@@ -1,0 +1,708 @@
+{"request":{"street":"Phúc La","latitude":"20.9654323","name":"Phúc La","street_number":"undefined","type":"2","longitude":"105.7894045"},"way_id":599527184}
+{"request":{"street":"undefined","latitude":"20.9626857","name":"Trường Tiểu học MARIE CURIE II","street_number":"undefined","type":"5","longitude":"105.7859648"},"way_id":599527184}
+{"request":{"street":"136 khu tập thể Cầu đường, tổ 1, Đa Sỹ","latitude":"20.9625523","name":"studio tvh","street_number":"136","type":"93","longitude":"105.7857915"},"way_id":599527184}
+{"request":{"street":"17 Đa Sỹ, Kiến Hưng","latitude":"20.9621867","name":"Cửa Hàng Đtdđ Hải Đăng","street_number":"17","type":"93","longitude":"105.7857258"},"way_id":599527184}
+{"request":{"street":"23 Đa Sỹ, Kiến Hưng","latitude":"20.9622384","name":"Cơ Sở Nhôm Kính Dũng Mai","street_number":"23","type":"93","longitude":"105.7854945"},"way_id":599527184}
+{"request":{"street":"22 Đa Sỹ, Kiến Hưng","latitude":"20.9621900","name":"Sửa Xe Quang Dũng","street_number":"22","type":"108","longitude":"105.7855000"},"way_id":599527184}
+{"request":{"street":"Tổ 2 Đa Sỹ, Kiến Hưng","latitude":"20.9621307","name":"Sửa xe máy Lưu Dũng","street_number":"undefined","type":"114","longitude":"105.7855430"},"way_id":599527184}
+{"request":{"street":"15 Đa Sỹ, Kiến Hưng","latitude":"20.9620800","name":"Tiệm Điện Lạnh Minh Phúc","street_number":"15","type":"114","longitude":"105.7856000"},"way_id":599527184}
+{"request":{"street":"Đa Sỹ","latitude":"20.9619913","name":"Kho đá BNP Stone VN","street_number":"undefined","type":"114","longitude":"105.7859936"},"way_id":599527184}
+{"request":{"street":"Số 86, Đa Sỹ","latitude":"20.9627049","name":"Lì Xì Chất - Xưởng in bao lì xì tết theo yêu cầu giá rẻ","street_number":"86","type":"93","longitude":"105.7855052"},"way_id":599527184}
+{"request":{"street":"21 Đa Sỹ, Kiến Hưng","latitude":"20.9621165","name":"Nb aquarium","street_number":"21","type":"93","longitude":"105.7855336"},"way_id":599527184}
+{"request":{"street":"70 Đa Sỹ, Kiến Hưng","latitude":"20.9620357","name":"Công Ty Tnhh Tấn Thành","street_number":"70","type":"114","longitude":"105.7856369"},"way_id":599527184}
+{"request":{"street":"5 Đa Sỹ, Kiến Hưng","latitude":"20.9623496","name":"Xưởng Rèn Cung Hà","street_number":"5","type":"93","longitude":"105.7854030"},"way_id":599527184}
+{"request":{"street":"Tổ 2 Đa Sỹ, Kiến Hưng","latitude":"20.9620689","name":"HRV Store","street_number":"undefined","type":"93","longitude":"105.7855755"},"way_id":599527184}
+{"request":{"street":"12 Đa Sỹ","latitude":"20.9621610","name":"Cửa Hàng Điện Nước Cường Hồng","street_number":"12","type":"93","longitude":"105.7854813"},"way_id":599527184}
+{"request":{"street":"19 Đa Sỹ, Kiến Hưng","latitude":"20.9620327","name":"Làng Nghề Rèn Đa Sỹ - Lê Công","street_number":"19","type":"114","longitude":"105.7856025"},"way_id":599527184}
+{"request":{"street":"5 Đa Sỹ","latitude":"20.9622802","name":"Công Ty Tnhh Thương Mại Và Đầu Tư Xây Dựng Tico Group","street_number":"5","type":"114","longitude":"105.7853932"},"way_id":599527184}
+{"request":{"street":"Đa Sỹ, Kiến Hưng","latitude":"20.9622070","name":"Cơ Sở Đá Ốp Lát","street_number":"undefined","type":"93","longitude":"105.7854073"},"way_id":599527184}
+{"request":{"street":"10, Tổ 2 Đa Sỹ, Kiến Hưng","latitude":"20.9620600","name":"Cửa Hàng Vật Tư Điện Nước Dũng Mai","street_number":"10","type":"93","longitude":"105.7855000"},"way_id":599527184}
+{"request":{"street":"Kiến Hưng","latitude":"20.9528073","name":"Kiến Hưng","street_number":"undefined","type":"2","longitude":"105.7850022"},"way_id":599527184}
+{"request":{"street":"Hữu Hoà","latitude":"20.9459030","name":"Hữu Hoà","street_number":"undefined","type":"2","longitude":"105.7967419"},"way_id":599197633}
+{"request":{"street":"cầu Tó, Kiến Hưng","latitude":"20.9565890","name":"Đại lý ủy quyền công tyTNHH thương nghiệp hợp phát","street_number":"undefined","type":"93","longitude":"105.7945630"},"way_id":599197633}
+{"request":{"street":"Liền kề 26, Khu đất đấu giá Mậu Lương, Hữu Hoà","latitude":"20.9563120","name":"CHI NHÁNH 6 CÔNG TY TNHH VẬT TƯ XÂY DỰNG VIỆT NAM","street_number":"undefined","type":"114","longitude":"105.7968569"},"way_id":599197633}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9562711","name":"Sân bóng Mậu Lương","street_number":"undefined","type":"114","longitude":"105.7935563"},"way_id":599197633}
+{"request":{"street":"Khu Giãn Dân Mậu Lương, Hữu Hoà","latitude":"20.9561615","name":"Trường Mầm Non Mậu Lương - Cơ Sở 1","street_number":"undefined","type":"5","longitude":"105.7955571"},"way_id":599197633}
+{"request":{"street":"Mậu Lương, Kiến Hưng","latitude":"20.9561214","name":"Shop vinci","street_number":"undefined","type":"93","longitude":"105.7953549"},"way_id":599197633}
+{"request":{"street":"37, Tổ 9, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hữu Hoà","latitude":"20.9561897","name":"Công Ty Trách Nhiệm Hữu Hạn Thương Mại Xây Dựng Hạ Tầng Quang Huy","street_number":"37","type":"114","longitude":"105.7955718"},"way_id":599197633}
+{"request":{"street":"45, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9562678","name":"Cửa Hàng Điện Thoại Mạnh Cường","street_number":"45","type":"93","longitude":"105.7955330"},"way_id":599197633}
+{"request":{"street":"23, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9562794","name":"Tạp hóa Hà Thu","street_number":"23","type":"93","longitude":"105.7954339"},"way_id":599197633}
+{"request":{"street":"4 Khu Giãn Dân Mậu Lương, Hữu Hoà","latitude":"20.9558891","name":"Công Ty Tnhh Thương Mại \u0026 Đầu Tư Nam Đô","street_number":"4","type":"114","longitude":"105.7954699"},"way_id":599197633}
+{"request":{"street":"39, Tổ 11, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hữu Hoà","latitude":"20.9563417","name":"Cửa Hàng Vật Tư Ngành Nước Thắng Hoàn","street_number":"39","type":"114","longitude":"105.7954405"},"way_id":599197633}
+{"request":{"street":"139 Đường Liên Xã Thôn Hữu Lê, Tả Thanh Oai","latitude":"20.9563430","name":"Chiến thắng inverter","street_number":"139","type":"114","longitude":"105.7955140"},"way_id":599197633}
+{"request":{"street":"Đa Sỹ, Kiến Hưng","latitude":"20.9562188","name":"Quán Phở Bò Nam Định","street_number":"undefined","type":"50","longitude":"105.7952454"},"way_id":599197633}
+{"request":{"street":"112 Mậu Lương, Hữu Hoà","latitude":"20.9563953","name":"Nhà Thuốc Thắng Lan","street_number":"112","type":"114","longitude":"105.7954441"},"way_id":599197633}
+{"request":{"street":"116 Mậu Lương, Kiến Hưng","latitude":"20.9563994","name":"Đại Lý : Hoàng Hùng","street_number":"116","type":"93","longitude":"105.7955320"},"way_id":599197633}
+{"request":{"street":"112 Mậu Lương, Kiến Hưng","latitude":"20.9564080","name":"NILON HƯƠNG QUẾ","street_number":"112","type":"93","longitude":"105.7954956"},"way_id":599197633}
+{"request":{"street":"Mậu Lương, Kiến Hưng","latitude":"20.9563425","name":"Miếu Thành Hoàng Mậu Lương","street_number":"undefined","type":"114","longitude":"105.7957203"},"way_id":599197633}
+{"request":{"street":"53, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hữu Hoà","latitude":"20.9561897","name":"Cửa Hàng Kim Khí Tổng Hợp Vinh Khanh","street_number":"53","type":"114","longitude":"105.7958293"},"way_id":599197633}
+{"request":{"street":"Quang Trung","latitude":"20.9652675","name":"Quang Trung","street_number":"undefined","type":"2","longitude":"105.7681278"},"way_id":687216053}
+{"request":{"street":"Khu đô thị Mỗ Lao, P.Mộ Lao, Q.Hà Đông, TP.Hà Nội","latitude":"20.9847221","name":"Trường THCS Mỗ Lao","street_number":"undefined","type":"5","longitude":"105.7832941"},"way_id":687216053}
+{"request":{"street":"undefined","latitude":"20.9737833","name":"Chung cư CT6 Văn Khê","street_number":"undefined","type":"114","longitude":"105.7640001"},"way_id":687216053}
+{"request":{"street":"undefined","latitude":"20.9730087","name":"Chung cư CT5AB Văn Khê","street_number":"undefined","type":"114","longitude":"105.7635338"},"way_id":687216053}
+{"request":{"street":"mulao mulberry lane","latitude":"20.9870110","name":"세호텔","street_number":"undefined","type":"24","longitude":"105.7854330"},"way_id":687216053}
+{"request":{"street":"Km10 Nguyễn Trãi, P. Văn Quán","latitude":"20.9805524","name":"Trường Đại Học Kiến Trúc Hà Nội","street_number":"undefined","type":"45","longitude":"105.7893665"},"way_id":687216053}
+{"request":{"street":"Cầu Chùa Ngòi, Ngô Quyền, P. Quang Trung","latitude":"20.9712148","name":"Chùa Ngòi Hà Đông","street_number":"undefined","type":"118","longitude":"105.7670113"},"way_id":687216053}
+{"request":{"street":"146 Trần Phú, P. Mộ Lao","latitude":"20.9760014","name":"AnVilla Hà Đông","street_number":"146","type":"24","longitude":"105.7819370"},"way_id":687216053}
+{"request":{"street":"BT6-B24 Van Quan commune area, Ha Dong, P. Văn Quán","latitude":"20.9776890","name":"BT6-B24 Villa","street_number":"undefined","type":"114","longitude":"105.7897250"},"way_id":687216053}
+{"request":{"street":"Vũ Trọng Khánh, P. Mộ Lao","latitude":"20.9783161","name":"Công Ty Cp Dịch Vụ Bảo Vệ Miền Bắc","street_number":"undefined","type":"114","longitude":"105.7818884"},"way_id":687216053}
+{"request":{"street":"B1 Lê Văn Lương kéo dài","latitude":"20.9826715","name":"Bất Động Sản Phát Lộc","street_number":"undefined","type":"114","longitude":"105.7707824"},"way_id":687216053}
+{"request":{"street":"2 Tây Sơn, P. Yết Kiêu","latitude":"20.9745800","name":"Công Ty Cổ Phần Đầu Tư Đại Thiên Phúc","street_number":"2","type":"114","longitude":"105.7769317"},"way_id":687216053}
+{"request":{"street":"Vietnam","latitude":"20.9695927","name":"Đại Lý Két Bạc Chấn Hường","street_number":"undefined","type":"93","longitude":"105.7739178"},"way_id":687216053}
+{"request":{"street":"Nguyễn Viết Xuân, Hà Cầu","latitude":"20.9694595","name":"Karaoke Sao Linh","street_number":"undefined","type":"115","longitude":"105.7674944"},"way_id":687216053}
+{"request":{"street":"Nhà A2 - C1 Khối 8, Phường Vạn Phúc, Vạn Phúc","latitude":"20.9786876","name":"CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU TÂN THIÊN PHÁT","street_number":"undefined","type":"114","longitude":"105.7717960"},"way_id":687216053}
+{"request":{"street":"136 KĐT MỖ Lao Vũ Trọng Khánh, P. Mộ Lao","latitude":"20.9799769","name":"Công ty Cp Công nghệ Linh Đàm","street_number":"136","type":"114","longitude":"105.7840207"},"way_id":687216053}
+{"request":{"street":"64 Phố Cầu Am, Vạn Phúc","latitude":"20.9788913","name":"Trạm Y tế phường Vạn Phúc","street_number":"64","type":"4","longitude":"105.7751548"},"way_id":687216053}
+{"request":{"street":"Tầng 5, Tòa nhà Simco-Sông Đà, Khu đô thị Vạn Phúc, phường Vạn Phúc, Hầ Đông, Vạn Phúc","latitude":"20.9821424","name":"Công ty Tự động hóa Sông Đà","street_number":"undefined","type":"114","longitude":"105.7671716"},"way_id":687216053}
+{"request":{"street":"150 Trần Phú, P. Mộ Lao","latitude":"20.9751056","name":"SeABank Hà Đông","street_number":"150","type":"59","longitude":"105.7807898"},"way_id":687216053}
+{"request":{"street":"Văn Quán","latitude":"20.9796446","name":"Văn Quán","street_number":"undefined","type":"2","longitude":"105.7923394"},"way_id":687216053}
+{"request":{"street":"54 tổ 11,Mậu Lương, P. Kiến Hưng,Q. Hà Đông,TP. Hà Nội","latitude":"20.9569550","name":"Công ty cổ phần sản xuất và kinh doanh thương mại TC","street_number":"54","type":"114","longitude":"105.7944818"},"way_id":599518197}
+{"request":{"street":"138, Tổ 10, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9568765","name":"Hợp Tác Xã Dịch Vụ Tổng Hợp Mậu Lương","street_number":"138","type":"114","longitude":"105.7944078"},"way_id":599518197}
+{"request":{"street":"Tầng 2, Nhà Văn Hóa Mậu Lương Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9568295","name":"Câu Lạc Bộ Thể Hình Bảo Minh","street_number":"undefined","type":"114","longitude":"105.7943502"},"way_id":599518197}
+{"request":{"street":"140, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9567845","name":"Đại Lý Gạo","street_number":"140","type":"114","longitude":"105.7945524"},"way_id":599518197}
+{"request":{"street":"22, Tổ 11 Đường Mậu Lương Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9567622","name":"Cửa Hàng Nhôm Kính Inox Phú Cường","street_number":"22","type":"93","longitude":"105.7945775"},"way_id":599518197}
+{"request":{"street":"85 Mậu Lương, Kiến Hưng","latitude":"20.9567222","name":"Công Ty Cổ Phần Toàn Cầu Hải Linh","street_number":"85","type":"114","longitude":"105.7944953"},"way_id":599518197}
+{"request":{"street":"81 Mậu Lương, Kiến Hưng","latitude":"20.9567303","name":"Hương Vị Việt","street_number":"81","type":"50","longitude":"105.7943698"},"way_id":599518197}
+{"request":{"street":"87 Mậu Lương, Kiến Hưng","latitude":"20.9567198","name":"Game Center 87 Mậu Lương - Net Tám Xuân 07","street_number":"87","type":"93","longitude":"105.7945699"},"way_id":599518197}
+{"request":{"street":"24, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9568095","name":"Cửa Hàng Điện Gia Dụng Bao Hương","street_number":"24","type":"93","longitude":"105.7947058"},"way_id":599518197}
+{"request":{"street":"79 Mậu Lương, Kiến Hưng","latitude":"20.9567369","name":"Nha Khoa An Du","street_number":"79","type":"4","longitude":"105.7943055"},"way_id":599518197}
+{"request":{"street":"7 Đa Sỹ, Kiến Hưng","latitude":"20.9567343","name":"Nha Khoa Thẩm Mỹ","street_number":"7","type":"4","longitude":"105.7942893"},"way_id":599518197}
+{"request":{"street":"19, Tổ Dân Phố 11, Phường Kiến Hưng, Quận Hà Đông, Thành Phố Hà Nội, Thành Phố Hà Nội","latitude":"20.9567346","name":"Phòng Khám Răng Hàm Mặt 19","street_number":"19","type":"4","longitude":"105.7942876"},"way_id":599518197}
+{"request":{"street":"22 Đa Sỹ, Kiến Hưng","latitude":"20.9566729","name":"Cơ Sở Sản Xuất Bánh Mì Kiến Hưng","street_number":"22","type":"50","longitude":"105.7944872"},"way_id":599518197}
+{"request":{"street":"8 Đa Sỹ, Kiến Hưng","latitude":"20.9567251","name":"Nhà Thuốc Quỳnh Hương","street_number":"8","type":"93","longitude":"105.7942885"},"way_id":599518197}
+{"request":{"street":"81 Mậu Lương, Kiến Hưng","latitude":"20.9566549","name":"Phòng KD Tư Vấn Lucky House - Kiến Hưng","street_number":"81","type":"114","longitude":"105.7944324"},"way_id":599518197}
+{"request":{"street":"Đa Sỹ, Kiến Hưng","latitude":"20.9566405","name":"Nhà Thuốc Tân Dược","street_number":"undefined","type":"93","longitude":"105.7944560"},"way_id":599518197}
+{"request":{"street":"Kiến Hưng","latitude":"20.9584268","name":"Mậu Lương","street_number":"undefined","type":"114","longitude":"105.7945406"},"way_id":599518197}
+{"request":{"street":"Tả Thanh Oai","latitude":"20.9332030","name":"Tả Thanh Oai","street_number":"undefined","type":"2","longitude":"105.8084823"},"way_id":599508339}
+{"request":{"street":"Đường Cầu Bươu, Tân Triều","latitude":"20.9584977","name":"Cồ Minh Lợi","street_number":"undefined","type":"114","longitude":"105.8036904"},"way_id":599508339}
+{"request":{"street":"Ngõ 2, Tân Triều","latitude":"20.9579179","name":"Cơ sở phân phối rượu cần Hòa Bình Hoa Long Cát","street_number":"undefined","type":"93","longitude":"105.8032912"},"way_id":599508339}
+{"request":{"street":"64, Đường Cầu Bươu, Phường Phúc La, Quận Hà Đông, Tân Triều","latitude":"20.9590446","name":"Cửa Hàng Sâm Nấm - Linh Chi Korea","street_number":"64","type":"93","longitude":"105.8037340"},"way_id":599508339}
+{"request":{"street":"Số 58 Ngõ 2, Đường Phan Trọng Tuệ, Tân Triều","latitude":"20.9587700","name":"Công ty cổ phần tư vấn thiết kế và thương mại Thăng Long","street_number":"58","type":"114","longitude":"105.8040000"},"way_id":599508339}
+{"request":{"street":"46, Quang Trung, Quận Hà Đông, Thành Phố Hà Nội, Tân Triều","latitude":"20.9587115","name":"Cửa Hàng Vật Liệu Xây Dựng Nguyễn Văn Thái","street_number":"46","type":"93","longitude":"105.8034420"},"way_id":599508339}
+{"request":{"street":"undefined","latitude":"20.9587173","name":"Tiệc Mạnh Đức","street_number":"undefined","type":"50","longitude":"105.8036158"},"way_id":599508339}
+{"request":{"street":"Số nhà 22B, Ngõ 2 Cầu Bươu, Huyện Thanh Trì","latitude":"20.9581725","name":"Showroom Nội Thất Thông Minh X HOME","street_number":"undefined","type":"93","longitude":"105.8032670"},"way_id":599508339}
+{"request":{"street":"Tân Triều","latitude":"20.9588707","name":"Xí Nghiệp Mộc Đức","street_number":"undefined","type":"114","longitude":"105.8030562"},"way_id":599508339}
+{"request":{"street":"17 Ngõ 2, Tân Triều","latitude":"20.9580975","name":"Bất động sản tân triều mới","street_number":"17","type":"24","longitude":"105.8034480"},"way_id":599508339}
+{"request":{"street":"Số 120 Ngõ 115 TT Mộc Đức","latitude":"20.9585784","name":"Công ty Cổ phần Phụ Tùng Ô Tô Thành Nam","street_number":"120","type":"93","longitude":"105.8027692"},"way_id":599508339}
+{"request":{"street":"11, Ngõ 2 Đường Cầu Bươu, Tân Triều","latitude":"20.9584700","name":"Quầy Thuốc Phúc Sang","street_number":"11","type":"93","longitude":"105.8039000"},"way_id":599508339}
+{"request":{"street":"91, Phan Trong Tue Street, Ha Dong District, Tân Triều","latitude":"20.9583912","name":"Hung An Grocery Store","street_number":"91","type":"93","longitude":"105.8040063"},"way_id":599508339}
+{"request":{"street":"Tân Triều","latitude":"20.9589020","name":"Trạm bơm Cầu Bươu","street_number":"undefined","type":"114","longitude":"105.8039329"},"way_id":599508339}
+{"request":{"street":"số 59 Đường Cầu Bươu, Tân Triều","latitude":"20.9591243","name":"Cửa hàng Đá ốp lát Công Đại","street_number":"59","type":"114","longitude":"105.8036886"},"way_id":599508339}
+{"request":{"street":"ADD: SỐ, 38 Mậu Lương, Kiến Hưng","latitude":"20.9570336","name":"quangcaoledviet","street_number":"undefined","type":"114","longitude":"105.7913384"},"way_id":599536677}
+{"request":{"street":"12 Đặng Tiến Đông, Kiến Hưng","latitude":"20.9567157","name":"GẠO TƯƠI --- gaotuoi.vn","street_number":"12","type":"93","longitude":"105.7917041"},"way_id":599536677}
+{"request":{"street":"137 Tổ 10 tp, Kiến Hưng","latitude":"20.9562686","name":"Công Ty Cổ Phần Công Nghệ CKT Việt Nam","street_number":"137","type":"114","longitude":"105.7923491"},"way_id":599536677}
+{"request":{"street":"Kiến Hưng","latitude":"20.9560557","name":"Công ty Cổ phần S.B Việt Nam","street_number":"undefined","type":"114","longitude":"105.7920136"},"way_id":599536677}
+{"request":{"street":"Số 32 Mậu Lương, Kiến Hưng","latitude":"20.9568995","name":"KYMDAN, EVERON ĐỨC THU","street_number":"32","type":"93","longitude":"105.7920302"},"way_id":599536677}
+{"request":{"street":"Lô 2 liền kề 2 khu đấu giá, Mậu Lương","latitude":"20.9554229","name":"Công ty TNHH PIENO VIỆT NAM","street_number":"undefined","type":"93","longitude":"105.7931417"},"way_id":599536677}
+{"request":{"street":"LK-240/DV 04, Hàng Bè, Khu đô thị Mậu Lương","latitude":"20.9551328","name":"ACE Jsc","street_number":"undefined","type":"114","longitude":"105.7928237"},"way_id":599536677}
+{"request":{"street":"26 Liền kề 14, Mậu Lương, Kiến Hưng","latitude":"20.9549723","name":"Vua Kem Thủy Châu","street_number":"26","type":"13","longitude":"105.7937372"},"way_id":599536677}
+{"request":{"street":"Lô CTT10-12, KĐT Kiến Hưng Luxury","latitude":"20.9554070","name":"VNTECHCO","street_number":"undefined","type":"93","longitude":"105.7898461"},"way_id":599536677}
+{"request":{"street":"Kiến Hưng","latitude":"20.9548347","name":"Watercon - công ty thủy châu","street_number":"undefined","type":"93","longitude":"105.7936905"},"way_id":599536677}
+{"request":{"street":"Kiến Hưng","latitude":"20.9540697","name":"Labcoop Jsc","street_number":"undefined","type":"114","longitude":"105.7932410"},"way_id":599536677}
+{"request":{"street":"38, Tổ 3, Phường Kiến Hưng, Quận Hà Đông, P. Phúc La","latitude":"20.9601143","name":"Công Ty Cổ Phần Kiến Trúc Xây Dựng Vina BTN","street_number":"38","type":"114","longitude":"105.7923692"},"way_id":599536677}
+{"request":{"street":"Kiến Hưng","latitude":"20.9587470","name":"Trường THCS Kiến Hưng","street_number":"undefined","type":"5","longitude":"105.7885498"},"way_id":599536677}
+{"request":{"street":"70 Đa Sỹ, Kiến Hưng","latitude":"20.9594727","name":"Trường Tiểu Học Kiến Hưng","street_number":"70","type":"5","longitude":"105.7892211"},"way_id":599536677}
+{"request":{"street":"66 Phố Phúc La, Khu đô thị Xa La","latitude":"20.9605485","name":"Khách Sạn Mường Thanh Grand Xa La","street_number":"66","type":"24","longitude":"105.7918568"},"way_id":599536677}
+{"request":{"street":"Tân Triều","latitude":"20.9712048","name":"Tân Triều","street_number":"undefined","type":"2","longitude":"105.8010533"},"way_id":599536677}
+{"request":{"street":"Số 12, 70A, Vạn Phúc","latitude":"20.9808385","name":"Nha Khoa Vạn Phúc","street_number":"12","type":"4","longitude":"105.7717874"},"way_id":596749902}
+{"request":{"street":"Phuong, Đường Vạn Phúc, Vạn Phúc","latitude":"20.9794270","name":"NUGAVANPHUC","street_number":"undefined","type":"114","longitude":"105.7725980"},"way_id":596749902}
+{"request":{"street":"Đường 430, Vạn Phúc, Hà Đông, Vạn Phúc","latitude":"20.9794279","name":"CÔNG TY TNHH XD VÀ TM PHONG CÁCH MỚI","street_number":"undefined","type":"114","longitude":"105.7725985"},"way_id":596749902}
+{"request":{"street":"5 Ngách 10 Ngõ 81, TDP 10","latitude":"20.9796055","name":"Bông - Toysreview-TV","street_number":"5","type":"93","longitude":"105.7724060"},"way_id":596749902}
+{"request":{"street":"66 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9805259","name":"Siêu thị Thế Giới Di Động","street_number":"66","type":"93","longitude":"105.7720316"},"way_id":596749902}
+{"request":{"street":"Lô D12 Khu đấu giá QSĐ","latitude":"20.9813250","name":"Công ty TNHH Hãng Kiểm toán và Định giá ATC","street_number":"undefined","type":"114","longitude":"105.7723847"},"way_id":596749902}
+{"request":{"street":"Lô D2, Lê Văn Tám, Vạn Phúc","latitude":"20.9816049","name":"Hawee Group","street_number":"undefined","type":"114","longitude":"105.7721334"},"way_id":596749902}
+{"request":{"street":"21, Cánh Kiến, Phường Vạn Phúc, Quận Hà Đông, Thành Phố Hà Nội, Vạn Phúc","latitude":"20.9808674","name":"Cửa Hàng Nội Thất Gỗ Đẹp Phương Nam","street_number":"21","type":"93","longitude":"105.7715759"},"way_id":596749902}
+{"request":{"street":"110 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9809801","name":"Trung Tâm Trưng Bày \u0026 Bán Sản Phẩm Thiết Bị Vệ Sinh Thuận Phát","street_number":"110","type":"93","longitude":"105.7715729"},"way_id":596749902}
+{"request":{"street":"Vạn Phúc","latitude":"20.9816243","name":"Công Ty CP Hawee Năng Lượng","street_number":"undefined","type":"114","longitude":"105.7720330"},"way_id":596749902}
+{"request":{"street":"Phường Vạn Phúc, Quận Hà Đông, Vạn Phúc","latitude":"20.9815857","name":"Công Ty Xây Dựng Tín Phú","street_number":"undefined","type":"114","longitude":"105.7717960"},"way_id":596749902}
+{"request":{"street":"1 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9795953","name":"Đại Lý Sơn Thành Trung","street_number":"1","type":"93","longitude":"105.7723444"},"way_id":596749902}
+{"request":{"street":"286, Đường 430, Phường Vạn Phúc, Quận Hà Đông, Thành Phố Hà Nội, Vạn Phúc","latitude":"20.9794731","name":"Cửa Hàng Rèm Mỹ Anh","street_number":"286","type":"93","longitude":"105.7725143"},"way_id":596749902}
+{"request":{"street":"23 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9813911","name":"Cơ Sở Cửa Cuốn - Thủy Lực Hoàng Phát","street_number":"23","type":"114","longitude":"105.7713612"},"way_id":596749902}
+{"request":{"street":"ngõ 7 Phố Lụa, Vạn Phúc","latitude":"20.9802459","name":"Gương Soi Hữu Thành","street_number":"undefined","type":"114","longitude":"105.7739109"},"way_id":596749902}
+{"request":{"street":"Đường tỉnh 70A, Vạn Phúc","latitude":"20.9816988","name":"Tin Học Thiên Long","street_number":"undefined","type":"114","longitude":"105.7715070"},"way_id":596749902}
+{"request":{"street":"54 Đường tỉnh 70A, Vạn Phúc","latitude":"20.9821173","name":"Cửa hàng Hoa cây cảnh Seelife","street_number":"54","type":"114","longitude":"105.7722768"},"way_id":596749902}
+{"request":{"street":"Vạn Phúc","latitude":"20.9805148","name":"làng Vạn Phúc","street_number":"undefined","type":"114","longitude":"105.7754643"},"way_id":596749902}
+{"request":{"street":"Cự Khê","latitude":"20.9238282","name":"Cự Khê","street_number":"undefined","type":"2","longitude":"105.7850022"},"way_id":595927269}
+{"request":{"street":"Lk514-Dịch vụ 11, khu nhà Bè, Kiến Hưng","latitude":"20.9502821","name":"Bể hải sản-Hải sản Vugreen","street_number":"undefined","type":"114","longitude":"105.7895644"},"way_id":595927269}
+{"request":{"street":"LK495 DV10 Tổ 19","latitude":"20.9491599","name":"Dầu gội đen tóc Komi","street_number":"undefined","type":"93","longitude":"105.7900231"},"way_id":595927269}
+{"request":{"street":"Liền kề 495, Dịch vụ 10, Tổ 19","latitude":"20.9490084","name":"Shop Nội Thất Ô tô","street_number":"undefined","type":"93","longitude":"105.7900262"},"way_id":595927269}
+{"request":{"street":"Dịch vụ 22, liền kề 935, Khu đô thị Mậu Lương","latitude":"20.9485734","name":"Công Ty TNHH Kiến Trúc Xây Dựng Hưng Thịnh","street_number":"undefined","type":"114","longitude":"105.7900882"},"way_id":595927269}
+{"request":{"street":"Lô 397 Dịch vụ 8 Đào Đất - Hàng Bè, Dịch vụ 10, Kiến Hưng","latitude":"20.9499563","name":"Dạy Trẻ Tự Kỷ","street_number":"undefined","type":"114","longitude":"105.7901953"},"way_id":595927269}
+{"request":{"street":"Dịch Vụ 15 - Hàng Bè, Mậu Lương, Kiến Hưng","latitude":"20.9489840","name":"Thời trang OVY","street_number":"undefined","type":"93","longitude":"105.7881496"},"way_id":595927269}
+{"request":{"street":"undefined","latitude":"20.9467918","name":"Công ty CPĐTXD và DVTM Thăng Long","street_number":"undefined","type":"114","longitude":"105.7905816"},"way_id":595927269}
+{"request":{"street":"Hữu Hoà","latitude":"20.9475861","name":"Nội thất hà đông","street_number":"undefined","type":"114","longitude":"105.7928940"},"way_id":595927269}
+{"request":{"street":"Tòa 19T1, Tầng 1, Khu đô thị","latitude":"20.9449243","name":"Co.op Food Hà Đông Lucky House - Siêu Thị Vũ Gia","street_number":"undefined","type":"93","longitude":"105.7897085"},"way_id":595927269}
+{"request":{"street":"Hữu Hoà","latitude":"20.9447696","name":"shop phuongngoc5a","street_number":"undefined","type":"93","longitude":"105.7922185"},"way_id":595927269}
+{"request":{"street":"Tòa Nhà CT6C, Phường Kiến Hưng, Quận Hà Đông","latitude":"20.9442035","name":"Công Ty Cổ Phần Thiết Bị Và Công Nghệ Etco Việt Nam","street_number":"undefined","type":"93","longitude":"105.7919770"},"way_id":595927269}
+{"request":{"street":"17/41, Xã Hữu Hoà, Huyện Thanh Trì, Thành Phố Hà Nội, Hữu Hoà","latitude":"20.9427033","name":"Công Ty TNHH Đầu Tư Cơ Khí Phương Linh","street_number":"undefined","type":"114","longitude":"105.7930183"},"way_id":595927269}
+{"request":{"street":"undefined","latitude":"20.9578964","name":"Kho KOS","street_number":"undefined","type":"126","longitude":"105.7804545"},"way_id":599546940}
+{"request":{"street":"Sport and green park complex, Kien Hung ward, Ha Dong district","latitude":"20.9594737","name":"Vietnam Manpower Supply \u0026 Commercial ., JSC","street_number":"undefined","type":"114","longitude":"105.7802777"},"way_id":599546940}
+{"request":{"street":"undefined","latitude":"20.9588023","name":"Công ty Giang Thủy - Công ty TNHH Dịch vụ Đầu tư và Thương Mại Giang Thủy","street_number":"undefined","type":"114","longitude":"105.7819393"},"way_id":599546940}
+{"request":{"street":"Kiến Hưng","latitude":"20.9589556","name":"Công ty TNHH TM\u0026Quảng cáo Hùng Vương","street_number":"undefined","type":"114","longitude":"105.7819408"},"way_id":599546940}
+{"request":{"street":"Đường Tô Hiệu, Kiến Hưng","latitude":"20.9579202","name":"Sân Tập Golf Hà Đông","street_number":"undefined","type":"114","longitude":"105.7783373"},"way_id":599546940}
+{"request":{"street":"Đa Sỹ, Kiến Hưng","latitude":"20.9590751","name":"Đại Lý Sơn Emaxx","street_number":"undefined","type":"93","longitude":"105.7825953"},"way_id":599546940}
+{"request":{"street":"Kiến Hưng","latitude":"20.9588734","name":"kho đá","street_number":"undefined","type":"114","longitude":"105.7778805"},"way_id":599546940}
+{"request":{"street":"undefined","latitude":"20.9597364","name":"Nhà Hàng Bia Hơi 100","street_number":"undefined","type":"50","longitude":"105.7781374"},"way_id":599546940}
+{"request":{"street":"undefined","latitude":"20.9579593","name":"Sưởng Gỗ Hải Anh","street_number":"undefined","type":"114","longitude":"105.7803439"},"way_id":599546940}
+{"request":{"street":"undefined","latitude":"20.9580495","name":"Kho Kinh Đô","street_number":"undefined","type":"126","longitude":"105.7802447"},"way_id":599546940}
+{"request":{"street":"undefined","latitude":"20.9578910","name":"Kho vali kéo hà nội kos hà cầu","street_number":"undefined","type":"114","longitude":"105.7804961"},"way_id":599546940}
+{"request":{"street":"đường Phố Cầu Đơ, Kiến Hưng","latitude":"20.9578663","name":"Tổng kho vách vệ sinh compact - AID việt nam","street_number":"undefined","type":"93","longitude":"105.7805214"},"way_id":599546940}
+{"request":{"street":"khu liên hợp thể thao cây xanh sau sân bóng Cường, Quốc 2","latitude":"20.9577449","name":"Công ty TNHH MTV G-D Hà Nội","street_number":"undefined","type":"114","longitude":"105.7804413"},"way_id":599546940}
+{"request":{"street":"undefined","latitude":"20.9577245","name":"Bảo Hộ Nam Bình","street_number":"undefined","type":"114","longitude":"105.7803684"},"way_id":599546940}
+{"request":{"street":"Khu giao thương 365, Phố Tô Hiệu, Kiến Hưng","latitude":"20.9583623","name":"Xưởng PQH","street_number":"undefined","type":"114","longitude":"105.7806031"},"way_id":599546940}
+{"request":{"street":"Kiến Hưng","latitude":"20.9584795","name":"Công viên Hà Cầu","street_number":"undefined","type":"54","longitude":"105.7802265"},"way_id":599546940}
+{"request":{"street":"Khu Công Viên Cây Xanh","latitude":"20.9585668","name":"Nhà hàng Tre Viên Quán, Nhà hàng ngon tại Hà Đông Hà Nội, Quán ăn ngon tại Hà Đông Hà Nội","street_number":"undefined","type":"50","longitude":"105.7802961"},"way_id":599546940}
+{"request":{"street":"Dịch vụ - Thể thao – Cây xanh, Khu, Lô CX-DV4","latitude":"20.9585978","name":"PHÚ QUANG HƯNG TECHNOLOGY JSC","street_number":"undefined","type":"114","longitude":"105.7805552"},"way_id":599546940}
+{"request":{"street":"Hà Cầu","latitude":"20.9636429","name":"Hà Cầu","street_number":"undefined","type":"2","longitude":"105.7776653"},"way_id":599546940}
+{"request":{"street":"Mộ Lao","latitude":"20.9833749","name":"Mộ Lao","street_number":"undefined","type":"2","longitude":"105.7835348"},"way_id":684921433}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9812255","name":"Nhà Thuốc Song Châu","street_number":"undefined","type":"93","longitude":"105.7765442"},"way_id":684921433}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9812505","name":"Cửa Hàng Tạp Hóa Vân Dương","street_number":"undefined","type":"93","longitude":"105.7765281"},"way_id":684921433}
+{"request":{"street":"Số 12 Ngõ 133, Vạn Phúc","latitude":"20.9812284","name":"Elemento Viet Nam","street_number":"12","type":"93","longitude":"105.7768710"},"way_id":684921433}
+{"request":{"street":"Số 133 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9810483","name":"Phòng Khám Đông Y Gia Phúc","street_number":"133","type":"4","longitude":"105.7767741"},"way_id":684921433}
+{"request":{"street":"Số 1 Ngõ 75 Phố Lụa, làng Vạn Phúc","latitude":"20.9812183","name":"Hà Kiều Hair Salon","street_number":"1","type":"100","longitude":"105.7763476"},"way_id":684921433}
+{"request":{"street":"79 Phố Lụa, Vạn Phúc","latitude":"20.9811000","name":"Tiệm Sửa Xe Giang Sơn","street_number":"79","type":"108","longitude":"105.7764130"},"way_id":684921433}
+{"request":{"street":"8 Ngõ 77 Phố Lụa, Vạn Phúc","latitude":"20.9815010","name":"Co Diesel","street_number":"8","type":"115","longitude":"105.7768500"},"way_id":684921433}
+{"request":{"street":"Unnamed Road","latitude":"20.9811040","name":"Thịt xiên nướng bà béo","street_number":"undefined","type":"114","longitude":"105.7763803"},"way_id":684921433}
+{"request":{"street":"52 Phố Lụa, Vạn Phúc","latitude":"20.9810714","name":"Cửa Hàng Điện Gia Dụng Việt","street_number":"52","type":"93","longitude":"105.7763736"},"way_id":684921433}
+{"request":{"street":"Phố Lụa, Phường Vạn Phúc, Quận Hà Đông, Thành Phố Hà Nội, Vạn Phúc","latitude":"20.9810455","name":"Đại Lý Tạp Hóa Vân Nhi","street_number":"undefined","type":"93","longitude":"105.7763312"},"way_id":684921433}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9810952","name":"Cửa Hàng Tạp Hóa Vân Nhi","street_number":"undefined","type":"93","longitude":"105.7762921"},"way_id":684921433}
+{"request":{"street":"Phố Lụa, Vạn Phúc","latitude":"20.9817537","name":"CÔNG TY VỆ SINH CÔNG NGHIỆP HÀ NỘI","street_number":"undefined","type":"114","longitude":"105.7767104"},"way_id":684921433}
+{"request":{"street":"Số 71 Phố Lụa, Vạn Phúc","latitude":"20.9810080","name":"Thịt Xiên Bác Tần","street_number":"71","type":"50","longitude":"105.7762033"},"way_id":684921433}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9811153","name":"Miếu Cổ Vạn Phúc","street_number":"undefined","type":"114","longitude":"105.7771450"},"way_id":684921433}
+{"request":{"street":"Vietnam","latitude":"20.9809482","name":"Hùng Vạn Phúc Dán Xe Máy Dán Điện Thoại - Laptop","street_number":"undefined","type":"114","longitude":"105.7761908"},"way_id":684921433}
+{"request":{"street":"Số 70 đường Phố Lụa, Vạn Phúc","latitude":"20.9807692","name":"Công ty TNHH Đầu tư xây dựng và Thiết kế Thái Anh","street_number":"70","type":"114","longitude":"105.7768182"},"way_id":684921433}
+{"request":{"street":"159 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9815160","name":"Công Ty Tnhh Thương Mại Dịch Vụ Euro Glass Window","street_number":"159","type":"114","longitude":"105.7771772"},"way_id":684921433}
+{"request":{"street":"Khối Độc Lập, Kim Mã","latitude":"20.9809630","name":"Nhà Thuốc Phúc Sinh","street_number":"undefined","type":"93","longitude":"105.7761460"},"way_id":684921433}
+{"request":{"street":"undefined","latitude":"20.9586421","name":"PHÚ QUANG HƯNG","street_number":"undefined","type":"114","longitude":"105.7802778"},"way_id":599546938}
+{"request":{"street":"undefined","latitude":"20.9576947","name":"kho vinatesco","street_number":"undefined","type":"114","longitude":"105.7809718"},"way_id":599546938}
+{"request":{"street":"Khu thể thao - cây xanh Hà Đông, phường Hà Cầu, quận Hà Đông","latitude":"20.9581865","name":"Nhà hàng Tukibar","street_number":"undefined","type":"50","longitude":"105.7796379"},"way_id":599546938}
+{"request":{"street":"Kiến Hưng, Kiến Hưng","latitude":"20.9588474","name":"Sân Bóng Cường Quốc 2","street_number":"undefined","type":"114","longitude":"105.7811783"},"way_id":599546938}
+{"request":{"street":"undefined","latitude":"20.9573462","name":"Nhà máy TLC LIGHTING","street_number":"undefined","type":"114","longitude":"105.7802212"},"way_id":599546938}
+{"request":{"street":"undefined","latitude":"20.9575197","name":"Xưởng Greenplus","street_number":"undefined","type":"114","longitude":"105.7813140"},"way_id":599546938}
+{"request":{"street":"Kiến Hưng","latitude":"20.9592584","name":"Đa Sỹ","street_number":"undefined","type":"114","longitude":"105.7857359"},"way_id":599546938}
+{"request":{"street":"Dịch Vụ 14, Đìa lão","latitude":"20.9485381","name":"Công ty kizuna","street_number":"undefined","type":"114","longitude":"105.7936352"},"way_id":599197622}
+{"request":{"street":"Unnamed Road, Hữu Hoà","latitude":"20.9487152","name":"Công ty cổ phần dược ABO","street_number":"undefined","type":"114","longitude":"105.7937496"},"way_id":599197622}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9488364","name":"Công ty Cổ phần xây lắp cơ điện lạnh Trần Gia","street_number":"undefined","type":"114","longitude":"105.7935692"},"way_id":599197622}
+{"request":{"street":"Mậu Lương, Hữu Hoà","latitude":"20.9488907","name":"Hùng Bụi Quán","street_number":"undefined","type":"50","longitude":"105.7939851"},"way_id":599197622}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9484625","name":"Lk531 DV13","street_number":"undefined","type":"114","longitude":"105.7932949"},"way_id":599197622}
+{"request":{"street":"LK531-DV13 - Đìa Lão, Mậu Lương","latitude":"20.9484125","name":"Cty An Gia NPP cửa Austdoor","street_number":"undefined","type":"93","longitude":"105.7932651"},"way_id":599197622}
+{"request":{"street":"Unnamed Road, Hữu Hòa, Hữu Hoà","latitude":"20.9489159","name":"Chill","street_number":"undefined","type":"50","longitude":"105.7941180"},"way_id":599197622}
+{"request":{"street":"Dịch vụ 13 liền kề 538 địa lão, Kiến Hưng","latitude":"20.9481865","name":"Học Viện Phong Thuỷ YangYin","street_number":"undefined","type":"114","longitude":"105.7932035"},"way_id":599197622}
+{"request":{"street":"Vietnam","latitude":"20.9486504","name":"Design Led","street_number":"undefined","type":"93","longitude":"105.7931059"},"way_id":599197622}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9479977","name":"Công ty TNHH -TM-DV \u0026 SX nước tinh khiết Anh Vôn","street_number":"undefined","type":"114","longitude":"105.7933604"},"way_id":599197622}
+{"request":{"street":"Unnamed Road, Hữu Hoà","latitude":"20.9488160","name":"LK513 -DV 13","street_number":"undefined","type":"114","longitude":"105.7931290"},"way_id":599197622}
+{"request":{"street":"Vietnam","latitude":"20.9489023","name":"Cơ Khí Minh Tuân","street_number":"undefined","type":"114","longitude":"105.7931751"},"way_id":599197622}
+{"request":{"street":"undefined","latitude":"20.9478022","name":"Baliaqua _ Nước Tinh Khiết Hà Nội","street_number":"undefined","type":"114","longitude":"105.7934154"},"way_id":599197622}
+{"request":{"street":"Unnamed Road, Hữu Hoà","latitude":"20.9477310","name":"Văn phòng Pin Mr Li","street_number":"undefined","type":"114","longitude":"105.7935070"},"way_id":599197622}
+{"request":{"street":"Unnamed Road, Hữu Hoà","latitude":"20.9482200","name":"LK497-DV13","street_number":"undefined","type":"24","longitude":"105.7929530"},"way_id":599197622}
+{"request":{"street":"Unnamed Road","latitude":"20.9488561","name":"274-DV7 Đìa Lão","street_number":"undefined","type":"114","longitude":"105.7929427"},"way_id":599197622}
+{"request":{"street":"Liền kề 472 - Dịch vụ 12 (LK472 - DV12, Khu đô thị Mậu Lương","latitude":"20.9479515","name":"Liền kề 472 - Dịch vụ 12 (LK472 - DV12)","street_number":"undefined","type":"114","longitude":"105.7930485"},"way_id":599197622}
+{"request":{"street":"81 Phố Lụa, Vạn Phúc","latitude":"20.9806665","name":"Cửa Hàng Vàng Mã Mậu Thắng","street_number":"81","type":"93","longitude":"105.7768604"},"way_id":684921421}
+{"request":{"street":"Phố Lụa, Vạn Phúc","latitude":"20.9807455","name":"GD Electric - Tổng Đại Lý Thiết Bị Điện: Công Tơ Điện, Máy Biến Dòng Điện, Dây Điện","street_number":"undefined","type":"93","longitude":"105.7771570"},"way_id":684921421}
+{"request":{"street":"Cổng Miếu, Phố Lụa, Phường Vạn Phúc, Quận Hà Đông, Vạn Phúc","latitude":"20.9806094","name":"Cửa Hàng Khung Nhôm Kính Thủy Nam","street_number":"undefined","type":"93","longitude":"105.7772573"},"way_id":684921421}
+{"request":{"street":"số nhà 03,ngách 36/7, ngõ 36, Phố Lụa, Vạn Phúc","latitude":"20.9807360","name":"Boss Cheese - Đồ ăn vặt online","street_number":"03","type":"50","longitude":"105.7764700"},"way_id":684921421}
+{"request":{"street":"số nhà 3, ngách 36/7, ngõ 36, Phố Lụa, Vạn Phúc","latitude":"20.9806950","name":"Boss cheese - Đồ ăn vặt online","street_number":"3","type":"50","longitude":"105.7763950"},"way_id":684921421}
+{"request":{"street":"làng Vạn Phúc","latitude":"20.9806225","name":"Nhà 7a","street_number":"undefined","type":"114","longitude":"105.7762384"},"way_id":684921421}
+{"request":{"street":"64 Phố Cầu Am, Vạn Phúc","latitude":"20.9786810","name":"Tiệm Bạc Ngọc Long","street_number":"64","type":"93","longitude":"105.7753445"},"way_id":684922994}
+{"request":{"street":"Tầng 1, số nhà 8, khối 7, phường Vạn Phúc, Hà Đông, Vạn Phúc","latitude":"20.9790657","name":"CÔNG TY CỔ PHẦN THƯƠNG MẠI TRỰC TUYẾN VINASOC","street_number":"undefined","type":"114","longitude":"105.7754643"},"way_id":684922994}
+{"request":{"street":"Số Q., 22 Ngõ 58 Đường Thanh Bình, Vạn Phúc","latitude":"20.9786247","name":"Công ty TNHH Cơ Khí Xây Dựng \u0026 Thương Mại Văn Phú","street_number":"undefined","type":"114","longitude":"105.7761643"},"way_id":684922994}
+{"request":{"street":"25 Ngõ 58 Đường Thanh Bình, Vạn Phúc","latitude":"20.9786331","name":"Công ty TNHH Simplex Vietnam","street_number":"25","type":"114","longitude":"105.7761820"},"way_id":684922994}
+{"request":{"street":"Đối diện tổ dân phố 8, Đường Vạn Phúc, Vạn Phúc","latitude":"20.9783254","name":"Công ty TNHH đầu tư thương mại và xây dựng Phúc Vinh Thịnh","street_number":"undefined","type":"114","longitude":"105.7744494"},"way_id":684922994}
+{"request":{"street":"101, Chợ Vạn Phúc, Quận Hà Đông, Thành Phố Hà Nội, Vạn Phúc","latitude":"20.9787120","name":"Cửa Hàng Chăn Ga Gối Đệm Thắng Vịnh","street_number":"101","type":"93","longitude":"105.7752460"},"way_id":684922994}
+{"request":{"street":"undefined","latitude":"20.9786970","name":"Vạn Phúc GYM CENTER","street_number":"undefined","type":"4","longitude":"105.7753258"},"way_id":684922994}
+{"request":{"street":"Khối Quyết tiến - P Vạn Phúc, Phường Vạn Phúc, Vạn Phúc","latitude":"20.9786910","name":"Công ty TNHH Tư vấn đầu tư xây dựng điện lực","street_number":"undefined","type":"114","longitude":"105.7753050"},"way_id":684922994}
+{"request":{"street":"64 Phố Cầu Am, Vạn Phúc","latitude":"20.9786811","name":"Nhà Văn Hóa Quyết Thắng","street_number":"64","type":"114","longitude":"105.7753446"},"way_id":684922994}
+{"request":{"street":"66 Phố Cầu Am, Vạn Phúc","latitude":"20.9786941","name":"Nhà May Thúy","street_number":"66","type":"93","longitude":"105.7751880"},"way_id":684922994}
+{"request":{"street":"gô Đông, Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9805630","name":"BeSun Shop - Tiệm đồ Handmade","street_number":"undefined","type":"93","longitude":"105.7776774"},"way_id":684921432}
+{"request":{"street":"135 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9806394","name":"Phòng Chẩn Trị Y Học Cổ Truyền Gia Phúc","street_number":"135","type":"114","longitude":"105.7776868"},"way_id":684921432}
+{"request":{"street":"135 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9806394","name":"Cửa Hàng Tạp Hóa Long Vũ","street_number":"135","type":"93","longitude":"105.7777029"},"way_id":684921432}
+{"request":{"street":"131 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9805500","name":"Nhung Chi","street_number":"131","type":"114","longitude":"105.7777396"},"way_id":684921432}
+{"request":{"street":"129 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9805894","name":"Cơ Sở May Đo Ngọc Mai","street_number":"129","type":"93","longitude":"105.7777673"},"way_id":684921432}
+{"request":{"street":"Ngõ 81 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9804344","name":"Xưởng sản xuất balo quảng cáo quà tặng uy tín","street_number":"undefined","type":"13","longitude":"105.7778315"},"way_id":684921432}
+{"request":{"street":"Unnamed Road","latitude":"20.9562642","name":"showroom cicohome","street_number":"undefined","type":"93","longitude":"105.7839734"},"way_id":682982638}
+{"request":{"street":"LK168 ĐG04, Kiến Hưng, Kiến Hưng","latitude":"20.9562654","name":"CICOHOME","street_number":"undefined","type":"13","longitude":"105.7839873"},"way_id":682982638}
+{"request":{"street":"Vietnam","latitude":"20.9563892","name":"Văn Phòng Giao Dịch Bất Động Sản Hvc Land","street_number":"undefined","type":"114","longitude":"105.7838749"},"way_id":682982638}
+{"request":{"street":"Vietnam","latitude":"20.9563913","name":"Bất Động Sản Lyna","street_number":"undefined","type":"114","longitude":"105.7840200"},"way_id":682982638}
+{"request":{"street":"Unnamed Road","latitude":"20.9563735","name":"Cửa hàng Dao Kéo Lập Lịch","street_number":"undefined","type":"93","longitude":"105.7835957"},"way_id":682982638}
+{"request":{"street":"Vietnam","latitude":"20.9564123","name":"Cảnh Hồng Nhà Đất","street_number":"undefined","type":"114","longitude":"105.7841252"},"way_id":682982638}
+{"request":{"street":"Lô DG12_17 khu đấu giá QSD đất tái định cư","latitude":"20.9563030","name":"Đông Trùng Hạ Thảo An Thọ Khang","street_number":"undefined","type":"93","longitude":"105.7842497"},"way_id":682982638}
+{"request":{"street":"Khu Đấu Giá, Đa Sỹ","latitude":"20.9564115","name":"Khểnh Sneaker","street_number":"undefined","type":"93","longitude":"105.7843977"},"way_id":682982638}
+{"request":{"street":"Vietnam","latitude":"20.9565288","name":"Gia Huy Quán Giải Khát-Các Món Nhậu","street_number":"undefined","type":"114","longitude":"105.7833762"},"way_id":682982638}
+{"request":{"street":"Kiến Hưng, Kiến Hưng","latitude":"20.9566976","name":"Công ty cổ phần đầu tư và phát triển Nhật Quang","street_number":"undefined","type":"93","longitude":"105.7836997"},"way_id":682982638}
+{"request":{"street":"số nhà 173 ngõ 26, Kiến Hưng","latitude":"20.9567044","name":"Công ty thiết kế và tư vấn kiến trúc NQ","street_number":"undefined","type":"114","longitude":"105.7836930"},"way_id":682982638}
+{"request":{"street":"số nhà 173 ngõ 26, Kiến Hưng, Nghĩa Đô","latitude":"20.9567360","name":"Văn Phòng Công Ty Xuất Nhâpj Khẩu Vnq","street_number":"undefined","type":"114","longitude":"105.7837299"},"way_id":682982638}
+{"request":{"street":"Đa Sỹ","latitude":"20.9561349","name":"Kho miền bắc fbf","street_number":"undefined","type":"114","longitude":"105.7829972"},"way_id":682982638}
+{"request":{"street":"Lô 184, Khu đấu giá Ngõ Cổng, Ph, Kiến Hưng","latitude":"20.9563193","name":"CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI VÀ DỊCH VỤ KIẾN HƯNG","street_number":"undefined","type":"114","longitude":"105.7846656"},"way_id":682982638}
+{"request":{"street":"Vietnam","latitude":"20.9568048","name":"Cô Nga Ánh Sao","street_number":"undefined","type":"114","longitude":"105.7834273"},"way_id":682982638}
+{"request":{"street":"Đường Lê Trọng Tấn, Kiến Hưng","latitude":"20.9564931","name":"Nhà văn hóa Đa Sỹ","street_number":"undefined","type":"114","longitude":"105.7830342"},"way_id":682982638}
+{"request":{"street":"180 Ngõ 26 Tổ, 5 Đa Sỹ, Kiến Hưng","latitude":"20.9569034","name":"Lắp Đặt Sửa Chữa Điều Hòa","street_number":"180","type":"114","longitude":"105.7839417"},"way_id":682982638}
+{"request":{"street":"Đa Sỹ","latitude":"20.9568871","name":"Sân chơi xã hội hóa Đa Sỹ","street_number":"undefined","type":"24","longitude":"105.7833586"},"way_id":682982638}
+{"request":{"street":"Vạn Phúc","latitude":"20.9784506","name":"Phục Hồi Sức Khỏe","street_number":"undefined","type":"93","longitude":"105.7791138"},"way_id":684918825}
+{"request":{"street":"K6, Vạn Phúc","latitude":"20.9781041","name":"Xưởng Balo Trọng Phát","street_number":"undefined","type":"93","longitude":"105.7790890"},"way_id":684918825}
+{"request":{"street":"Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9782130","name":"Sản xuất balo học sinh tại VietBags.Net","street_number":"undefined","type":"93","longitude":"105.7791050"},"way_id":684918825}
+{"request":{"street":"83 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9780820","name":"Xưởng sỉ balo thời trang BAGGU.CLUB","street_number":"83","type":"93","longitude":"105.7792400"},"way_id":684918825}
+{"request":{"street":"83 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9781142","name":"Dịch vụ-Giải pháp cho Khách hàng Doanh nghiệp VNPT VINAPHONE","street_number":"83","type":"114","longitude":"105.7792939"},"way_id":684918825}
+{"request":{"street":"Ngõ 81 Ngô Thì Sỹ, làng Vạn Phúc","latitude":"20.9779217","name":"Xưởng may balo túi xách Trọng Phát","street_number":"undefined","type":"114","longitude":"105.7791691"},"way_id":684918825}
+{"request":{"street":"81 Ngô Thì Sỹ, Vạn Phúc, Hà Đông, Hà Nội, 79 Ngô Thì Sỹ, Vạn Phúc, Hà Đông, Hà Nội","latitude":"20.9778730","name":"MAY BALO TÚI XÁCH TRỌNG PHÁT","street_number":"81","type":"93","longitude":"105.7791990"},"way_id":684918825}
+{"request":{"street":"Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9784495","name":"Hikaru VN","street_number":"undefined","type":"114","longitude":"105.7792340"},"way_id":684918825}
+{"request":{"street":"81, Ngô Thì Sỹ, Vạn Phúc, Hà Đông, Hà Nội, 79, Ngô Thì Sỹ, Vạn Phúc, Hà Đông, Hà Nội","latitude":"20.9778381","name":"Xưởng sản xuất balo Hà Nội","street_number":"81","type":"93","longitude":"105.7792148"},"way_id":684918825}
+{"request":{"street":"35 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9784421","name":"Công Ty Tnhh Giải Pháp An Toàn Lao Động","street_number":"35","type":"114","longitude":"105.7792951"},"way_id":684918825}
+{"request":{"street":"Ngõ 81 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9778824","name":"DVD","street_number":"undefined","type":"5","longitude":"105.7793401"},"way_id":684918825}
+{"request":{"street":"91/8 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9784815","name":"Công Ty Cổ Phần Bất Động Sản Insight","street_number":"undefined","type":"114","longitude":"105.7792877"},"way_id":684918825}
+{"request":{"street":"24, Chu Văn An, Quận Hà Đông, Thành Phố Hà Nội, Vạn Phúc","latitude":"20.9785880","name":"Đại Lý Gạo - Rượu Quê Thái Bình","street_number":"24","type":"93","longitude":"105.7790830"},"way_id":684918825}
+{"request":{"street":"làng Vạn Phúc, Hà Đông","latitude":"20.9776748","name":"Trạm bơm Vạn Phúc","street_number":"undefined","type":"114","longitude":"105.7792399"},"way_id":684918825}
+{"request":{"street":"31, Cau Am Street, Van Phuc Ward, Ha Dong District, Vạn Phúc","latitude":"20.9776915","name":"Ha Trang Pharmacy","street_number":"31","type":"93","longitude":"105.7789436"},"way_id":684918825}
+{"request":{"street":"Nhà 21 Ngõ, 162 Đường Nguyễn Tuân, Vạn Phúc","latitude":"20.9782302","name":"Vitamin tổng hợp cho bà bầu","street_number":"21","type":"93","longitude":"105.7786256"},"way_id":684918825}
+{"request":{"street":"undefined","latitude":"20.9779090","name":"Sản xuất balo học sinh tại Bagguvn","street_number":"undefined","type":"13","longitude":"105.7786040"},"way_id":684918825}
+{"request":{"street":"Ngõ 89 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9783440","name":"Fuji Store - Hàng tiêu dùng chuẩn Nhật","street_number":"undefined","type":"93","longitude":"105.7785808"},"way_id":684918825}
+{"request":{"street":"Lô 18, Thôn Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9578570","name":"Cửa Hàng Sơn Minh Thành","street_number":"undefined","type":"114","longitude":"105.7919545"},"way_id":599536656}
+{"request":{"street":"54 Mậu Lương, Kiến Hưng","latitude":"20.9577915","name":"HADU Store - Thế Giới Giày Nữ Đẹp - Giày VNXK","street_number":"54","type":"93","longitude":"105.7920601"},"way_id":599536656}
+{"request":{"street":"Mậu Lương","latitude":"20.9583385","name":"Tạp hóa 185","street_number":"undefined","type":"93","longitude":"105.7922766"},"way_id":599536656}
+{"request":{"street":"Số 129, Ngõ 57, Tổ 9, Kiến Hưng, Hà Đông, Kiến Hưng","latitude":"20.9577410","name":"Cửa hàng Xedapchotreem","street_number":"129","type":"93","longitude":"105.7920210"},"way_id":599536656}
+{"request":{"street":"số 73 tổ 9, Thanh Liệt","latitude":"20.9580051","name":"ECO HAIR 73 Tổ 9 Mậu Lương","street_number":"73","type":"93","longitude":"105.7924314"},"way_id":599536656}
+{"request":{"street":"Cầu Kiến Hưng, Kiến Hưng","latitude":"20.9583412","name":"Chùa Mậu Lương","street_number":"undefined","type":"114","longitude":"105.7914305"},"way_id":599536656}
+{"request":{"street":"chợ Mậu Lương, 109 tổ 9 sau nhà văn hóa tổ 9","latitude":"20.9574752","name":"Nhà Mèo Hương","street_number":"undefined","type":"114","longitude":"105.7922257"},"way_id":599536656}
+{"request":{"street":"số 73 tổ 9, Mậu Lương","latitude":"20.9575300","name":"Hạnhh Mỹ Store","street_number":"73","type":"93","longitude":"105.7923840"},"way_id":599536656}
+{"request":{"street":"chợ Mậu Lương, 109 tổ 9 sau nhà văn hóa tổ 9","latitude":"20.9574596","name":"Kalhome Công Ty Cổ Phần Máy Lọc Nước","street_number":"undefined","type":"114","longitude":"105.7922915"},"way_id":599536656}
+{"request":{"street":"tổ 9 Mậu Lương, Kiến Hưng","latitude":"20.9573995","name":"Cửa Hàng Gas Hà Thành BestHouse số 5","street_number":"undefined","type":"93","longitude":"105.7922713"},"way_id":599536656}
+{"request":{"street":"68b Mậu Lương, Kiến Hưng","latitude":"20.9573563","name":"Đồng Phục Hoàng Yến","street_number":"undefined","type":"93","longitude":"105.7920836"},"way_id":599536656}
+{"request":{"street":"82 tổ 9, Kiến Hưng","latitude":"20.9577107","name":"Tiện ích Lâm Phương","street_number":"82","type":"93","longitude":"105.7928483"},"way_id":599536656}
+{"request":{"street":"Vietnam","latitude":"20.9576637","name":"Nhà Thuốc Minh Khánh","street_number":"undefined","type":"93","longitude":"105.7928304"},"way_id":599536656}
+{"request":{"street":"undefined","latitude":"20.9576622","name":"Nhà văn hóa thôn Mậu Lương","street_number":"undefined","type":"114","longitude":"105.7925687"},"way_id":599536656}
+{"request":{"street":"Vạn Phúc","latitude":"20.9789045","name":"Sân Bóng Vạn Phúc","street_number":"undefined","type":"114","longitude":"105.7790243"},"way_id":684918826}
+{"request":{"street":"LK08-DV01 khu dịch vụ, Đa Sỹ","latitude":"20.9605157","name":"Hoàng Vũ Technology","street_number":"undefined","type":"93","longitude":"105.7815231"},"way_id":599546905}
+{"request":{"street":"LK08-DV01 khu dịch vụ, Đa Sỹ","latitude":"20.9605320","name":"Techhome","street_number":"undefined","type":"93","longitude":"105.7815090"},"way_id":599546905}
+{"request":{"street":"Vietnam","latitude":"20.9606365","name":"Nãi Sản Quảng Ninh","street_number":"undefined","type":"114","longitude":"105.7811550"},"way_id":599546905}
+{"request":{"street":"Lê Lợi, Kiến Hưng","latitude":"20.9599356","name":"Bất động sản Phi Hùng","street_number":"undefined","type":"114","longitude":"105.7817581"},"way_id":599546905}
+{"request":{"street":"LK72-DV01 Khu dịch vụ, Đa Sỹ","latitude":"20.9604539","name":"TAY Craft","street_number":"undefined","type":"93","longitude":"105.7817681"},"way_id":599546905}
+{"request":{"street":"4 Ngõ 6 Tổ Dân Phố số 5, Kiến Hưng","latitude":"20.9600460","name":"LK62 DV01","street_number":"4","type":"24","longitude":"105.7818880"},"way_id":599546905}
+{"request":{"street":"Unnamed Road","latitude":"20.9596596","name":"Nhà Hàng Khương Bếp","street_number":"undefined","type":"50","longitude":"105.7817108"},"way_id":599546905}
+{"request":{"street":"Đa Sỹ","latitude":"20.9603853","name":"Minikent","street_number":"undefined","type":"93","longitude":"105.7819215"},"way_id":599546905}
+{"request":{"street":"Hà Trì","latitude":"20.9607773","name":"Xưởng gỗ HOMY","street_number":"undefined","type":"114","longitude":"105.7808460"},"way_id":599546905}
+{"request":{"street":"Vietnam","latitude":"20.9564161","name":"Đồ Gỗ Nội Thất 34","street_number":"undefined","type":"93","longitude":"105.7856836"},"way_id":682982639}
+{"request":{"street":"Unnamed Road","latitude":"20.9565037","name":"Quán Bia Hơi Giang Còi","street_number":"undefined","type":"50","longitude":"105.7857355"},"way_id":682982639}
+{"request":{"street":"Tầng 6 58 lên, Lê Văn Thiêm, Kiến Hưng","latitude":"20.9558010","name":"Công ty zioncom - chi nhánh hà nội","street_number":"undefined","type":"114","longitude":"105.7857450"},"way_id":682982639}
+{"request":{"street":"Unnamed Road","latitude":"20.9565432","name":"Minh Ni","street_number":"undefined","type":"114","longitude":"105.7864749"},"way_id":682982639}
+{"request":{"street":"tổ 7 Đa Sỹ, Kiến Hưng","latitude":"20.9566430","name":"Bán Dao Kéo Đa Sỹ Hoàng Tùng Chính Gốc","street_number":"undefined","type":"93","longitude":"105.7855906"},"way_id":682982639}
+{"request":{"street":"Vietnam","latitude":"20.9567940","name":"Bồi Loan Giặt Ướt Là Hơi","street_number":"undefined","type":"114","longitude":"105.7861224"},"way_id":682982639}
+{"request":{"street":"Unnamed Road, Đa Sỹ","latitude":"20.9568319","name":"Lê Thắng","street_number":"undefined","type":"103","longitude":"105.7858465"},"way_id":682982639}
+{"request":{"street":"Vietnam","latitude":"20.9569186","name":"Trung Tâm Bất Động Sản Hải Thiêm","street_number":"undefined","type":"114","longitude":"105.7863659"},"way_id":682982639}
+{"request":{"street":"Đa Sỹ","latitude":"20.9568134","name":"Thiết bị điện tại Kiến Hưng, Hà Đông","street_number":"undefined","type":"114","longitude":"105.7866585"},"way_id":682982639}
+{"request":{"street":"Dao Khánh Linh, Tổ 8 Đa Sỹ, Kiến Hưng","latitude":"20.9568700","name":"Dao Kéo Khánh Linh - Đa Sỹ","street_number":"undefined","type":"93","longitude":"105.7866006"},"way_id":682982639}
+{"request":{"street":"Vietnam","latitude":"20.9569816","name":"Điện Lạnh Xuân Trường","street_number":"undefined","type":"93","longitude":"105.7866762"},"way_id":682982639}
+{"request":{"street":"Vietnam","latitude":"20.9568118","name":"Hội Trường Tổ Dân Phố 7 Phương Kiến Hưng","street_number":"undefined","type":"114","longitude":"105.7868525"},"way_id":682982639}
+{"request":{"street":"Khu ĐG Ngõ Cổng","latitude":"20.9563374","name":"Khu Đấu giá Ngõ Cổng Kiến Hưng","street_number":"undefined","type":"114","longitude":"105.7848634"},"way_id":682982639}
+{"request":{"street":"249 Tổ 7 Đa Sỹ, Kiến Hưng","latitude":"20.9564524","name":"Lemico Home","street_number":"249","type":"93","longitude":"105.7848631"},"way_id":682982639}
+{"request":{"street":"Số nhà 95 tổ 7 ngõ 42","latitude":"20.9574474","name":"Cào Mía Tràng Đục Hùng Cúc","street_number":"95","type":"114","longitude":"105.7861475"},"way_id":682982639}
+{"request":{"street":"Thôn Đa Sỹ, X. Kiến Hưng, TX. Hà Đông, Hà Nội, Kiến Hưng","latitude":"20.9572778","name":"Công TNHH ty Tấn Thành","street_number":"undefined","type":"114","longitude":"105.7852907"},"way_id":682982639}
+{"request":{"street":"Unnamed Road","latitude":"20.9574593","name":"Dao Kéo Hùng Cúc","street_number":"undefined","type":"93","longitude":"105.7861284"},"way_id":682982639}
+{"request":{"street":"undefined","latitude":"20.9517833","name":"Nghĩa trang Mậu Lương","street_number":"undefined","type":"72","longitude":"105.7926076"},"way_id":599192289}
+{"request":{"street":"undefined","latitude":"20.9518114","name":"Nghĩa Trang Nhân Dân Mậu Lương","street_number":"undefined","type":"72","longitude":"105.7925070"},"way_id":599192289}
+{"request":{"street":"P607 Toà M3 Chung Cư Mipec","latitude":"20.9508303","name":"Cửa Hàng Xách Tay Đức - Doraemon Shop","street_number":"undefined","type":"93","longitude":"105.7925919"},"way_id":599192289}
+{"request":{"street":"Unnamed Road, Kiến Hưng","latitude":"20.9506324","name":"M6 Mipec City View","street_number":"undefined","type":"114","longitude":"105.7930378"},"way_id":599192289}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9510012","name":"Mipec Kiến Hưng Hà Đông","street_number":"undefined","type":"114","longitude":"105.7923089"},"way_id":599192289}
+{"request":{"street":"Kiến Hưng","latitude":"20.9507626","name":"Amazing Garden","street_number":"undefined","type":"5","longitude":"105.7939588"},"way_id":599192289}
+{"request":{"street":"N3-SH21, Mipec City View, 120 Phố Hoàng Công, Kiến Hưng","latitude":"20.9505766","name":"FAMILY CLUB__Cafe Bóng Đá - Trà Sữa - Trà Chanh__MIPEC - SH21","street_number":"undefined","type":"115","longitude":"105.7937157"},"way_id":599192289}
+{"request":{"street":"Kiến Hưng","latitude":"20.9511415","name":"Home Coca","street_number":"undefined","type":"114","longitude":"105.7920990"},"way_id":599192289}
+{"request":{"street":"Unnamed Road","latitude":"20.9504830","name":"Chung Cư Mipec Kiến Hưng","street_number":"undefined","type":"114","longitude":"105.7929052"},"way_id":599192289}
+{"request":{"street":"Mipec city view, Kiến Hưng","latitude":"20.9508124","name":"Nha anh","street_number":"undefined","type":"114","longitude":"105.7922891"},"way_id":599192289}
+{"request":{"street":"LK110, Dịch vụ 03, Khu đô thị Mậu Lương","latitude":"20.9509082","name":"G.farm- Dịch vụ sân \u0026 Rau xanh đô thị","street_number":"undefined","type":"54","longitude":"105.7921466"},"way_id":599192289}
+{"request":{"street":"Kiến Hưng, N6-SH16 Mipec City View","latitude":"20.9504089","name":"Siêu thị tiện ích Gb\u0027s Mart","street_number":"undefined","type":"93","longitude":"105.7934807"},"way_id":599192289}
+{"request":{"street":"Unnamed Road, Kiến Hưng","latitude":"20.9503918","name":"Tòa M4, Mipec City View","street_number":"undefined","type":"114","longitude":"105.7929431"},"way_id":599192289}
+{"request":{"street":"Unnamed Road, Kiến Hưng","latitude":"20.9504953","name":"M4 Mipec Kiến Hưng","street_number":"undefined","type":"114","longitude":"105.7925263"},"way_id":599192289}
+{"request":{"street":"120 Phố Hoàng Công, Kiến Hưng","latitude":"20.9503894","name":"Thảm trải sàn văn phòng giá rẻ","street_number":"120","type":"93","longitude":"105.7936787"},"way_id":599192289}
+{"request":{"street":"Unnamed Road, Hữu Hòa, Kiến Hưng","latitude":"20.9503315","name":"Trạm bê tông Hoa Cương","street_number":"undefined","type":"114","longitude":"105.7934921"},"way_id":599192289}
+{"request":{"street":"Vạn Phúc","latitude":"20.9828425","name":"Suki Mart","street_number":"undefined","type":"93","longitude":"105.7733886"},"way_id":675323299}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9822691","name":"Chợ Hoa Cây cảnh Vạn Phúc","street_number":"undefined","type":"93","longitude":"105.7724021"},"way_id":675323299}
+{"request":{"street":"Nhà 03, ngách 31/34 ( ngõ 31, Phố Lụa, Vạn Phúc","latitude":"20.9816891","name":"Chè Dừa COCO Vạn Phúc","street_number":"03","type":"50","longitude":"105.7737614"},"way_id":675323299}
+{"request":{"street":"Vietnam","latitude":"20.9814522","name":"Nhà Nghỉ Hương Trà","street_number":"undefined","type":"24","longitude":"105.7737719"},"way_id":675323299}
+{"request":{"street":"Vietnam","latitude":"20.9817750","name":"Mạnh Hù Sửa Chữ Đồ Điện Dân Dụng","street_number":"undefined","type":"93","longitude":"105.7738135"},"way_id":675323299}
+{"request":{"street":"SỐ 23 Ngõ 68, Vạn Phúc","latitude":"20.9813936","name":"Uniqlo","street_number":"undefined","type":"93","longitude":"105.7736979"},"way_id":675323299}
+{"request":{"street":"undefined","latitude":"20.9813670","name":"Nhà nghỉ Vạn Phúc","street_number":"undefined","type":"24","longitude":"105.7737021"},"way_id":675323299}
+{"request":{"street":"Ngõ 68, Vạn Phúc","latitude":"20.9813541","name":"Chè đồ ăn vặt bà Béo","street_number":"undefined","type":"50","longitude":"105.7736887"},"way_id":675323299}
+{"request":{"street":"Ngõ 31 Phố Lụa, Vạn Phúc","latitude":"20.9813594","name":"Cửa hàng vinaphone Vạn Phúc","street_number":"undefined","type":"114","longitude":"105.7737663"},"way_id":675323299}
+{"request":{"street":"Vietnam","latitude":"20.9812520","name":"Huy Design","street_number":"undefined","type":"114","longitude":"105.7735075"},"way_id":675323299}
+{"request":{"street":"Vietnam","latitude":"20.9813150","name":"Hiệp Kim","street_number":"undefined","type":"114","longitude":"105.7739257"},"way_id":675323299}
+{"request":{"street":"12 Ngõ 68, Vạn Phúc","latitude":"20.9812180","name":"Salon huy design","street_number":"12","type":"93","longitude":"105.7735328"},"way_id":675323299}
+{"request":{"street":"Ki ốt 10, Ngõ 68, Vạn Phúc","latitude":"20.9811623","name":"BÚN ĐẬU MẸT HỒNG HẠNH","street_number":"undefined","type":"50","longitude":"105.7734164"},"way_id":675323299}
+{"request":{"street":"Số 110","latitude":"20.9818850","name":"Công ty TNHH P2A Việt Nam","street_number":"110","type":"114","longitude":"105.7741080"},"way_id":675323299}
+{"request":{"street":"Đa Sỹ","latitude":"20.9601490","name":"Công ty Luật Nghiêm Dân","street_number":"undefined","type":"114","longitude":"105.7829679"},"way_id":599546973}
+{"request":{"street":"Khu đô thị","latitude":"20.9590880","name":"VietGoal Trung tâm Hà Đông","street_number":"undefined","type":"4","longitude":"105.7814019"},"way_id":599546973}
+{"request":{"street":"D116 Đa Sỹ, Kiến Hưng","latitude":"20.9590175","name":"Aobongda442 - Hà Đông","street_number":"undefined","type":"93","longitude":"105.7818348"},"way_id":599546973}
+{"request":{"street":"20 Kiến Hưng, Kiến Hưng","latitude":"20.9588760","name":"Sửa điều hòa trung tâm","street_number":"20","type":"114","longitude":"105.7818479"},"way_id":599546973}
+{"request":{"street":"Lô 109, dãy C, giãn dân","latitude":"20.9590476","name":"Nhà hàng Dũng Ngọc","street_number":"undefined","type":"50","longitude":"105.7820048"},"way_id":599546973}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9520638","name":"Tiệm cắt tóc nam Lam Tuấn","street_number":"undefined","type":"4","longitude":"105.7916393"},"way_id":599192287}
+{"request":{"street":"undefined","latitude":"20.9524315","name":"Vườn Dưa Lưới Sạch","street_number":"undefined","type":"114","longitude":"105.7921738"},"way_id":599192287}
+{"request":{"street":"khu Dịch Vụ 1, xa la","latitude":"20.9517804","name":"Công ty Cổ phần đầu tư xây dựng Hợp Lực Thăng Long","street_number":"undefined","type":"114","longitude":"105.7915002"},"way_id":599192287}
+{"request":{"street":"ĐD Khu NƠ gia đình quân đội Bộ quốc phòng","latitude":"20.9511399","name":"Phụ Kiện Bổ Rẻ - Tai Nghe airpord - cáp sạc giá rẻ","street_number":"undefined","type":"93","longitude":"105.7917678"},"way_id":599192287}
+{"request":{"street":"Khu Dịch Vụ, Mậu Lương","latitude":"20.9511400","name":"Công Ty CP Vitalland Việt Nam","street_number":"undefined","type":"114","longitude":"105.7916000"},"way_id":599192287}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9511778","name":"Lắp Mạng FPT - Tổng Đài Cáp Quang FPT","street_number":"undefined","type":"114","longitude":"105.7915225"},"way_id":599192287}
+{"request":{"street":"406 M2 Chung cư Mipec City View, Phố Hoàng Công, Kiến Hưng","latitude":"20.9514485","name":"onaga","street_number":"406","type":"93","longitude":"105.7912448"},"way_id":599192287}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9514959","name":"Kiến Trúc DDG","street_number":"undefined","type":"114","longitude":"105.7911993"},"way_id":599192287}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9513059","name":"Dịch vụ Kế toán Thuế trọn gói giá rẻ","street_number":"undefined","type":"114","longitude":"105.7912312"},"way_id":599192287}
+{"request":{"street":"Số 04-DG6 tổ 20, Khu đô thị Mậu Lương","latitude":"20.9529411","name":"Thiết bị ns.com","street_number":"undefined","type":"114","longitude":"105.7917288"},"way_id":599192287}
+{"request":{"street":"Mipec city view, Kiến Hưng","latitude":"20.9513971","name":"Eggworld - Shop quà tặng độc đáo","street_number":"undefined","type":"114","longitude":"105.7911096"},"way_id":599192287}
+{"request":{"street":"Kiến Hưng","latitude":"20.9514150","name":"Dịch vụ Báo cáo Tài chính cuối năm tại Hà Nội","street_number":"undefined","type":"114","longitude":"105.7910903"},"way_id":599192287}
+{"request":{"street":"chợ đồ cũ","latitude":"20.9833511","name":"GỖ NHẬT NGUYỄN HUYỀN","street_number":"undefined","type":"93","longitude":"105.7738425"},"way_id":675481715}
+{"request":{"street":"undefined","latitude":"20.9837702","name":"Cửa Hàng Đồ Cổ Hoàng Giáp","street_number":"undefined","type":"93","longitude":"105.7746467"},"way_id":675481715}
+{"request":{"street":"Khu Làng Nghề, Vạn Phúc","latitude":"20.9838500","name":"Cửa Hàng Đồ Cổ Gốm Việt","street_number":"undefined","type":"93","longitude":"105.7745634"},"way_id":675481715}
+{"request":{"street":"Khu Làng Nghề","latitude":"20.9838313","name":"Nhà Sưu Tầm Lê Minh","street_number":"undefined","type":"93","longitude":"105.7745097"},"way_id":675481715}
+{"request":{"street":"Chợ Đồ Cũ","latitude":"20.9835300","name":"Cửa Hàng Mỹ Thuật Nhuệ Anh","street_number":"undefined","type":"93","longitude":"105.7746000"},"way_id":675481715}
+{"request":{"street":"Chợ Đồ Cũ","latitude":"20.9838100","name":"Cửa Hàng Đồ Cổ Châu Âu Trường Thịnh","street_number":"undefined","type":"93","longitude":"105.7744000"},"way_id":675481715}
+{"request":{"street":"undefined","latitude":"20.9835245","name":"KIM VINTAGE - ĐỒ XƯA","street_number":"undefined","type":"93","longitude":"105.7745842"},"way_id":675481715}
+{"request":{"street":"Chợ Đồ Cũ","latitude":"20.9835200","name":"Cửa Hàng Đồ Cổ Quân Giang","street_number":"undefined","type":"93","longitude":"105.7746000"},"way_id":675481715}
+{"request":{"street":"Vạn Phúc","latitude":"20.9838265","name":"Cửa hàng đồ gỗ Tùng Lâm","street_number":"undefined","type":"93","longitude":"105.7743398"},"way_id":675481715}
+{"request":{"street":"Vietnam","latitude":"20.9840257","name":"Phủ Quán Food \u0026 Drink","street_number":"undefined","type":"50","longitude":"105.7746292"},"way_id":675481715}
+{"request":{"street":"Tố Hữu, Vạn Phúc","latitude":"20.9840691","name":"Bàn thờ đẹp Gia An","street_number":"undefined","type":"114","longitude":"105.7746988"},"way_id":675481715}
+{"request":{"street":"Tố Hữu, Vạn Phúc","latitude":"20.9835972","name":"Thế giới tượng gỗ phong thủy Đỗ Phủ","street_number":"undefined","type":"114","longitude":"105.7742665"},"way_id":675481715}
+{"request":{"street":"Unnamed Road, Vạn Phúc","latitude":"20.9837151","name":"Người Buôn Ký Ức","street_number":"undefined","type":"93","longitude":"105.7742265"},"way_id":675481715}
+{"request":{"street":"Đường 430, Phường Vạn Phúc, Quận Hà Đông, Tỉnh Hà Tây","latitude":"20.9833792","name":"Nhà Máy Nhựa Vĩnh Hạnh","street_number":"undefined","type":"114","longitude":"105.7745640"},"way_id":675481715}
+{"request":{"street":"Unnamed Road, Vạn Phúc","latitude":"20.9837941","name":"Đồ Gỗ Quốc Chung","street_number":"undefined","type":"93","longitude":"105.7741982"},"way_id":675481715}
+{"request":{"street":"38 Vũ Văn Cẩn, Vạn Phúc","latitude":"20.9834359","name":"Trần Vũ radio cassette Châu Âu Cổ","street_number":"38","type":"93","longitude":"105.7743308"},"way_id":675481715}
+{"request":{"street":"Unnamed Road","latitude":"20.9833759","name":"Nhà Hàng Thúy Hằng 6","street_number":"undefined","type":"50","longitude":"105.7748659"},"way_id":675481715}
+{"request":{"street":"Vietnam","latitude":"20.9835659","name":"Eureka","street_number":"undefined","type":"114","longitude":"105.7750440"},"way_id":675481715}
+{"request":{"street":"Dịch Vụ 1 Hàng Bè, Kiến Hưng","latitude":"20.9512010","name":"Công Ty Tnhh Thương Mại Điện Tử Hồng Anh","street_number":"undefined","type":"114","longitude":"105.7886056"},"way_id":707455991}
+{"request":{"street":"21dv1 Hàng Bè, Mậu Lương","latitude":"20.9511222","name":"Nhà hàng Trung Thông","street_number":"undefined","type":"50","longitude":"105.7888278"},"way_id":707455991}
+{"request":{"street":"Unnamed Road","latitude":"20.9512117","name":"Công ty CP Kinh Bắc cơ sở 2","street_number":"undefined","type":"114","longitude":"105.7885400"},"way_id":707455991}
+{"request":{"street":"Unnamed Road, Kiến Hưng","latitude":"20.9510181","name":"Điện Lạnh Bảo Ngọc","street_number":"undefined","type":"114","longitude":"105.7890459"},"way_id":707455991}
+{"request":{"street":"LK 27 - DV01, Khu đô thị Mậu Lương","latitude":"20.9510080","name":"Nội Thất Tuấn Thành","street_number":"undefined","type":"93","longitude":"105.7889440"},"way_id":707455991}
+{"request":{"street":"Unnamed Road, Khu đô thị Mậu Lương","latitude":"20.9509425","name":"Xôi Gà Ông Tú","street_number":"undefined","type":"50","longitude":"105.7890715"},"way_id":707455991}
+{"request":{"street":"Dịch Vụ 1 Hàng Bè, Kiến Hưng","latitude":"20.9509870","name":"Thanh Hoàng Cơ Khí Tổng Hợp","street_number":"undefined","type":"114","longitude":"105.7892738"},"way_id":707455991}
+{"request":{"street":"Dịch Vụ 1 Hàng Bè, Kiến Hưng","latitude":"20.9509696","name":"Mầm Non Ngôi Nhà Ước Mơ","street_number":"undefined","type":"114","longitude":"105.7892840"},"way_id":707455991}
+{"request":{"street":"203 Dịch Vụ 4 Hàng Bè, Kiến Hưng","latitude":"20.9508716","name":"Nguyễn Đăng Khởi","street_number":"203","type":"24","longitude":"105.7890641"},"way_id":707455991}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9509637","name":"Công ty TNHH MTV Hiệp Phát Logistics","street_number":"undefined","type":"13","longitude":"105.7883764"},"way_id":707455991}
+{"request":{"street":"Dịch Vụ 1 Hàng Bè, Kiến Hưng","latitude":"20.9508555","name":"Nam Trần Nhôm Kính-Cửa Thủy Lực","street_number":"undefined","type":"114","longitude":"105.7892762"},"way_id":707455991}
+{"request":{"street":"Vietnam","latitude":"20.9509909","name":"Công Ty Cổ Phần Đầu Tư Bất Động Sản Đại Việt","street_number":"undefined","type":"114","longitude":"105.7882855"},"way_id":707455991}
+{"request":{"street":"Kiến Hưng","latitude":"20.9471125","name":"Khu đô thị Mậu Lương","street_number":"undefined","type":"114","longitude":"105.7916057"},"way_id":707455991}
+{"request":{"street":"undefined","latitude":"20.9767110","name":"CÔNG TY THIẾT KẾ IN ẤN ĐẤT VIỆT","street_number":"undefined","type":"114","longitude":"105.7758814"},"way_id":684923016}
+{"request":{"street":"Cầu Am, 430, Đường Nguyễn Trãi, Vạn Phúc","latitude":"20.9769078","name":"Công ty CP Tư Vấn Đầu Tư \u0026 Xây Lắp Thăng Long","street_number":"undefined","type":"114","longitude":"105.7754606"},"way_id":684923016}
+{"request":{"street":"208 Đường Vạn Phúc","latitude":"20.9777644","name":"Cửa Hàng Điện Lạnh Long Hào","street_number":"208","type":"114","longitude":"105.7749419"},"way_id":684923016}
+{"request":{"street":"430 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9776442","name":"Đại Lý Lâm Hùng","street_number":"430","type":"93","longitude":"105.7749224"},"way_id":684923016}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9765376","name":"Quỹ Tín Dụng Nhân Dân Trung Ương - Cn","street_number":"undefined","type":"114","longitude":"105.7764616"},"way_id":684923016}
+{"request":{"street":"Đoàn Kết, Vạn Phúc","latitude":"20.9764820","name":"TNHH MTV Quảng Cáo \u0026 Nội Thất Tổng Hợp","street_number":"undefined","type":"114","longitude":"105.7764601"},"way_id":684923016}
+{"request":{"street":"Vietnam","latitude":"20.9774985","name":"Đại Lý Túi Nilon Các Loại","street_number":"undefined","type":"93","longitude":"105.7759813"},"way_id":684923016}
+{"request":{"street":"38 Phố Cầu Am, Vạn Phúc","latitude":"20.9774558","name":"Công Ty Thang Máy Tải Khách Mitsubishi Gia Đình Mini","street_number":"38","type":"114","longitude":"105.7760245"},"way_id":684923016}
+{"request":{"street":"Số 2 Ngõ 36 Phố Cầu Am, Vạn Phúc","latitude":"20.9774361","name":"Phở bò Hùng Béo, Vạn Phúc - Hà Đông","street_number":"2","type":"50","longitude":"105.7762744"},"way_id":684923016}
+{"request":{"street":"22 Ngõ 4 Phố, Ba Đình","latitude":"20.9773618","name":"Công Ty Cổ Phần Việt Hải Đăng","street_number":"22","type":"114","longitude":"105.7760904"},"way_id":684923016}
+{"request":{"street":"28 Phố Cầu Am, Vạn Phúc","latitude":"20.9774588","name":"Công Ty Tnhh Thương Mại Dịch Vụ Phong Linh","street_number":"28","type":"114","longitude":"105.7758790"},"way_id":684923016}
+{"request":{"street":"làng, Hà Đông","latitude":"20.9778796","name":"Gạo KIBAFOOD 4","street_number":"undefined","type":"50","longitude":"105.7758817"},"way_id":684923016}
+{"request":{"street":"Số 9 Ngõ 4 Phố, Vạn Phúc","latitude":"20.9776336","name":"Công Ty Tnhh Thương Mại Và Nội Thất Phú Thái","street_number":"9","type":"114","longitude":"105.7765363"},"way_id":684923016}
+{"request":{"street":"Kiốt 11 mặt sau tòa nhà 2A, Khu nhà ở xã hội Hưng Thịnh, Kiến Hưng, Hà Đông Đại lý Nội trợ 4.0 Hanoi Hanoi City","latitude":"20.9480529","name":"Thịt mát MEAT Deli - cửa hàng thịt heo sạch","street_number":"undefined","type":"93","longitude":"105.7827113"},"way_id":595927256}
+{"request":{"street":"Kiến Hưng","latitude":"20.9474890","name":"NHÀ SỐ - HOMEDIGITAL","street_number":"undefined","type":"93","longitude":"105.7827890"},"way_id":595927256}
+{"request":{"street":"Tầng 4, Tòa 1B Tòa Nhà Hưng Thịnh, Kiến Hưng","latitude":"20.9477066","name":"Xe đẩy hàng giá rẻ","street_number":"undefined","type":"114","longitude":"105.7831075"},"way_id":595927256}
+{"request":{"street":"Tầng 4, Tòa 1B Tòa Nhà Hưng Thịnh","latitude":"20.9482785","name":"Zuna.vn - Mua sắm trực tuyến uy tín số 1","street_number":"undefined","type":"114","longitude":"105.7833714"},"way_id":595927256}
+{"request":{"street":"Vietnam","latitude":"20.9470192","name":"Thực Phẩm Sạch Ánh Plus","street_number":"undefined","type":"93","longitude":"105.7829204"},"way_id":595927256}
+{"request":{"street":"Unnamed Road","latitude":"20.9471461","name":"Kđt Kiến Hưng","street_number":"undefined","type":"114","longitude":"105.7831472"},"way_id":595927256}
+{"request":{"street":"Vietnam","latitude":"20.9469173","name":"Hà Huyền Thực Phẩm Sạch Các Loại","street_number":"undefined","type":"93","longitude":"105.7829714"},"way_id":595927256}
+{"request":{"street":"Vietnam","latitude":"20.9468725","name":"Nhà Thuốc Nhật Minh","street_number":"undefined","type":"93","longitude":"105.7829924"},"way_id":595927256}
+{"request":{"street":"khu đô thị mới Kiến Hưng phường, Kiến Hưng","latitude":"20.9469432","name":"Ban Quản Lý Tòa Nhà Hưng Thịnh","street_number":"undefined","type":"114","longitude":"105.7832541"},"way_id":595927256}
+{"request":{"street":"undefined","latitude":"20.9469677","name":"Nhà Khim","street_number":"undefined","type":"114","longitude":"105.7833510"},"way_id":595927256}
+{"request":{"street":"Khu đô thị mới","latitude":"20.9472056","name":"Khu Nhà Ở Hưng Thịnh","street_number":"undefined","type":"114","longitude":"105.7836014"},"way_id":595927256}
+{"request":{"street":"Vietnam","latitude":"20.9467377","name":"Gv - Mart","street_number":"undefined","type":"93","longitude":"105.7830253"},"way_id":595927256}
+{"request":{"street":"Vietnam","latitude":"20.9466838","name":"Thắm Hoàng","street_number":"undefined","type":"114","longitude":"105.7829895"},"way_id":595927256}
+{"request":{"street":"Kiến Hưng","latitude":"20.9465776","name":"Công ty cổ phần thương mại dịch vụ xây dựng HST Việt Nam","street_number":"undefined","type":"114","longitude":"105.7828875"},"way_id":595927256}
+{"request":{"street":"undefined","latitude":"20.9472576","name":"Mỹ phẩm narguerite, hàng xách Tay","street_number":"undefined","type":"93","longitude":"105.7839823"},"way_id":595927256}
+{"request":{"street":"Unnamed Road","latitude":"20.9470124","name":"Chung cư mới kiến hưng","street_number":"undefined","type":"114","longitude":"105.7839025"},"way_id":595927256}
+{"request":{"street":"Hà Đông Hà Nội","latitude":"20.9467673","name":"Toà 2B Hưng Thịnh","street_number":"undefined","type":"114","longitude":"105.7838905"},"way_id":595927256}
+{"request":{"street":"Phú Lương","latitude":"20.9370800","name":"Phú Lương","street_number":"undefined","type":"2","longitude":"105.7673942"},"way_id":595927256}
+{"request":{"street":"19T1, khu đô thị","latitude":"20.9444649","name":"DẦU HÚNG CHANH MIRI KIDS","street_number":"undefined","type":"93","longitude":"105.7895236"},"way_id":707449226}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9442152","name":"QUOC WIFI","street_number":"undefined","type":"93","longitude":"105.7894953"},"way_id":707449226}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9445579","name":"Lucky House - Tòa 19T1 Chung Cư Kiến Hưng, Hà Đông, Hà Nội","street_number":"undefined","type":"93","longitude":"105.7896093"},"way_id":707449226}
+{"request":{"street":"19T1 Kiến Hưng, Kiến Hưng","latitude":"20.9445557","name":"MỸ NGHỆ BÍCH NGỌC","street_number":"undefined","type":"93","longitude":"105.7896199"},"way_id":707449226}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9448870","name":"Nhà Bác Bằng","street_number":"undefined","type":"114","longitude":"105.7894600"},"way_id":707449226}
+{"request":{"street":"Hữu Hòa, Kiến Hưng","latitude":"20.9445229","name":"Chung cư 19T1 Kiến Hưng, Mậu Lương, Hà Đông - Thietbisieuthinhanh.vn","street_number":"undefined","type":"114","longitude":"105.7898610"},"way_id":707449226}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9446292","name":"Shop Quý Ông - Shop sinh lý chính hãng","street_number":"undefined","type":"114","longitude":"105.7899034"},"way_id":707449226}
+{"request":{"street":"toà 19t1","latitude":"20.9451066","name":"công ty tnhh đầu tư thương mại dịch vụ vận tải thành hưng","street_number":"undefined","type":"114","longitude":"105.7895375"},"way_id":707449226}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9440720","name":"19T1 KĐT Kiến Hưng","street_number":"undefined","type":"93","longitude":"105.7898735"},"way_id":707449226}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9445285","name":"Nhà A Hạnh","street_number":"undefined","type":"114","longitude":"105.7900485"},"way_id":707449226}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9449095","name":"Salon QT Forever","street_number":"undefined","type":"93","longitude":"105.7901356"},"way_id":707449226}
+{"request":{"street":"DG 05-06, khu đấu giá","latitude":"20.9448887","name":"Anh Ngữ Đỗ Nga","street_number":"undefined","type":"5","longitude":"105.7901604"},"way_id":707449226}
+{"request":{"street":"Mậu Lương","latitude":"20.9449791","name":"HANDO575","street_number":"undefined","type":"93","longitude":"105.7901350"},"way_id":707449226}
+{"request":{"street":"Chung Cư The Lucky House","latitude":"20.9435966","name":"Văn phòng Shop Quý Ông","street_number":"undefined","type":"114","longitude":"105.7897517"},"way_id":707449226}
+{"request":{"street":"Đường tỉnh 70, Tân Triều","latitude":"20.9619406","name":"Nhà Thuốc Chính An","street_number":"undefined","type":"93","longitude":"105.7984954"},"way_id":599518184}
+{"request":{"street":"Tân Triều","latitude":"20.9611187","name":"Ivy Moda Factory","street_number":"undefined","type":"93","longitude":"105.7988310"},"way_id":599518184}
+{"request":{"street":"Đường tỉnh 70A","latitude":"20.9613467","name":"Bơm chìm giếng khoan","street_number":"undefined","type":"13","longitude":"105.7989833"},"way_id":599518184}
+{"request":{"street":"114 Đường Phùng Hưng, Tân Triều","latitude":"20.9618617","name":"Mỹ Phẩm Kamill","street_number":"114","type":"93","longitude":"105.7989420"},"way_id":599518184}
+{"request":{"street":"114 mới (km 2.5 cũ), đường Phùng Hưng, phường Kiến Hưng, Hà Đông, Bên trong Công ty CP Thương Mại Đà Lạt","latitude":"20.9614890","name":"Công ty PHE NI (PHENITEX CO., LTD.)","street_number":"114","type":"114","longitude":"105.7991359"},"way_id":599518184}
+{"request":{"street":"114 Đường Phùng Hưng, Tân Triều","latitude":"20.9616910","name":"Công Ty Tnhh Phân Phối Tiên Tiến","street_number":"114","type":"114","longitude":"105.7992282"},"way_id":599518184}
+{"request":{"street":"Tân Triều","latitude":"20.9600853","name":"Công ty Cổ phần Cúc Phương","street_number":"undefined","type":"114","longitude":"105.7984058"},"way_id":599518184}
+{"request":{"street":"Cạnh Bệnh viện, 32 Đường Cầu Bươu, Tân Triều","latitude":"20.9619123","name":"Điện Máy Media Mart Xa La","street_number":"undefined","type":"93","longitude":"105.7994132"},"way_id":599518184}
+{"request":{"street":"P1901 Chung Cư Sông Nhuệ, Hà Đông Đường 70","latitude":"20.9598065","name":"Huyền MD Dermatics Hà Nội","street_number":"undefined","type":"93","longitude":"105.7988549"},"way_id":599518184}
+{"request":{"street":"86 Đường Cầu Bươu, Tân Triều","latitude":"20.9612426","name":"Cửa hàng Sách Giáo dục","street_number":"86","type":"89","longitude":"105.7997146"},"way_id":599518184}
+{"request":{"street":"Kiến Hưng, Số nhà 27 Tổ 17","latitude":"20.9611390","name":"27 Đức Long - Nhà Nghỉ Trọ","street_number":"undefined","type":"24","longitude":"105.7978168"},"way_id":599518184}
+{"request":{"street":"21 Tổ 15, Tân Triều","latitude":"20.9611221","name":"Phòng Trọ 21 Trang Nguyên","street_number":"21","type":"24","longitude":"105.7978019"},"way_id":599518184}
+{"request":{"street":"Tổ 15","latitude":"20.9612797","name":"Điện tử Cường Thuận","street_number":"undefined","type":"93","longitude":"105.7976468"},"way_id":599518184}
+{"request":{"street":"số 70 ngõ 108 tổ 15, Đường Cầu Bươu","latitude":"20.9611000","name":"Hotel 70","street_number":"70","type":"24","longitude":"105.7976521"},"way_id":599518184}
+{"request":{"street":"15 Ngõ 104 Phố Yên Lãng, Tổ 15","latitude":"20.9615600","name":"Nhà Thuốc Tây Linh Trang","street_number":"15","type":"93","longitude":"105.7980000"},"way_id":599518184}
+{"request":{"street":"Tân Triều","latitude":"20.9608980","name":"Nhà trọ 34","street_number":"undefined","type":"24","longitude":"105.7977749"},"way_id":599518184}
+{"request":{"street":"Số 46 - Tổ 15, Kiến Hưng","latitude":"20.9615927","name":"TÓC GIẢ SÀI GÒN - HÀ NỘI","street_number":"46","type":"93","longitude":"105.7980292"},"way_id":599518184}
+{"request":{"street":"Đối diện cổng viện k3, Số 10 Ngõ 110, Kiến Hưng","latitude":"20.9616260","name":"Nhà thuốc Tiến Anh","street_number":"undefined","type":"93","longitude":"105.7979550"},"way_id":599518184}
+{"request":{"street":"52","latitude":"20.9616700","name":"Nhà Trọ 52","street_number":"52","type":"24","longitude":"105.7978000"},"way_id":599518184}
+{"request":{"street":"A4 Cụm chung cư, Đường Cầu Bươu, Tả Thanh Oai","latitude":"20.9574793","name":"Hóa Chất Kinh Bắc","street_number":"undefined","type":"114","longitude":"105.8036976"},"way_id":616525486}
+{"request":{"street":"ngõ 2 Đường Cầu Bươu, Tân Triều","latitude":"20.9592746","name":"Nhà May Thanh Tiến","street_number":"undefined","type":"93","longitude":"105.8036694"},"way_id":616525486}
+{"request":{"street":"52 Đường Cầu Bươu, Tân Triều","latitude":"20.9595811","name":"Cơ Sở Cơ Khí Bình Lộc","street_number":"52","type":"114","longitude":"105.8032697"},"way_id":616525486}
+{"request":{"street":"Trạm Bơm, Đường Cầu Bươu, Tân Triều","latitude":"20.9589740","name":"Xí Nghiệp Thoát Nước Số 7","street_number":"undefined","type":"114","longitude":"105.8040888"},"way_id":616525486}
+{"request":{"street":"44 Đường Cầu Bươu, Tân Triều","latitude":"20.9598516","name":"Cửa Hàng Chăn Đệm Trọng Hà","street_number":"44","type":"93","longitude":"105.8027601"},"way_id":616525486}
+{"request":{"street":"36 Đường Cầu Bươu, Tân Triều","latitude":"20.9599086","name":"Công Ty Hải Thuận - Kho Đá","street_number":"36","type":"114","longitude":"105.8023890"},"way_id":616525486}
+{"request":{"street":"Số 36 Cầu Bươu, Phùng Hưng, P","latitude":"20.9599400","name":"Phòng khám Vương Đạo Khang","street_number":"36","type":"4","longitude":"105.8023080"},"way_id":616525486}
+{"request":{"street":"36 Đường Cầu Bươu, Tân Triều","latitude":"20.9599208","name":"Siêu thị Điện máy XANH","street_number":"36","type":"93","longitude":"105.8020858"},"way_id":616525486}
+{"request":{"street":"Đường Cầu Bươu, Tân Triều","latitude":"20.9599615","name":"pa lăng cáp điện giá rẻ","street_number":"undefined","type":"114","longitude":"105.8027841"},"way_id":616525486}
+{"request":{"street":"36 Cầu Bươu, Đường tỉnh 70A, Tân Triều","latitude":"20.9599719","name":"Nguyên liệu Nano - NanoHub","street_number":"36","type":"4","longitude":"105.8022840"},"way_id":616525486}
+{"request":{"street":"Số 70, Ngõ 114, Tân Triều","latitude":"20.9580745","name":"Sản Xuất Việt","street_number":"70","type":"114","longitude":"105.8022948"},"way_id":616525486}
+{"request":{"street":"Ngõ 115 Đường Cầu Bươu, Tân Triều","latitude":"20.9584941","name":"Đại Uy","street_number":"undefined","type":"4","longitude":"105.8023801"},"way_id":616525486}
+{"request":{"street":"27-ĐG 12-Khu đấu giá ĐT, Hữu Hoà","latitude":"20.9463684","name":"Sách Trà Quán","street_number":"undefined","type":"52","longitude":"105.7929370"},"way_id":599148683}
+{"request":{"street":"18 TT10 Khu Đô thị","latitude":"20.9463136","name":"Nhà Hàng Hiền Giang","street_number":"18","type":"50","longitude":"105.7927788"},"way_id":599148683}
+{"request":{"street":"Dg 12-25 tái định cư","latitude":"20.9462294","name":"Công Ty TNHH Dịch Vụ Và Thương Mại Karass Việt Nam","street_number":"undefined","type":"93","longitude":"105.7929295"},"way_id":599148683}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9460509","name":"Nhà trọ Kiến Hưng","street_number":"undefined","type":"114","longitude":"105.7929251"},"way_id":599148683}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9459778","name":"Xốp Dán Tường 3D Mậu Lương","street_number":"undefined","type":"93","longitude":"105.7927822"},"way_id":599148683}
+{"request":{"street":"DG12-13","latitude":"20.9456887","name":"Công ty cp thiết kế sản xuất và thương mại nội thất Gỗ Xinh","street_number":"undefined","type":"114","longitude":"105.7926840"},"way_id":599148683}
+{"request":{"street":"Nam, Speed DG12, L09, Khu đô thị","latitude":"20.9456135","name":"Nam Speed","street_number":"undefined","type":"93","longitude":"105.7927754"},"way_id":599148683}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9458746","name":"CÔNG TY CỔ PHẤN XUẤT NHẬT KHẨU CÔNG NGHỆ TOÀN CẦU","street_number":"undefined","type":"114","longitude":"105.7922248"},"way_id":599148683}
+{"request":{"street":"Số 168 khu dịch vụ Đìa Lão, Tổ 20","latitude":"20.9473108","name":"VĂN PHÒNG CÔNG TY TNHH BHD GREEN","street_number":"168","type":"114","longitude":"105.7925478"},"way_id":599148683}
+{"request":{"street":"Unnamed Road, Hữu Hòa, Hữu Hoà","latitude":"20.9473814","name":"Quanghuy lk466dv12","street_number":"undefined","type":"114","longitude":"105.7930883"},"way_id":599148683}
+{"request":{"street":"LK456, DV12 khu đất dịch vụ Đìa Lão","latitude":"20.9475142","name":"Công ty TNHH thương mại và dịch vụ kỹ thuật BMA","street_number":"undefined","type":"114","longitude":"105.7927076"},"way_id":599148683}
+{"request":{"street":"KĐT, Khu đô thị Mậu Lương","latitude":"20.9452612","name":"Công ty CP ĐTXLTH Bình Minh","street_number":"undefined","type":"114","longitude":"105.7925471"},"way_id":599148683}
+{"request":{"street":"Vietnam","latitude":"20.9476995","name":"Đồ Gỗ Nội Thất Đức Thịnh","street_number":"undefined","type":"93","longitude":"105.7927728"},"way_id":599148683}
+{"request":{"street":"Vietnam","latitude":"20.9451153","name":"Binh Hoa","street_number":"undefined","type":"114","longitude":"105.7926960"},"way_id":599148683}
+{"request":{"street":"Tầng 1, toà nhà 19T6, Khu đô thị","latitude":"20.9451938","name":"Hometech","street_number":"undefined","type":"93","longitude":"105.7922755"},"way_id":599148683}
+{"request":{"street":"Vietnam","latitude":"20.9451000","name":"KĐT Kiến Hưng","street_number":"undefined","type":"113","longitude":"105.7925167"},"way_id":599148683}
+{"request":{"street":"Số 64 ngõ 75 phố Lụa, phường Vạn Phúc Hà Đông Hanoi City","latitude":"20.9828096","name":"CÔNG TY CỔ PHẦN DESTCOM","street_number":"64","type":"114","longitude":"105.7753974"},"way_id":684923005}
+{"request":{"street":"Vạn Phúc","latitude":"20.9847701","name":"BRT Vạn Phúc 2","street_number":"undefined","type":"114","longitude":"105.7747823"},"way_id":684923005}
+{"request":{"street":"67 Ngõ 77 Phố Lụa, Vạn Phúc","latitude":"20.9833651","name":"Học Thái Bảo","street_number":"67","type":"114","longitude":"105.7753161"},"way_id":684923005}
+{"request":{"street":"Số 52 Vũ Văn Cẩn, Vạn Phúc","latitude":"20.9832573","name":"Hoàng Hải cắt tóc","street_number":"52","type":"4","longitude":"105.7746717"},"way_id":684923005}
+{"request":{"street":"50 Vũ Văn Cẩn, làng Vạn Phúc","latitude":"20.9832187","name":"Trung tâm giao lưu đồ cổ Minh Chiến","street_number":"50","type":"13","longitude":"105.7746539"},"way_id":684923005}
+{"request":{"street":"Doc Lap Area, Le Van Luong Street, Van Phuc Ward, Ha Dong District, Vạn Phúc","latitude":"20.9830822","name":"Phuc Linh Trading And Mechanical Construction Company Limited","street_number":"undefined","type":"114","longitude":"105.7746775"},"way_id":684923005}
+{"request":{"street":"Số 69 Phố Tố Hữu, Trung Văn","latitude":"20.9841460","name":"Công Ty CTM và Đầu tư Toàn Cầu GTC","street_number":"69","type":"114","longitude":"105.7760447"},"way_id":684923005}
+{"request":{"street":"69 Tố Hữu, Vạn Phúc","latitude":"20.9843052","name":"Nội thất Xuân Hòa","street_number":"69","type":"93","longitude":"105.7752849"},"way_id":684923005}
+{"request":{"street":"69 Tố Hữu, Vạn Phúc","latitude":"20.9832211","name":"DMG (Dream Maker Group)","street_number":"69","type":"114","longitude":"105.7766327"},"way_id":684923005}
+{"request":{"street":"69 Tố Hữu, Vạn Phúc","latitude":"20.9832377","name":"Trustmax Việt Nam","street_number":"69","type":"114","longitude":"105.7766352"},"way_id":684923005}
+{"request":{"street":"Số nhà Dv13-Lk599, Mậu Lương, Kiến Hưng","latitude":"20.9494912","name":"Công Ty Tnhh Dệt May T \u0026 N","street_number":"undefined","type":"114","longitude":"105.7884064"},"way_id":599192256}
+{"request":{"street":"Unnamed Road","latitude":"20.9496593","name":"CÔNG TY CP DORIC VIỆT NAM","street_number":"undefined","type":"114","longitude":"105.7885881"},"way_id":599192256}
+{"request":{"street":"Dịch vụ 19, Kiến Hưng","latitude":"20.9496241","name":"Công ty TNHH Xây Dựng TXD","street_number":"undefined","type":"114","longitude":"105.7882051"},"way_id":599192256}
+{"request":{"street":"Lk 594, dịch vụ 13, Khu đô thị Mậu Lương","latitude":"20.9496846","name":"TXD Nhà Thầu Xây Dựng","street_number":"undefined","type":"114","longitude":"105.7881102"},"way_id":599192256}
+{"request":{"street":"Liền kề 594, Dịch vụ 13, Khu đô thị Mậu Lương","latitude":"20.9496912","name":"TXD_Công ty xây nhà, sửa nhà trọn gói uy tín số 1 Hà Nội","street_number":"undefined","type":"114","longitude":"105.7881086"},"way_id":599192256}
+{"request":{"street":"Lk571 dv12, Hàng Bè","latitude":"20.9495922","name":"Công ty tnhh kinh doanh và dịch vụ thiên đức","street_number":"undefined","type":"114","longitude":"105.7880227"},"way_id":599192256}
+{"request":{"street":"Vietnam","latitude":"20.9498837","name":"Đại Lý Hải Nam","street_number":"undefined","type":"114","longitude":"105.7882961"},"way_id":599192256}
+{"request":{"street":"Dịch vụ 19, Kiến Hưng","latitude":"20.9491999","name":"Tổng Kho Trụ Cứu Hỏa","street_number":"undefined","type":"93","longitude":"105.7881097"},"way_id":599192256}
+{"request":{"street":"tổ 19 Kiến Hưng, Kiến Hưng","latitude":"20.9489436","name":"Công ty TNHH PT TM \u0026 KT Thành Công (TCELECTRIC)","street_number":"undefined","type":"114","longitude":"105.7882897"},"way_id":599192256}
+{"request":{"street":"LK616, DV14, Hàng Bè, Mậu Lương, Kiến Hưng","latitude":"20.9492362","name":"Dược Qmed","street_number":"undefined","type":"114","longitude":"105.7878475"},"way_id":599192256}
+{"request":{"street":"Vietnam","latitude":"20.9496391","name":"Nội Thất Faha Chuyên Sản Xuất \u0026 Thương Mại","street_number":"undefined","type":"93","longitude":"105.7877832"},"way_id":599192256}
+{"request":{"street":"LK-616, DV, 14 Hàng Bè, Mậu Lương","latitude":"20.9492263","name":"ARENA VIỆT NAM","street_number":"undefined","type":"114","longitude":"105.7878417"},"way_id":599192256}
+{"request":{"street":"Liền kề 300, dịch vụ 06, khu đô thị Hàng Bè, Kiến Hưng","latitude":"20.9501710","name":"Nhà Mỡ Gold","street_number":"undefined","type":"84","longitude":"105.7884360"},"way_id":599192256}
+{"request":{"street":"Vietnam","latitude":"20.9499835","name":"Bách Hóa Mỹ Phẩm Bảo Nhi","street_number":"undefined","type":"114","longitude":"105.7879113"},"way_id":599192256}
+{"request":{"street":"undefined","latitude":"20.9508716","name":"Chung cư Bộ Quốc Phòng","street_number":"undefined","type":"114","longitude":"105.7915927"},"way_id":599192276}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9512118","name":"Siêu Thị Điện Máy Pico","street_number":"undefined","type":"93","longitude":"105.7912296"},"way_id":599192276}
+{"request":{"street":"Nhà A4, tập thể Sông Đà 10, Phan Trọng Tuệ, Tân Triều","latitude":"20.9602520","name":"Công ty cổ phần xây dựng dân dụng Hà Nội","street_number":"undefined","type":"114","longitude":"105.8017780"},"way_id":599508341}
+{"request":{"street":"Số 127, Đường Cầu Bươu, Kiến Hưng, (Đối diện Bệnh Viện 09), Tân Triều","latitude":"20.9604078","name":"Công ty chống thấm NetVNN","street_number":"127","type":"114","longitude":"105.8012709"},"way_id":599508341}
+{"request":{"street":"Đường tỉnh 70, Tân Triều","latitude":"20.9605028","name":"Bệnh Viện 09","street_number":"undefined","type":"4","longitude":"105.8016175"},"way_id":599508341}
+{"request":{"street":"khu đô thi mơi Cầu bươu, TP, Tân Triều","latitude":"20.9599431","name":"Công ty Việt Nhật","street_number":"undefined","type":"114","longitude":"105.8013042"},"way_id":599508341}
+{"request":{"street":"Kiến Hưng","latitude":"20.9595295","name":"Sức khỏe và sắc đẹp THÀNH TRUNG","street_number":"undefined","type":"93","longitude":"105.8012551"},"way_id":599508341}
+{"request":{"street":"Hà Nội","latitude":"20.9596240","name":"Khu tập thể Sông Đà 10","street_number":"undefined","type":"114","longitude":"105.8011293"},"way_id":599508341}
+{"request":{"street":"Tỉnh Lộ 70, Tân Triều","latitude":"20.9602603","name":"Xưởng Cơ Khí Trần Văn Thuấn","street_number":"undefined","type":"114","longitude":"105.8013566"},"way_id":599508341}
+{"request":{"street":"138 Đường Cầu Bươu, Tân Triều","latitude":"20.9602652","name":"Cty TNHH Phong Phát Hưng (cửa thép vân gỗ )","street_number":"138","type":"114","longitude":"105.8016668"},"way_id":599508341}
+{"request":{"street":"undefined","latitude":"20.9601619","name":"GẠCH ỐP LÁT THIẾT BỊ VỆ SINH TÍN DŨNG CẦU BƯƠU","street_number":"undefined","type":"93","longitude":"105.8018330"},"way_id":599508341}
+{"request":{"street":"Tân Triều","latitude":"20.9602831","name":"V Pet Shop - Spa, Phụ Kiện, Làm Đẹp, Chăm Sóc Thú Cưng Thanh Trì - Hà Đông","street_number":"undefined","type":"114","longitude":"105.8017031"},"way_id":599508341}
+{"request":{"street":"36 Đường Cầu Bươu, Tân Triều","latitude":"20.9602900","name":"Cửa Hàng Thế Giới Di Động Cầu Bươu","street_number":"36","type":"93","longitude":"105.8017000"},"way_id":599508341}
+{"request":{"street":"Khu Tập Thể Sông Đà 10, A6, Đường tỉnh 70, Tân Triều","latitude":"20.9602462","name":"Nhà Phân Phối Sơn Châu Trinh","street_number":"undefined","type":"93","longitude":"105.8017918"},"way_id":599508341}
+{"request":{"street":"Vietnam","latitude":"20.9603641","name":"Fsl Led Lighting","street_number":"undefined","type":"93","longitude":"105.8013744"},"way_id":599508341}
+{"request":{"street":"Vietnam","latitude":"20.9601739","name":"Điện Nước Tín Dũng","street_number":"undefined","type":"114","longitude":"105.8018867"},"way_id":599508341}
+{"request":{"street":"111 Đường Cầu Bươu, Tân Triều","latitude":"20.9603828","name":"Xưởng Sản Xuất Gỗ Hoán Vũ","street_number":"111","type":"114","longitude":"105.8013248"},"way_id":599508341}
+{"request":{"street":"A7 Đường Cầu Bươu, Tân Triều","latitude":"20.9604016","name":"Nha Khoa Quốc Tế Dr. Anh","street_number":"undefined","type":"4","longitude":"105.8014146"},"way_id":599508341}
+{"request":{"street":"Khu Tập Thể Sông Đà 10, A5, Đường tỉnh 70, Tân Triều","latitude":"20.9604000","name":"Cửa Hàng Đồ Nội Thất Gia Phú","street_number":"undefined","type":"93","longitude":"105.8015000"},"way_id":599508341}
+{"request":{"street":"số 114 tổ 10","latitude":"20.9563191","name":"Trung tâm ngoại ngữ English Fun Số 114 tổ 10 khu dãn dân mậu lương kiến hưng hà đông hà nội","street_number":"114","type":"4","longitude":"105.7924507"},"way_id":599536675}
+{"request":{"street":"Số nhà 136, tổ 10, khu dãn dân, Mậu Lương, Kiến Hưng","latitude":"20.9562619","name":"Thịt lợn sạch Hoàng Hoa","street_number":"136","type":"93","longitude":"105.7925563"},"way_id":599536675}
+{"request":{"street":"111B Tổ 10 Khu dân cư mới, Mậu Lương, Kiến Hưng","latitude":"20.9563576","name":"Shop HTP","street_number":"undefined","type":"50","longitude":"105.7922714"},"way_id":599536675}
+{"request":{"street":"Số nhà 51, Tổ 10, Khu dân cư mới Mậu Lương, Phường Kiến Hưng, Quận Hà Đông","latitude":"20.9563998","name":"Công ty TNHH Thiết Bị Và Xây Lắp Giang Nam","street_number":"51","type":"114","longitude":"105.7924167"},"way_id":599536675}
+{"request":{"street":"132, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9559899","name":"Cửa Hàng Inox Trường Phát","street_number":"132","type":"93","longitude":"105.7926723"},"way_id":599536675}
+{"request":{"street":"136, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9559005","name":"Văn Phòng Nhà Đất Mậu Lương","street_number":"136","type":"114","longitude":"105.7926131"},"way_id":599536675}
+{"request":{"street":"Lô1, LK1, Đường Mậu Lương Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9559811","name":"Văn Phòng Nhà Đất Minh Nhân","street_number":"undefined","type":"114","longitude":"105.7927045"},"way_id":599536675}
+{"request":{"street":"Số nhà 136, tổ 10, khu dãn dân, Mậu Lương","latitude":"20.9563515","name":"Sửa chữa nhà cửa Nguyễn Thắng","street_number":"136","type":"114","longitude":"105.7926422"},"way_id":599536675}
+{"request":{"street":"47 tổ 10 khu giãn dân, Mậu Lương","latitude":"20.9563687","name":"Nem Bùi Bắc Ninh","street_number":"47","type":"50","longitude":"105.7920282"},"way_id":599536675}
+{"request":{"street":"44, Đường Mậu Lương, Kiến Hưng","latitude":"20.9563418","name":"Tiệm Rửa Xe Ô Tô","street_number":"44","type":"108","longitude":"105.7927524"},"way_id":599536675}
+{"request":{"street":"36, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9564533","name":"Xưởng Cơ Khí Tuấn Huy","street_number":"36","type":"114","longitude":"105.7926791"},"way_id":599536675}
+{"request":{"street":"15 Ngõ 81, Vạn Phúc","latitude":"20.9793971","name":"Myt english club","street_number":"15","type":"114","longitude":"105.7718163"},"way_id":685028793}
+{"request":{"street":"70 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9793682","name":"Nội Thất Hoà Phát, Xuân Hoà, 190 Hà Đông","street_number":"70","type":"93","longitude":"105.7725368"},"way_id":685028793}
+{"request":{"street":"10 Đường Vạn Phúc","latitude":"20.9791270","name":"Elvy shoes shop","street_number":"10","type":"93","longitude":"105.7722928"},"way_id":685028793}
+{"request":{"street":"123 Vạn Phúc Hà Đông","latitude":"20.9803060","name":"Khung Ảnh Treo Tường Mylycat.com","street_number":"123","type":"93","longitude":"105.7711660"},"way_id":685028793}
+{"request":{"street":"68, Hamlet 10, Van Phuc Street, Van Phuc Ward, Ha Dong District, Vạn Phúc","latitude":"20.9795993","name":"Huy Son Motorcar Parts Shop","street_number":"68","type":"93","longitude":"105.7721117"},"way_id":685028793}
+{"request":{"street":"Khu Tập Thể, Vạn Phúc","latitude":"20.9793880","name":"Tập thể giấy Thăng Long","street_number":"undefined","type":"114","longitude":"105.7721110"},"way_id":685028793}
+{"request":{"street":"176 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9795940","name":"Đại lý EVERON Vạn Phúc","street_number":"176","type":"93","longitude":"105.7723326"},"way_id":685028793}
+{"request":{"street":"K09, Khu Đấu Giá Kiến Hưng Hà Cầu, Phường Kiến Hưng, Quận Hà Đông, Thành Phố Hà Nội, Kiến Hưng","latitude":"20.9450880","name":"Công Ty TNHH Kiến Trúc Xây Dựng Và Đầu Tư Phi Long","street_number":"undefined","type":"114","longitude":"105.7909154"},"way_id":595927278}
+{"request":{"street":"Kiến Hưng","latitude":"20.9453960","name":"Cháo Dinh Dưỡng Thanh Thảo","street_number":"undefined","type":"50","longitude":"105.7903764"},"way_id":595927278}
+{"request":{"street":"Khu đấu giá","latitude":"20.9454130","name":"Tòa nhà văn phòng kinh doanh DG5-18 Kiến Hưng","street_number":"undefined","type":"114","longitude":"105.7903851"},"way_id":595927278}
+{"request":{"street":"DG5-18, khu đấu giá, Kiến Hưng","latitude":"20.9454266","name":"Văn phòng kinh doanh DG5-18 Kiến Hưng","street_number":"undefined","type":"114","longitude":"105.7903737"},"way_id":595927278}
+{"request":{"street":"undefined","latitude":"20.9454547","name":"Tạp Hóa Anh Quyết","street_number":"undefined","type":"93","longitude":"105.7904369"},"way_id":595927278}
+{"request":{"street":"Unnamed, Quốc lộ 5, Kiến Hưng","latitude":"20.9451200","name":"Kho hàng cty điện Hoàng An","street_number":"undefined","type":"114","longitude":"105.7901041"},"way_id":595927278}
+{"request":{"street":"Đấu giá 05-16 khu đấu giá quyền sử đất, Mậu Lương, Kiến Hưng","latitude":"20.9454980","name":"Phòng khám chuyên khoa Nhi phương Thảo","street_number":"undefined","type":"4","longitude":"105.7902882"},"way_id":595927278}
+{"request":{"street":"Kiến Hưng","latitude":"20.9456272","name":"Trường trung học cơ sở Mậu Lương","street_number":"undefined","type":"5","longitude":"105.7909190"},"way_id":595927278}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9455561","name":"19DG06, KĐT Mậu Lương","street_number":"undefined","type":"5","longitude":"105.7910530"},"way_id":595927278}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9455427","name":"Thầy Link Chuyên Toán","street_number":"undefined","type":"5","longitude":"105.7900485"},"way_id":595927278}
+{"request":{"street":"Vạn Phúc","latitude":"20.9777400","name":"Son Nen Nha Xuong","street_number":"undefined","type":"114","longitude":"105.7778223"},"way_id":600126477}
+{"request":{"street":"No 2304, Tulip Tower, Goldsilk Complex, 25 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9765147","name":"Công ty cổ phần cơ điện D2D","street_number":"undefined","type":"114","longitude":"105.7753483"},"way_id":600126477}
+{"request":{"street":"Vạn Phúc","latitude":"20.9771549","name":"Thuoc Bo Ba Bau Prenatal","street_number":"undefined","type":"93","longitude":"105.7780402"},"way_id":600126477}
+{"request":{"street":"18 Phố Ẩm Thực Cầu Am","latitude":"20.9766310","name":"Julee House - Đồ Ăn Hàn Quốc, Cơm Gà \u0026 Ăn Vặt","street_number":"18","type":"50","longitude":"105.7766584"},"way_id":600126477}
+{"request":{"street":"Số 65 Tổ 8, Đa Sỹ, Kiến Hưng","latitude":"20.9594451","name":"Tấm Lợp Lấy Sáng VinaHome","street_number":"65","type":"93","longitude":"105.7880696"},"way_id":599536642}
+{"request":{"street":"40, tổ dân phố 3, Uỷ Ban Nn Dân phường Kiến Hưng, Hà, Kiến Hưng","latitude":"20.9595810","name":"Công ty cổ phần thương mại Hoàng Gia Phát","street_number":"40","type":"114","longitude":"105.7880500"},"way_id":599536642}
+{"request":{"street":"Kiến Hưng","latitude":"20.9598655","name":"Shop Lucky Kids","street_number":"undefined","type":"93","longitude":"105.7876931"},"way_id":599536642}
+{"request":{"street":"12A/T1, Đường Đa Sĩ, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9603378","name":"Công Ty Cổ Phần Đầu Tư Thương Mại Quốc Tế Vietgreen","street_number":"undefined","type":"114","longitude":"105.7872246"},"way_id":599536642}
+{"request":{"street":"51 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9773918","name":"Cửa Hàng Thủy Hạnh Silk","street_number":"51","type":"93","longitude":"105.7785204"},"way_id":897081570}
+{"request":{"street":"33 Ngô Thì Sỹ, Ngõ 20 Đường Lê Trọng Tấn, Vạn Phúc","latitude":"20.9771783","name":"Trung Tín service","street_number":"33","type":"114","longitude":"105.7777383"},"way_id":897081570}
+{"request":{"street":"Unnamed Road, Hà Đông","latitude":"20.9774768","name":"CÔNG TY TNHH TƯ VẤN KIẾN TRÚC VÀ XÂY DỰNG HTA","street_number":"undefined","type":"114","longitude":"105.7777282"},"way_id":897081570}
+{"request":{"street":"Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9770331","name":"Cửa hàng lụa Hà Silk","street_number":"undefined","type":"93","longitude":"105.7779028"},"way_id":897081570}
+{"request":{"street":"Số 10 Ngõ 35 Phố Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9775523","name":"Tổng thể cửa Winup","street_number":"10","type":"93","longitude":"105.7778490"},"way_id":897081570}
+{"request":{"street":"68, Ngô Thì Sĩ, Quận Hà Đông, Thành Phố Hà Nội, Vạn Phúc","latitude":"20.9770150","name":"Cơ Sở Sản Xuất Khung Nhôm Kính Ngọc Hà","street_number":"68","type":"93","longitude":"105.7779080"},"way_id":897081570}
+{"request":{"street":"Vietnam","latitude":"20.9770163","name":"Trang Beauty Nail-Mi-Spa","street_number":"undefined","type":"84","longitude":"105.7779323"},"way_id":897081570}
+{"request":{"street":"37, Ngô Thì Sĩ, Quận Hà Đông, Thành Phố Hà Nội, Vạn Phúc","latitude":"20.9771696","name":"Cửa Hàng Tự Chọn Hà Dân","street_number":"37","type":"93","longitude":"105.7781051"},"way_id":897081570}
+{"request":{"street":"47 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9770431","name":"Cơ Sở Inox Ngọc Thức","street_number":"47","type":"93","longitude":"105.7780194"},"way_id":897081570}
+{"request":{"street":"ngõ 35 Ngô Thì Sỹ, Vạn Phúc","latitude":"20.9769980","name":"Yến Vinh Fast Food","street_number":"undefined","type":"50","longitude":"105.7779792"},"way_id":897081570}
+{"request":{"street":"81 Phố Ngô Thì Sỹ, Vạn Phúc, Hà Nội, Việt Nam","latitude":"20.9769490","name":"May balo quảng cáo","street_number":"81","type":"13","longitude":"105.7779100"},"way_id":897081570}
+{"request":{"street":"65 Ngõ 12, Kiến Hưng","latitude":"20.9589264","name":"Vietmax","street_number":"65","type":"114","longitude":"105.7957394"},"way_id":370306156}
+{"request":{"street":"Số 128D, Ngõ 78 Tổ 12, Mậu Lương, Kiến Hưng","latitude":"20.9584998","name":"Cần Câu 24h","street_number":"undefined","type":"93","longitude":"105.7964495"},"way_id":370306156}
+{"request":{"street":"Vietnam","latitude":"20.9569172","name":"Tai Sin","street_number":"undefined","type":"114","longitude":"105.7950534"},"way_id":370306156}
+{"request":{"street":"65 Đa Sỹ, Kiến Hưng","latitude":"20.9569621","name":"Cơ Sở Lắp Đặt Điện Nước Hải Bút","street_number":"65","type":"93","longitude":"105.7951819"},"way_id":370306156}
+{"request":{"street":"32, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9567956","name":"Dịch Vụ Quảng Cáo Tân Toàn Phát","street_number":"32","type":"114","longitude":"105.7949770"},"way_id":370306156}
+{"request":{"street":"61 Ngõ 73 Mậu Lương, Kiến Hưng","latitude":"20.9568017","name":"Nhà của Tùng","street_number":"61","type":"114","longitude":"105.7950257"},"way_id":370306156}
+{"request":{"street":"92 Mậu Lương, Kiến Hưng","latitude":"20.9568101","name":"Cafe Dương","street_number":"92","type":"52","longitude":"105.7948077"},"way_id":370306156}
+{"request":{"street":"Lô 3, LK8, Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9567604","name":"Quán Cà Phê","street_number":"undefined","type":"114","longitude":"105.7949217"},"way_id":370306156}
+{"request":{"street":"24, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9567732","name":"Cửa Hàng Tạp Hóa Phúc Hương","street_number":"24","type":"93","longitude":"105.7948256"},"way_id":370306156}
+{"request":{"street":"Số 89 Mậu Lương, Kiến Hưng","latitude":"20.9566976","name":"Công Ty Cổ Phần Thương Mại Và Dịch Vụ Giao Hàng Siêu Việt","street_number":"89","type":"114","longitude":"105.7947508"},"way_id":370306156}
+{"request":{"street":"Mậu Lương, Kiến Hưng","latitude":"20.9575408","name":"Nhà văn hoá tổ 11 mậu lương","street_number":"undefined","type":"93","longitude":"105.7950117"},"way_id":370306156}
+{"request":{"street":"Mậu Lương","latitude":"20.9566540","name":"CƠM BÌNH DÂN - BÚN MIẾN NGAN Mai Thương","street_number":"undefined","type":"50","longitude":"105.7948799"},"way_id":370306156}
+{"request":{"street":"250 Phan Trọng Tuệ, Thanh Liệt","latitude":"20.9614135","name":"Orchids Hà Nội III Hotel","street_number":"250","type":"24","longitude":"105.7997796"},"way_id":599518219}
+{"request":{"street":"Đường Cầu Bươu, Tân Triều","latitude":"20.9599059","name":"Công ty sơn NEWPRO","street_number":"undefined","type":"114","longitude":"105.7998042"},"way_id":599518219}
+{"request":{"street":"Tân Triều","latitude":"20.9600223","name":"Cty Eco Green Plastic","street_number":"undefined","type":"114","longitude":"105.7997463"},"way_id":599518219}
+{"request":{"street":"Tân Triều","latitude":"20.9599874","name":"Văn Phòng đại diện Eco Green Plastic","street_number":"undefined","type":"114","longitude":"105.7998505"},"way_id":599518219}
+{"request":{"street":"32 Đường Cầu Bươu, Tân Triều","latitude":"20.9612315","name":"Viettel Store","street_number":"32","type":"93","longitude":"105.7998484"},"way_id":599518219}
+{"request":{"street":"CT1 Văn Khê","latitude":"20.9608044","name":"Thực Phẩm Hưng Quyên","street_number":"undefined","type":"93","longitude":"105.8002224"},"way_id":599518219}
+{"request":{"street":"KĐT Bemes, Hà Đông","latitude":"20.9598670","name":"Công ty cổ phần SƠN ALO VIỆT NAM","street_number":"undefined","type":"114","longitude":"105.7999459"},"way_id":599518219}
+{"request":{"street":"34, Khu Cầu Bươu, Xã Tả Thanh Oai, Huyện Thanh Trì, Thành Phố Hà Nội, Tân Triều","latitude":"20.9611282","name":"Đại Lý Chăn Ga Gối Đệm Vinh Nga","street_number":"34","type":"93","longitude":"105.8001556"},"way_id":599518219}
+{"request":{"street":"Số 11, Liền Kề 1, khu Bemes, Tân Triều","latitude":"20.9597248","name":"Công Ty CP Sản Xuất Và Thương Mại NewPro","street_number":"11","type":"114","longitude":"105.8001698"},"way_id":599518219}
+{"request":{"street":"Kiốt 52, CT6C, Chung cư Bemes, Kiến Hưng, Hà Đông, Hà Nội","latitude":"20.9597800","name":"Công ty Máy giặt công nghiệp, hóa chất giặt là. TNHH Thương mại sản xuất TN Việt Nam","street_number":"undefined","type":"114","longitude":"105.8002800"},"way_id":599518219}
+{"request":{"street":"Room 418th, CT6A Building, No.339 road 70, Kien Hung Ward, Ha Dong District, Tân Triều","latitude":"20.9605880","name":"VIPATCO Intellectual Property Co.,Ltd","street_number":"undefined","type":"114","longitude":"105.8007430"},"way_id":599518219}
+{"request":{"street":"17 Khu Giãn Dân Mậu Lương, Kiến Hưng","latitude":"20.9562047","name":"Công Ty Cp Tư Vấn Xây Dựng Thành Đô Hà Nội","street_number":"17","type":"114","longitude":"105.7947457"},"way_id":600028575}
+{"request":{"street":"20lk8, khu đấu giá, Mậu Lương","latitude":"20.9562086","name":"Cửa hàng quần áo Hồng Thành","street_number":"undefined","type":"93","longitude":"105.7948048"},"way_id":600028575}
+{"request":{"street":"13 Khu Giãn Dân Mậu Lương, Kiến Hưng","latitude":"20.9562398","name":"Cửa Hàng Bách Hóa Thảo Huyền","street_number":"13","type":"93","longitude":"105.7945794"},"way_id":600028575}
+{"request":{"street":"1 Khu Giãn Dân Mậu Lương, Kiến Hưng","latitude":"20.9560845","name":"Công Ty Cp Tư Vấn \u0026 Đầu Tư Phát Triển Công Nghệ Xây Dựng An Phát","street_number":"1","type":"114","longitude":"105.7944345"},"way_id":600028575}
+{"request":{"street":"11, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9563436","name":"Đại Lý Sơn Minh Thu","street_number":"11","type":"93","longitude":"105.7947365"},"way_id":600028575}
+{"request":{"street":"23, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9563665","name":"Đại Lý Gạo Lộc Tâm","street_number":"23","type":"114","longitude":"105.7947727"},"way_id":600028575}
+{"request":{"street":"Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9563535","name":"Cửa hàng Liên Hoàn","street_number":"undefined","type":"93","longitude":"105.7948414"},"way_id":600028575}
+{"request":{"street":"7, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9563900","name":"Cơ Sở Sản Xuất Đồ Gỗ Nội Thất Đức Tuấn","street_number":"7","type":"114","longitude":"105.7946384"},"way_id":600028575}
+{"request":{"street":"100 Mậu Lương, Kiến Hưng","latitude":"20.9562986","name":"Cửa Hàng Thời Trang Hồng Thành","street_number":"100","type":"93","longitude":"105.7949986"},"way_id":600028575}
+{"request":{"street":"3, LK 8, Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Thành Phố Hà Nội, Thành Phố Hà Nội, Kiến Hưng","latitude":"20.9564100","name":"Café Hiển Vân","street_number":"3","type":"50","longitude":"105.7948000"},"way_id":600028575}
+{"request":{"street":"90 Mậu Lương, Kiến Hưng","latitude":"20.9564047","name":"Shop Hoang Anh","street_number":"90","type":"93","longitude":"105.7948229"},"way_id":600028575}
+{"request":{"street":"Khu Giãn Dân Mậu Lương, Kiến Hưng","latitude":"20.9562648","name":"Cơ Sở Cơ Khí Thanh Tùng","street_number":"undefined","type":"114","longitude":"105.7943487"},"way_id":600028575}
+{"request":{"street":"5, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9563900","name":"Cửa Hàng Inox Văn Trung","street_number":"5","type":"93","longitude":"105.7944989"},"way_id":600028575}
+{"request":{"street":"7, Đường Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9563975","name":"Phòng Khám Răng Hàm Mặt - Bác Sỹ Đỗ Đức Khâm","street_number":"7","type":"4","longitude":"105.7945067"},"way_id":600028575}
+{"request":{"street":"Kiến Hưng, Kiến Hưng","latitude":"20.9564323","name":"SalonNail Hà Nguyễn","street_number":"undefined","type":"100","longitude":"105.7948560"},"way_id":600028575}
+{"request":{"street":"54, phố Vũ Văn Cẩn, Vạn Phúc","latitude":"20.9814332","name":"Công Ty Cổ Phần Ngân Lợi","street_number":"54","type":"114","longitude":"105.7712238"},"way_id":685031828}
+{"request":{"street":"Vạn Phúc","latitude":"20.9806207","name":"Công ty HC Mart","street_number":"undefined","type":"114","longitude":"105.7703279"},"way_id":685031828}
+{"request":{"street":"Số 146, Đường, Vạn Phúc","latitude":"20.9815915","name":"Cửa Hàng Quảng Cáo AMT","street_number":"146","type":"93","longitude":"105.7711868"},"way_id":685031828}
+{"request":{"street":"35 Đường tỉnh 70A, Vạn Phúc","latitude":"20.9816637","name":"Cửa hàng Mẹ Và Bé Kids Plaza 35 Vạn Phúc","street_number":"35","type":"93","longitude":"105.7712629"},"way_id":685031828}
+{"request":{"street":"29 Đường tỉnh 70A, Vạn Phúc","latitude":"20.9816940","name":"Trung Tâm Tư Vấn Du Học Dnnt","street_number":"29","type":"114","longitude":"105.7711362"},"way_id":685031828}
+{"request":{"street":"154A Đường Vạn Phúc, Vạn Phúc","latitude":"20.9817254","name":"CÔNG TY TNHH ĐÁ ỐP LÁT HÀ THÀNH","street_number":"undefined","type":"93","longitude":"105.7710799"},"way_id":685031828}
+{"request":{"street":"33 Đường tỉnh 70A, Vạn Phúc","latitude":"20.9817986","name":"Văn Phòng Luật Sư Việt Thái","street_number":"33","type":"114","longitude":"105.7711046"},"way_id":685031828}
+{"request":{"street":"Tổ dân phố Độc Lập, Phường Vạn Phúc, Vạn Phúc","latitude":"20.9803220","name":"Công ty cổ phần công nghệ Thế Giới Phẳng","street_number":"undefined","type":"114","longitude":"105.7751540"},"way_id":675323296}
+{"request":{"street":"Vạn Phúc","latitude":"20.9804500","name":"Template123","street_number":"undefined","type":"114","longitude":"105.7748430"},"way_id":675323296}
+{"request":{"street":"Phố Lụa, Vạn Phúc","latitude":"20.9798781","name":"Cửa Hàng Lụa Cát Quý","street_number":"undefined","type":"93","longitude":"105.7744038"},"way_id":675323296}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9795763","name":"Cửa Hàng Mão Silk","street_number":"undefined","type":"13","longitude":"105.7741141"},"way_id":675323296}
+{"request":{"street":"Số 10 Phố Lụa, Vạn Phúc","latitude":"20.9795863","name":"Xưởng Dệt Lụa Tơ Tằm TRIỆU VĂN MÃO","street_number":"10","type":"93","longitude":"105.7740539"},"way_id":675323296}
+{"request":{"street":"Phố Lụa, Vạn Phúc","latitude":"20.9794981","name":"Cửa Hàng Lụa Hà Đông","street_number":"undefined","type":"13","longitude":"105.7738128"},"way_id":675323296}
+{"request":{"street":"Phố Lụa, Vạn Phúc","latitude":"20.9794123","name":"Cửa Hàng Lụa Âu Lạc","street_number":"undefined","type":"93","longitude":"105.7738030"},"way_id":675323296}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9801035","name":"Ngân Hàng Chính Sách Xã Hội (Vbsp) - Đgd Phường Vạn Phúc","street_number":"undefined","type":"59","longitude":"105.7748437"},"way_id":675323296}
+{"request":{"street":"35 Phố Lụa, Vạn Phúc","latitude":"20.9800455","name":"Công Ty Cổ Phần Giao Nhận Hàng Không Vasco","street_number":"35","type":"114","longitude":"105.7747355"},"way_id":675323296}
+{"request":{"street":"Phố Lụa, Vạn Phúc","latitude":"20.9800234","name":"Bưu Điện Xã Vạn Phúc","street_number":"undefined","type":"73","longitude":"105.7747257"},"way_id":675323296}
+{"request":{"street":"Khối Chiến Thắng, Vạn Phúc","latitude":"20.9799182","name":"Bưu điện văn hóa Vạn Phúc","street_number":"undefined","type":"73","longitude":"105.7747676"},"way_id":675323296}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9800634","name":"Văn Phòng Hiệp Hội Dệt Lụa Tơ Tằm \u0026 Hiệp Hội Làng Nghề Vạn Phúc","street_number":"undefined","type":"114","longitude":"105.7746613"},"way_id":675323296}
+{"request":{"street":"Đường Vạn Phúc, Vạn Phúc","latitude":"20.9798888","name":"UBND phường Vạn Phúc","street_number":"undefined","type":"128","longitude":"105.7749319"},"way_id":675323296}
+{"request":{"street":"20 Phố Lụa, Vạn Phúc","latitude":"20.9801517","name":"Công Ty Cổ Phần Thuận Thiên Đường","street_number":"20","type":"114","longitude":"105.7750243"},"way_id":675323296}
+{"request":{"street":"31 Phố Lụa, Vạn Phúc","latitude":"20.9800224","name":"Công Ty Tnhh Dịch Vụ Ăn Uống Mai Hương","street_number":"31","type":"50","longitude":"105.7746341"},"way_id":675323296}
+{"request":{"street":"Unnamed Road","latitude":"20.9507391","name":"Trung tâm Anh ngữ EFA Cơ sở 2","street_number":"undefined","type":"5","longitude":"105.7888257"},"way_id":683254337}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9504992","name":"Công ty May Thành Tâm","street_number":"undefined","type":"114","longitude":"105.7893363"},"way_id":683254337}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9505732","name":"Công Ti TNHH May Thành Tâm","street_number":"undefined","type":"114","longitude":"105.7893668"},"way_id":683254337}
+{"request":{"street":"Liền kề 319 Dịch vụ 7 Khu Hàng Bè, Mậu Lương, Kiến Hưng","latitude":"20.9504990","name":"Trung tâm Anh ngữ EFA CS2","street_number":"undefined","type":"5","longitude":"105.7887490"},"way_id":683254337}
+{"request":{"street":"24 Ngô Quyền, Vạn Phúc","latitude":"20.9755625","name":"Phú Mỹ Group","street_number":"24","type":"114","longitude":"105.7752083"},"way_id":685031829}
+{"request":{"street":"16 Chu Văn An, P. Yết Kiêu","latitude":"20.9754703","name":"Công Ty Cp Tâm Viên","street_number":"16","type":"114","longitude":"105.7770270"},"way_id":685031829}
+{"request":{"street":"Hà Đông","latitude":"20.9762988","name":"HM 1986 Coffee","street_number":"undefined","type":"52","longitude":"105.7762054"},"way_id":685031829}
+{"request":{"street":"undefined","latitude":"20.9762814","name":"VẠN PHÚC COFFEE","street_number":"undefined","type":"114","longitude":"105.7762703"},"way_id":685031829}
+{"request":{"street":"430, Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Thành Phố Hà Nội, Vạn Phúc","latitude":"20.9763419","name":"Công Ty TNHH Xuất Nhập Khẩu Tep Việt Nam","street_number":"430","type":"93","longitude":"105.7760185"},"way_id":685031829}
+{"request":{"street":"8 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9762852","name":"Công Ty Tnhh Thương Mại Sản Xuất Phụ Kiện Ngành Cửa Tân Hiệp Phát","street_number":"8","type":"114","longitude":"105.7763114"},"way_id":685031829}
+{"request":{"street":"7 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9762285","name":"Virgo Chè Xôi - Số 7 Vạn Phúc","street_number":"7","type":"93","longitude":"105.7763496"},"way_id":685031829}
+{"request":{"street":"Số 11 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9763419","name":"Công Ty Cổ Phần Y Tế Vạn Phúc Hà Nội","street_number":"11","type":"114","longitude":"105.7762733"},"way_id":685031829}
+{"request":{"street":"số 7 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9762159","name":"Spa T\u0026T (Thoa)","street_number":"7","type":"4","longitude":"105.7763580"},"way_id":685031829}
+{"request":{"street":"430 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9763669","name":"Ngõ Cà Phê","street_number":"430","type":"52","longitude":"105.7759505"},"way_id":685031829}
+{"request":{"street":"undefined","latitude":"20.9571053","name":"Cửa hàng gas Mậu Lương - Gas ABC","street_number":"undefined","type":"93","longitude":"105.7924371"},"way_id":599536688}
+{"request":{"street":"Khu đô thị Mậu Lương","latitude":"20.9440954","name":"Sửa chữa cửa cuốn","street_number":"undefined","type":"114","longitude":"105.7916353"},"way_id":595927280}
+{"request":{"street":"Kiến Hưng","latitude":"20.9449888","name":"Trường Trung học Kiến Hưng","street_number":"undefined","type":"5","longitude":"105.7913684"},"way_id":595927280}
+{"request":{"street":"Hữu Hoà","latitude":"20.9439858","name":"Bs Ngô Minh Đức","street_number":"undefined","type":"4","longitude":"105.7918199"},"way_id":595927280}
+{"request":{"street":"Hữu Hoà","latitude":"20.9441214","name":"Bác sĩ Đức vbqg","street_number":"undefined","type":"4","longitude":"105.7918881"},"way_id":595927280}
+{"request":{"street":"24 LK 15, Khu đô thị Mậu Lương","latitude":"20.9546195","name":"Công ty TNHh Adelaide việt nam","street_number":"24","type":"114","longitude":"105.7940742"},"way_id":599197644}
+{"request":{"street":"Lô 5 liền kề, 14 Mậu Lương, Kiến Hưng","latitude":"20.9548045","name":"Xưởng nội thất thành phát","street_number":"undefined","type":"114","longitude":"105.7938915"},"way_id":599197644}
+{"request":{"street":"Lô 19 lK 14, Khu đô thị Mậu Lương","latitude":"20.9545428","name":"CÔNG TY TNHH VITRAMEX VIỆT NAM","street_number":"undefined","type":"114","longitude":"105.7937736"},"way_id":599197644}
+{"request":{"street":"Số 26 liền kề14, Mậu Lương, Kiến Hưng","latitude":"20.9548598","name":"Máy làm kem tươi Brullen","street_number":"26","type":"93","longitude":"105.7938097"},"way_id":599197644}
+{"request":{"street":"26 Mậu Lương, Kiến Hưng","latitude":"20.9548471","name":"Nhà a chị","street_number":"26","type":"114","longitude":"105.7937130"},"way_id":599197644}
+{"request":{"street":"Số 26 LK, 14 Mậu Lương, Kiến Hưng","latitude":"20.9548747","name":"Nhà phân phối bột làm kem Vua Kem","street_number":"26","type":"114","longitude":"105.7937383"},"way_id":599197644}
+{"request":{"street":"Số nhà 26 Liền kề 14, Khu đô thị Mậu Lương","latitude":"20.9548754","name":"Công ty TADAVINA","street_number":"26","type":"114","longitude":"105.7937385"},"way_id":599197644}
+{"request":{"street":"Số 11, LK 15 , Khu Đấu Giá QSD, Mậu Lương, Hữu Hoà","latitude":"20.9544464","name":"Công Ty THHH xây dựng và chống thấm Hoàng Minh","street_number":"11","type":"114","longitude":"105.7941208"},"way_id":599197644}
+{"request":{"street":"Số 24 Liền Kề 14 Mậu Lương TP","latitude":"20.9547398","name":"Máy làm kem cũ - Hà Nội","street_number":"24","type":"114","longitude":"105.7936286"},"way_id":599197644}
+{"request":{"street":"Số 26 liền kề, 14 Mậu Lương, Kiến Hưng","latitude":"20.9548131","name":"Cho thuê máy pha cafe","street_number":"26","type":"114","longitude":"105.7936455"},"way_id":599197644}
+{"request":{"street":"Số 220 Liền Kề, 14 Mậu Lương, Kiến Hưng","latitude":"20.9546086","name":"Công ty cổ phần NC Việt Nam","street_number":"220","type":"114","longitude":"105.7935997"},"way_id":599197644}
+{"request":{"street":"59 Đường tỉnh 70A, Vạn Phúc","latitude":"20.9781241","name":"Đệm thú bông gối xinh","street_number":"59","type":"93","longitude":"105.7744141"},"way_id":598788853}
+{"request":{"street":"Vạn Phúc","latitude":"20.9766628","name":"Cty Hangluc","street_number":"undefined","type":"114","longitude":"105.7738627"},"way_id":598788853}
+{"request":{"street":"430 Phố Cầu Am, Vạn Phúc","latitude":"20.9783694","name":"S VIET TRAVEL","street_number":"430","type":"103","longitude":"105.7737541"},"way_id":598788853}
+{"request":{"street":"VN Hanoi City, Số 6 Ngõ 25 Đường Vạn Phúc, Vạn Phúc","latitude":"20.9774442","name":"ohbake","street_number":"undefined","type":"93","longitude":"105.7747945"},"way_id":598788853}
+{"request":{"street":"A2, Khu Giãn Dân Mậu Lương Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9567001","name":"Cửa Hàng Gạch Ốp Lát Đức Mạnh","street_number":"undefined","type":"93","longitude":"105.7912393"},"way_id":599536678}
+{"request":{"street":"Lô 88, Khu Giãn Dân Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9565832","name":"Trung Tâm Giao Dịch Bất Động Sản Cát Tường","street_number":"undefined","type":"114","longitude":"105.7912812"},"way_id":599536678}
+{"request":{"street":"Kiến Hưng","latitude":"20.9563922","name":"Thực phẩm Thu Dũng","street_number":"undefined","type":"93","longitude":"105.7911539"},"way_id":599536678}
+{"request":{"street":"undefined","latitude":"20.9565012","name":"ĐẤT NHÀ","street_number":"undefined","type":"114","longitude":"105.7913296"},"way_id":599536678}
+{"request":{"street":"3, Khu Giãn Dân Mậu Lương Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9569052","name":"Xưởng Cơ Khí Đình Khánh","street_number":"3","type":"114","longitude":"105.7912244"},"way_id":599536678}
+{"request":{"street":"Số 3 Tổ 10 Khu dãn dân, Mậu Lương, P","latitude":"20.9568268","name":"HT SCREEN PRINTING INK","street_number":"3","type":"114","longitude":"105.7914620"},"way_id":599536678}
+{"request":{"street":"Số 03 Tổ 10","latitude":"20.9568437","name":"HT VIET NAM BUSINESS AND PRODUCTION COMPANY LIMITED","street_number":"03","type":"114","longitude":"105.7914889"},"way_id":599536678}
+{"request":{"street":"Số 3 Tô 10, Kiến Hưng","latitude":"20.9568842","name":"HT Việt Nam","street_number":"3","type":"114","longitude":"105.7914948"},"way_id":599536678}
+{"request":{"street":"68, Tổ 10, Khu Giãn Dân Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Kiến Hưng","latitude":"20.9565873","name":"Đại Lý Gạo Tuấn Minh","street_number":"68","type":"114","longitude":"105.7915633"},"way_id":599536678}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9557247","name":"Medo auto","street_number":"undefined","type":"108","longitude":"105.7934659"},"way_id":599197635}
+{"request":{"street":"Trung tâm TDTT Mậu Lương","latitude":"20.9561790","name":"Moka coffee","street_number":"undefined","type":"52","longitude":"105.7934890"},"way_id":599197635}
+{"request":{"street":"Sân bóng Mậu Lương, ĐD, Kiến Hưng","latitude":"20.9560121","name":"Gym","street_number":"undefined","type":"4","longitude":"105.7931055"},"way_id":599197635}
+{"request":{"street":"tổ dân phố số 7","latitude":"20.9555643","name":"Công ty cổ phần Đầu tư Xây dựng và Dịch vụ tòa nhà","street_number":"7","type":"114","longitude":"105.7932965"},"way_id":599197635}
+{"request":{"street":"Phố Hoàng Công, Kiến Hưng","latitude":"20.9555397","name":"Công ty BSCI","street_number":"undefined","type":"114","longitude":"105.7933011"},"way_id":599197635}
+{"request":{"street":"Liền kề 2, Lô 21, Khu đấu giá, Mậu Lương","latitude":"20.9555288","name":"Happy Star English Center - Trung tâm tiếng Anh và tin học Happy Star","street_number":"undefined","type":"5","longitude":"105.7932993"},"way_id":599197635}
+{"request":{"street":"Số 43, Liền Kề 12, Khu Đô Thị Xa La, Phúc La, P. Phúc La","latitude":"20.9617500","name":"Mầm non Golden Kids","street_number":"43","type":"5","longitude":"105.7923530"},"way_id":599518228}
+{"request":{"street":"Tòa Nhà Vietbuild, KĐT Xa La, Phúc La","latitude":"20.9610450","name":"Công ty Cổ phần Xây dựng và Thương mại Tất Đạt","street_number":"undefined","type":"93","longitude":"105.7955410"},"way_id":599518228}
+{"request":{"street":"31 - CT4C, Khu đô thị Xa La, Hà Đông","latitude":"20.9612962","name":"Cửa hàng thời trang Bamboo Shop","street_number":"31","type":"93","longitude":"105.7928593"},"way_id":599518228}
+{"request":{"street":"70, P. Phúc La","latitude":"20.9621860","name":"Hoa Nguyen Joint Stock Company","street_number":"70","type":"114","longitude":"105.7947081"},"way_id":599518228}
+{"request":{"street":"Room 2202, Hemisco Tower, Xala Urban, P. Phúc La","latitude":"20.9617100","name":"Vietnam Institute of Finance VIF","street_number":"undefined","type":"114","longitude":"105.7955710"},"way_id":599518228}
+{"request":{"street":"2504 CT2, Nam Xa La Building, Phuc La Commune, Ha Dong District, Ha Noi, Viet Na, P. Phúc La","latitude":"20.9601020","name":"Công ty TNHH Công Nghệ và Giải Pháp Giáo Dục Thế Hệ Mới Việt Nam","street_number":"2504","type":"114","longitude":"105.7943400"},"way_id":599518228}
+{"request":{"street":"P. Phúc La","latitude":"20.9603783","name":"Diễn Đàn Thang Máy Việt Nam","street_number":"undefined","type":"114","longitude":"105.7948728"},"way_id":599518228}
+{"request":{"street":"94 Nhuệ Giang, P. Nguyễn Trãi","latitude":"20.9711635","name":"Trung Tâm Nghệ Thuật Ánh Huyền","street_number":"94","type":"5","longitude":"105.7815002"},"way_id":220005736}
+{"request":{"street":"112 Nhuệ Giang, P. Nguyễn Trãi","latitude":"20.9706870","name":"Viện Chăm Sóc Máy Tính Le-Tech Hà Đông","street_number":"112","type":"114","longitude":"105.7819528"},"way_id":220005736}
+{"request":{"street":"C8TT1, Khu đô thị mới Văn Quán, Yên Phúc, P. Văn Quán","latitude":"20.9730671","name":"Công ty cổ phần đầu tư và công nghệ UK","street_number":"undefined","type":"114","longitude":"105.7859626"},"way_id":220005736}
+{"request":{"street":"1 Trần Phú","latitude":"20.9757977","name":"Liên Minh Htx Tp. Hà Nội","street_number":"1","type":"128","longitude":"105.7826155"},"way_id":220005736}
+{"request":{"street":"P. Văn Quán","latitude":"20.9756320","name":"TONE CONSTRUCTION JSC / Công ty CPXD TONE","street_number":"undefined","type":"114","longitude":"105.7828870"},"way_id":220005736}
+{"request":{"street":"Đường Quang Trung, P. Yết Kiêu","latitude":"20.9745765","name":"Thư Viện Hà Nội","street_number":"undefined","type":"114","longitude":"105.7789693"},"way_id":220005736}
+{"request":{"street":"11 Trưng Nhị, P. Nguyễn Trãi","latitude":"20.9709929","name":"Bliss","street_number":"11","type":"114","longitude":"105.7785939"},"way_id":220005736}
+{"request":{"street":"110 Trần Phú, P. Mộ Lao","latitude":"20.9754920","name":"Công ty CP Tư vấn \u0026 Thiết Kế Quảng cáo Mai Vinh","street_number":"110","type":"114","longitude":"105.7815890"},"way_id":220005736}
+{"request":{"street":"46 Đường Phùng Hưng","latitude":"20.9705036","name":"Công ty TNHH Vận tải D\u0027max","street_number":"46","type":"114","longitude":"105.7842626"},"way_id":220005736}
+{"request":{"street":"140 Trần Phú, P. Mộ Lao","latitude":"20.9765998","name":"B-select Dân Chủ","street_number":"140","type":"93","longitude":"105.7829549"},"way_id":220005736}
+{"request":{"street":"163 Trần Phú, P. Văn Quán","latitude":"20.9768871","name":"Canifa 171","street_number":"163","type":"93","longitude":"105.7842905"},"way_id":220005736}
+{"request":{"street":"46 Nhuệ Giang, P. Nguyễn Trãi","latitude":"20.9726804","name":"Showroom Nội Thất Thuận Khoa","street_number":"46","type":"114","longitude":"105.7804712"},"way_id":220005736}
+{"request":{"street":"số 45. phố : Nguyễn Trãi, phường : Nguyễn Trãi, P. Nguyễn Trãi","latitude":"20.9712170","name":"thanhart","street_number":"undefined","type":"114","longitude":"105.7806060"},"way_id":220005736}
+{"request":{"street":"148 Trần Phú, P. Mộ Lao","latitude":"20.9758029","name":"Karaoke 5 sao - 148 Trần phú","street_number":"148","type":"115","longitude":"105.7817250"},"way_id":220005736}
+{"request":{"street":"12 , Phan Bội Châu, Đường Nguyễn Trãi, P. Nguyễn Trãi","latitude":"20.9708315","name":"Kem trị nám cao cấp","street_number":"12","type":"93","longitude":"105.7805427"},"way_id":220005736}
+{"request":{"street":"2 Trần Phú, P. Mộ Lao","latitude":"20.9847279","name":"Học viện Y Dược học Cổ truyền Việt Nam","street_number":"2","type":"4","longitude":"105.7925659"},"way_id":710270797}
+{"request":{"street":"Phố Triều Khúc, Tân Triều","latitude":"20.9790060","name":"Chợ Triều Khúc","street_number":"undefined","type":"114","longitude":"105.8004531"},"way_id":710270797}
+{"request":{"street":"54 Phố Triều Khúc, Thanh Xuân Nam","latitude":"20.9847920","name":"Trường Đại học Công nghệ Giao thông Vận tải","street_number":"54","type":"45","longitude":"105.7988320"},"way_id":710270797}
+{"request":{"street":"187 Chiến Thắng","latitude":"20.9778965","name":"Tranh thêu chữ thập - Time shop","street_number":"187","type":"114","longitude":"105.7973901"},"way_id":710270797}
+{"request":{"street":"Hoàng Quốc Việt, Cổ Nhuế, P. Văn Quán","latitude":"20.9869930","name":"Cty Cổ phần Giải pháp Dịch vụ Số","street_number":"undefined","type":"114","longitude":"105.7963790"},"way_id":710270797}
+{"request":{"street":"P. Mộ Lao","latitude":"20.9839895","name":"Công Ty Cổ Phần V-Plus Việt Nam","street_number":"undefined","type":"93","longitude":"105.7869884"},"way_id":710270797}
+{"request":{"street":"521 Nguyễn Trãi","latitude":"20.9868074","name":"Công ty cổ phần 116 - CIENCO1","street_number":"521","type":"114","longitude":"105.7969748"},"way_id":710270797}
+{"request":{"street":"10 Nguyễn Trãi, P. Mộ Lao","latitude":"20.9827283","name":"Lotteria","street_number":"10","type":"50","longitude":"105.7904535"},"way_id":710270797}
+{"request":{"street":"A14 - TT13 Khu đô thị Văn Quán, P. Văn Quán","latitude":"20.9799130","name":"Gia Thịnh Furniture","street_number":"undefined","type":"114","longitude":"105.7946160"},"way_id":710270797}
+{"request":{"street":"533 Nguyễn Trãi-Thanh Xuân-Hà Nội, Thanh Xuân Nam","latitude":"20.9866590","name":"Siêu Thị Mẹ Và Bé Baby One","street_number":"533","type":"93","longitude":"105.7965580"},"way_id":710270797}
+{"request":{"street":"Bắc Hà Fodacon, Nguyễn Trãi, P. Mộ Lao","latitude":"20.9826442","name":"Catwalk SHOP","street_number":"undefined","type":"93","longitude":"105.7900579"},"way_id":710270797}
+{"request":{"street":"CT3, Khu đô thị Văn Quán, Quận Hà Đông, Thành phố Hà Nội 16, Cầu Bính - Quận Hồng Bàng - Thành phố","latitude":"20.9801254","name":"CÔNG TY CỔ PHẦN TƯ VẤN ĐẦU TƯ THIẾT KẾ XÂY DỰNG THƯƠNG MẠI \u0026 DỊCH VỤ SIC","street_number":"undefined","type":"114","longitude":"105.7941418"},"way_id":710270797}
+{"request":{"street":"54 Phố Triều Khúc, Thanh Xuân Nam","latitude":"20.9849354","name":"Trung tâm dạy nghề Tóc Nhân \u0026 Đạo","street_number":"54","type":"100","longitude":"105.7988800"},"way_id":710270797}
+{"request":{"street":"Thanh Xuân Bắc","latitude":"20.9935790","name":"Thanh Xuân Bắc","street_number":"undefined","type":"2","longitude":"105.7982094"},"way_id":710270797}
+{"request":{"street":"151 Trần Phú","latitude":"20.9772654","name":"Công ty Xăng dầu Hà Sơn Bình","street_number":"151","type":"114","longitude":"105.7845189"},"way_id":693652772}
+{"request":{"street":"BT 13, ngõ 8 Nguyễn Văn Lộc, P. Mộ Lao","latitude":"20.9835099","name":"Mầm Non Tư Thục KIDS HOME Bắc Hà","street_number":"undefined","type":"5","longitude":"105.7886484"},"way_id":693652772}
+{"request":{"street":"A8-TT10, Đường Nguyễn Khuyến, Quận Hà Đông, Tp Hà Nội, P. Văn Quán","latitude":"20.9780399","name":"Ngân Hàng TMCP Xăng Dầu Petrolimex @ Phòng Giao Dịch Văn Quán","street_number":"undefined","type":"59","longitude":"105.7869353"},"way_id":693652772}
+{"request":{"street":"P1615 - Hồ Gươm Plaza, 102 Trần Phú, P. Mộ Lao","latitude":"20.9789780","name":"Dây Đeo Thẻ","street_number":"undefined","type":"93","longitude":"105.7854200"},"way_id":693652772}
+{"request":{"street":"78 Nguyễn Khuyến, P. Văn Quán","latitude":"20.9767065","name":"Agribank","street_number":"78","type":"59","longitude":"105.7883788"},"way_id":693652772}

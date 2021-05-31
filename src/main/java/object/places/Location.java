@@ -10,7 +10,7 @@ public class Location{
 	@SerializedName("lat")
 	private double lat;
 
-	public Location(double lng, double lat) {
+	public Location(double lat, double lng) {
 		this.lng = lng;
 		this.lat = lat;
 	}

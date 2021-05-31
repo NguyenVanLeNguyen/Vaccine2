@@ -18,7 +18,7 @@ public class ResponsePlaces{
 	private String status;
 
 	public String getNextPageToken(){
-		return nextPageToken;
+		return nextPageToken == null? "" : nextPageToken;
 	}
 
 	public List<Object> getHtmlAttributions(){

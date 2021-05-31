@@ -34,7 +34,7 @@ public class FieldDetect {
             }
             centerLat = (maxLat+minLat)/2;
             centerLng = (maxLng+minLng)/2;
-            distance = distance(centerLat,centerLng,maxLat,maxLng,0,0);
+            distance = distance(centerLat,maxLat,centerLng,maxLng,0,0);
         }
     }
 
@@ -102,7 +102,7 @@ public class FieldDetect {
         if(centerLng == 0.0 || centerLat == 0.0){
             return null;
         }else {
-            Location location = new Location(centerLng,centerLng);
+            Location location = new Location(centerLat,centerLng);
             return location;
         }
     }
@@ -110,7 +110,7 @@ public class FieldDetect {
     public static double distance(double lat1, double lat2, double lon1,
                                   double lon2, double el1, double el2) {
 
-        final int R = 6378137; // Radius of the earth(meter)
+        final int R = 6371; // Radius of the earth(meter)
 
         double latDistance = Math.toRadians(lat2 - lat1);
         double lonDistance = Math.toRadians(lon2 - lon1);
@@ -118,7 +118,7 @@ public class FieldDetect {
                 + Math.cos(Math.toRadians(lat1)) * Math.cos(Math.toRadians(lat2))
                 * Math.sin(lonDistance / 2) * Math.sin(lonDistance / 2);
         double c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-        double distance = R * c;
+        double distance = R * c * 1000;
 
         double height = el1 - el2;
 
