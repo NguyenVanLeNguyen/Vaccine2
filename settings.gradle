@@ -1,0 +1,3 @@
+rootProject.name = 'Vaccine2'
+include 'src'
+
