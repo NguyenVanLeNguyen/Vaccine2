@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class RequestGcs {
-    String key = "AIzaSyCpYPMRXUWfIR6kjLWGbDBNjFmECi9IEhw";
+    String key = "";
     Location location;
     Double distance = 1000.0;
     Double ratio = 2.0;

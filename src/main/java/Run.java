@@ -20,20 +20,24 @@ import java.util.HashSet;
 import java.util.List;
 
 public class Run {
+    final static String ACTION_GETPLACE = "get";
+    final static String CREATE_PLACE = "request";
     public static void main(String[] args) {
-        System.out.println("Hello world");
-
-       /* file = Paths.get("content_request.txt");
-        ArrayList<String> content = new ArrayList<>();
-        content.add("fawef");
-        content.add("faweffwef");
-        try {
-            Files.write(file,content, StandardCharsets.UTF_8,StandardOpenOption.CREATE, StandardOpenOption.APPEND);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }*/
+        if (args.length == 2) {
+            String fileName = args[1];
+            String typeAction = args[0];
+            switch (typeAction) {
+                case ACTION_GETPLACE:
+                    file = Paths.get(fileName);
+                    runStepOne();
+                    break;
+                case CREATE_PLACE:
+                    RunStepTwo(fileName);
+                    break;
+            }
+        }
 //        runStepOne();
-        RunStepTwo("ratio_2_page_10_.txt");
+        //RunStepTwo("ratio_2_page_10_.txt");
         //updateData("content_request.txt","content_request_2.txt");
     }
     static Path file = Paths.get("ratio_2_page_10_.txt");
@@ -89,10 +93,9 @@ public class Run {
                                             }
 
                                             requestBodyAddPlace.setType(String.valueOf(typeId));
-                                            requestBodyAddPlace.setStreetNumber(requestBodyAddPlace.getStreet());
+                                            requestBodyAddPlace.setStreetNumber(getNumberStreet(requestBodyAddPlace.getStreet()));
                                             DataForRequestCreatPlaceGmap data = new DataForRequestCreatPlaceGmap(requestBodyAddPlace,waysItem.getId());
                                             content.add(gson.toJson(data));
-                                            //System.out.println(gson.toJson(data));
                                         }
 
                                     }
