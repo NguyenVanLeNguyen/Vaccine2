@@ -1,22 +1,23 @@
 package object;
 
+import object.mark.MarkPoint;
 import object.places.Location;
 
 import java.util.ArrayList;
 
 public class FieldDetect {
-    Double minLat;
-    Double maxLat;
-    Double minLng;
-    Double maxLng;
+    double minLat;
+    double maxLat;
+    double minLng;
+    double maxLng;
 
-    Double centerLat;
-    Double centerLng;
-
-    Double distance;
+    double centerLat;
+    double centerLng;
+    ArrayList<MarkPoint> mListPoint = new ArrayList<>();
+    double distance;
     boolean isDetected = false;
 
-    public FieldDetect(ArrayList<Location> listLocation) {
+    public FieldDetect(ArrayList<Location> listLocation, int id) {
         if(listLocation == null || listLocation.isEmpty()){
             isDetected = false;
         }else {
@@ -26,63 +27,83 @@ public class FieldDetect {
             maxLat = firstLocation.getLat();
             minLng = firstLocation.getLng();
             maxLng = firstLocation.getLng();
+            int countPoint = listLocation.size();
+            int indexPoint = 0;
+            int hashNumber = 1;
+            if (countPoint <= 3){
+                hashNumber = 1;
+            }else if(countPoint <= 6){
+                hashNumber = 2;
+            }else if(countPoint <= 10){
+                hashNumber = 3;
+            }else {
+                hashNumber = 5;
+            }
             for(Location location : listLocation){
                 minLat = Math.min(minLat,location.getLat());
                 maxLat = Math.max(maxLat,location.getLat());
                 minLng = Math.min(minLng,location.getLng());
                 maxLng = Math.max(maxLng,location.getLng());
+                if(indexPoint%hashNumber == 0){
+                    mListPoint.add(new MarkPoint(location,id));
+                }
+                indexPoint++;
+
             }
             centerLat = (maxLat+minLat)/2;
             centerLng = (maxLng+minLng)/2;
-            distance = distance(centerLat,maxLat,centerLng,maxLng,0,0);
+            //distance = distance(centerLat,maxLat,centerLng,maxLng,0,0);
         }
+
+
+
     }
 
-    public Double getMinLat() {
+    public double getMinLat() {
         return minLat;
     }
 
-    public void setMinLat(Double minLat) {
+    public void setMinLat(double minLat) {
         this.minLat = minLat;
     }
 
-    public Double getMaxLat() {
+    public double getMaxLat() {
         return maxLat;
     }
 
-    public void setMaxLat(Double maxLat) {
+    public void setMaxLat(double maxLat) {
         this.maxLat = maxLat;
     }
 
-    public Double getMinLng() {
+    public double getMinLng() {
         return minLng;
     }
 
-    public void setMinLng(Double minLng) {
+    public void setMinLng(double minLng) {
         this.minLng = minLng;
     }
 
-    public Double getMaxLng() {
+    public double getMaxLng() {
         return maxLng;
     }
 
-    public void setMaxLng(Double maxLng) {
+    public void setMaxLng(double maxLng) {
         this.maxLng = maxLng;
     }
 
-    public Double getCenterLat() {
+    public double getCenterLat() {
         return centerLat;
     }
 
-    public void setCenterLat(Double centerLat) {
+    public void setCenterLat(double centerLat) {
         this.centerLat = centerLat;
     }
 
-    public Double getCenterLng() {
+    public double getCenterLng() {
         return centerLng;
     }
 
-    public void setCenterLng(Double centerLng) {
+    public void setCenterLng(double centerLng) {
         this.centerLng = centerLng;
     }
 
@@ -94,7 +115,7 @@ public class FieldDetect {
         isDetected = detected;
     }
 
-    public Double getDistance() {
+    public double getDistance() {
         return distance;
     }
 
@@ -107,7 +128,7 @@ public class FieldDetect {
         }
     }
 
-    public static double distance(double lat1, double lat2, double lon1,
+    /*public static double distance(double lat1, double lat2, double lon1,
                                   double lon2, double el1, double el2) {
 
         final int R = 6371; // Radius of the earth(meter)
@@ -125,5 +146,13 @@ public class FieldDetect {
         distance = Math.pow(distance, 2) + Math.pow(height, 2);
 
         return Math.sqrt(distance);
+    }*/
+
+    public ArrayList<MarkPoint> getmListPoint() {
+        return mListPoint;
+    }
+
+    public void setmListPoint(ArrayList<MarkPoint> mListPoint) {
+        this.mListPoint = mListPoint;
     }
 }

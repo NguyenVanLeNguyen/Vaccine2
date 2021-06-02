@@ -25,8 +25,9 @@ import java.util.*;
 public class RequestApis {
     String domain = "https://gmap-marker-tool-be.ghtk.vn";
     String requestGetWays = "/api/v1/ways";
+    public static String token = "";
     String getRequestNodesInWay = "/api/v1/$s/nodes";
-
+    static int countSuccess = 0;
     public void getWays() {
         try {
             URL url = new URL(domain+requestGetWays);
@@ -34,7 +35,7 @@ public class RequestApis {
             con.setRequestMethod("GET");
             con.setRequestProperty("Content-Type", "application/json; utf-8");
             con.setRequestProperty("Accept", "application/json");
-            con.setRequestProperty("Authorization", "Bearer c_nxceghcbeskmw4krfspqmol7tzgtxm7ky2x527qmvvziwwxobfduuede3rtzwvps");
+            con.setRequestProperty("Authorization", "Bearer "+token);
             int responseCode = con.getResponseCode();
             if (responseCode == HttpURLConnection.HTTP_OK) { // success
                 BufferedReader in = new BufferedReader(new InputStreamReader(
@@ -64,7 +65,7 @@ public class RequestApis {
             con.setRequestMethod("GET");
             con.setRequestProperty("Content-Type", "application/json; utf-8");
             con.setRequestProperty("Accept", "application/json");
-            con.setRequestProperty("Authorization", "Bearer c_nxceghcbeskmw4krfspqmol7tzgtxm7ky2x527qmvvziwwxobfduuede3rtzwvps");
+            con.setRequestProperty("Authorization", "Bearer "+token);
             int responseCode = con.getResponseCode();
             if (responseCode == HttpURLConnection.HTTP_OK) { // success
                 BufferedReader in = new BufferedReader(new InputStreamReader(
@@ -81,14 +82,15 @@ public class RequestApis {
                          for(NodesItem node : responseNodes.getData().getNodes()){
                              waysItem.getListPlaceName().add(node.getName());
                              waysItem.getListLatLng().add(String.format("%.7f,%.7f",node.getLatitude(),node.getLongitude()));
-                             listNodes.add(node);
+                             //listNodes.add(node);
                          }
                         /*System.out.println("getNodesInWay: " + waysItem.getName() + " " + index);
                         System.out.println(gson.toJson(responseNodes));*/
-                        if(mListener != null && responseNodes != null){
-                            mListener.onFinshGetListNodes(responseNodes,waysItem);
-                        }
+
                     }
+                }
+                if(mListener != null && responseNodes != null){
+                    mListener.onFinshGetListNodes(waysItem);
                 }
 
             }
@@ -106,7 +108,7 @@ public class RequestApis {
             con.setRequestMethod("POST");
             con.setRequestProperty("Content-Type", "application/json; utf-8");
             con.setRequestProperty("Accept", "application/json");
-            con.setRequestProperty("Authorization", "Bearer c_nxceghcbeskmw4krfspqmol7tzgtxm7ky2x527qmvvziwwxobfduuede3rtzwvps");
+            con.setRequestProperty("Authorization", "Bearer "+token);
             con.setDoOutput(true);
             Gson gson = new Gson();
             String jsonRequestBody = gson.toJson(requestBody);
@@ -129,7 +131,8 @@ public class RequestApis {
                     Gson gsonResponse = new Gson();
                     ResponseAddPlace responseAddPlace = gsonResponse.fromJson(response.toString(),ResponseAddPlace.class);
                     if(responseAddPlace.getStatus().equals("OK")){
-                        System.out.println("++++"+response.toString());
+                        countSuccess++;
+                        System.out.println("countSuccess : "+countSuccess+response.toString());
                     }else {
                         System.out.println("----"+response.toString());
                     }
@@ -172,7 +175,8 @@ public class RequestApis {
                                 listLocation.add(location);
                             }
                         }
-                        FieldDetect fieldDetect = new FieldDetect(listLocation);
+
+                        FieldDetect fieldDetect = new FieldDetect(listLocation, waysItem.getId());
                         waysItem.setmFieldDetect(fieldDetect);
                     }
                 }catch (JsonSyntaxException e){
@@ -211,6 +215,6 @@ public class RequestApis {
     }
     public interface Listener{
         void onFinishGetDataWays(ResponseWays dataWay);
-        void onFinshGetListNodes(ResponseNodes responseNodes,WaysItem waysItem);
+        void onFinshGetListNodes(WaysItem waysItem);
     }
 }

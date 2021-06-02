@@ -15,11 +15,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class RequestGcs {
-    String key = "";
+    public static String key = "";
+    public static boolean isTestRequest = false;
     Location location;
-    Double distance = 1000.0;
-    Double ratio = 2.0;
-    int pageNumberRequest =10;
+    double distance = 1000.0;
+    double ratio = 2.0;
+    int pageNumberRequest = 2;
     String requestUrl = "https://maps.googleapis.com/maps/api/place/nearbysearch/json";
 
     public RequestGcs(Location location, Double distance,Listener mListener) {
@@ -31,7 +32,7 @@ public class RequestGcs {
 
     public static class Builder{
         Location location;
-        Double distance = 1000.0;
+        double distance = 1000.0;
         Listener mListener;
         public Builder setLocation(Location location) {
             this.location = location;
@@ -57,14 +58,16 @@ public class RequestGcs {
     public void getPlaces(String pageToken,FinishRequestListener finishRequestListener) {
         try {
             String locationStr = location.toStringForGcs();
-            String radius = String.valueOf(distance);
             URL url ;
             if(pageToken.isEmpty()){
-                url = new URL(requestUrl + String.format("?location=%s&radius=%s&key=%s&language=vi",locationStr,radius,key));
-                //System.out.println(requestUrl + String.format("?location=%s&radius=%s&key=%s&language=vi",locationStr,radius,key));
+                url = new URL(requestUrl + String.format("?location=%s&rankby=distance&key=%s&language=vi",locationStr,key));
+                System.out.println(requestUrl + String.format("?location=%s&rankby=distance&key=%s&language=vi",locationStr,key));
             }else {
-                url = new URL(requestUrl + String.format("?location=%s&radius=%s&key=%s&language=vi&pagetoken=%s",locationStr,radius,key,pageToken));
-                //System.out.println(requestUrl + String.format("?location=%s&radius=%s&key=%s&language=vi&pagetoken=%s",locationStr,radius,key,pageToken));
+                url = new URL(requestUrl + String.format("?location=%s&rankby=distance&key=%s&language=vi&pagetoken=%s",locationStr,key,pageToken));
+                System.out.println(requestUrl + String.format("?location=%s&rankby=distance&key=%s&language=vi&pagetoken=%s",locationStr,key,pageToken));
+            }
+            if(isTestRequest){
+                return;
             }
 
             HttpURLConnection con = (HttpURLConnection) url.openConnection();
@@ -88,8 +91,8 @@ public class RequestGcs {
             e.printStackTrace();
         }
     }
-    ArrayList<ResultsItem> mListResult = new ArrayList<>();
-    public void requestGoogleService(int countPage,String pagetoken){
+
+    public void requestGoogleService(int countPage,String pagetoken,ArrayList<ResultsItem> mListResult){
         if(countPage < pageNumberRequest){
             getPlaces(pagetoken, new FinishRequestListener() {
                 @Override
@@ -99,7 +102,7 @@ public class RequestGcs {
                         int countNextPage = countPage+1;
                         mListResult.addAll(responsePlaces.getResults());
                         if(!pagetoken.isEmpty() && countNextPage < pageNumberRequest){
-                            requestGoogleService(countNextPage,pagetoken);
+                            requestGoogleService(countNextPage,pagetoken,mListResult);
                         }else {
                             if(mListener != null && !mListResult.isEmpty()){
                                 mListener.onGetPlacesFisnish(mListResult);

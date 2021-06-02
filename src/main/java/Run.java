@@ -1,6 +1,8 @@
 import com.google.gson.Gson;
 import gcs.RequestGcs;
 import gmap.RequestApis;
+import object.config.Config;
+import object.mark.MarkPoint;
 import object.nodes.ResponseNodes;
 import object.places.ResponsePlaces;
 import object.places.ResultsItem;
@@ -22,25 +24,84 @@ import java.util.List;
 public class Run {
     final static String ACTION_GETPLACE = "get";
     final static String CREATE_PLACE = "request";
+    static Config configData;
+    static boolean isTestSmallScale = false;
     public static void main(String[] args) {
-        if (args.length == 2) {
-            String fileName = args[1];
-            String typeAction = args[0];
-            switch (typeAction) {
-                case ACTION_GETPLACE:
-                    file = Paths.get(fileName);
+        if (args.length == 1) {
+            String fileName = args[0];
+            try (BufferedReader br = Files.newBufferedReader(Paths.get(fileName))) {
+                String line;
+                while ((line = br.readLine()) != null) {
+                    try {
+                        configData = new Gson().fromJson(line, Config.class);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                }
+            }catch (IOException e) {
+                e.printStackTrace();
+            }
+        }else {
+            System.out.println("Syntax error!");
+            return;
+        }
+        if(configData == null){
+            System.out.println("Format file config error!");
+            return ;
+        }else {
+            if(configData.getAction().isEmpty()){
+                System.out.println("missing action!");
+                return;
+            }else {
+                if(configData.getAction().equals("1")){ // step one
+                    if(configData.getKey().isEmpty()){
+                        System.out.println("missing google clound service key!");
+                        return;
+                    }else {
+                        RequestGcs.key = configData.getKey();
+                    }
+
+                    if(configData.getToken().isEmpty()){
+                        System.out.println("missing token!");
+                        return;
+                    }else {
+                        RequestApis.token = configData.getToken();
+                    }
+                    if(configData.getIsTesting().isEmpty() || !configData.getIsTesting().equals("true")){
+                       isTestSmallScale = false;
+                    }else {
+                        isTestSmallScale = true;
+                    }
+                    if(configData.getIsTestRequest().isEmpty() || !configData.getIsTestRequest().equals("true")){
+                        isTestSmallScale = false;
+                    }else {
+                        isTestSmallScale = true;
+                    }
                     runStepOne();
-                    break;
-                case CREATE_PLACE:
-                    RunStepTwo(fileName);
-                    break;
+                }else if(configData.getAction().equals("2")){
+                    if(configData.getToken().isEmpty()){
+                        System.out.println("missing token!");
+                        return;
+                    }else {
+                        RequestApis.token = configData.getToken();
+                    }
+                    if(configData.getFileData().isEmpty()){
+                        System.out.println("missing file data!");
+                        return;
+                    }else {
+                        RunStepTwo(configData.getFileData());
+                    }
+                }
             }
         }
+
 //        runStepOne();
-        //RunStepTwo("ratio_2_page_10_.txt");
+        //RunStepTwo("noduplicate.txt");
         //updateData("content_request.txt","content_request_2.txt");
     }
-    static Path file = Paths.get("ratio_2_page_10_.txt");
+    static Path file = Paths.get("allplace.txt");
+    static Path fileNotDuplicate = Paths.get("noduplicate.txt");
+    static Path fileMark = Paths.get("mark.txt");
     static private HashSet<String> listPlaceNameRequested = new HashSet<>();
     static private HashSet<String> listLatLngRequested = new HashSet<>();
     private static void runStepOne(){
@@ -48,67 +109,83 @@ public class Run {
         requestApis.setmListener(new RequestApis.Listener() {
             @Override
             public void onFinishGetDataWays(ResponseWays dataWay) {
+                ArrayList<String> pointsData = new ArrayList<>();
                 int index = 0;
-                for (WaysItem item : dataWay.getData().getWays()) {
-                    requestApis.getNodesInWay(item,index);
-                    index++;
-
-                }
-            }
-
-            @Override
-            public void onFinshGetListNodes(ResponseNodes responseNodes, WaysItem waysItem) {
                 Gson gson = new Gson();
+                for (WaysItem item : dataWay.getData().getWays()) {
+                    requestApis.getNodesInWay(item,0);
+                    index++;
+                    if(isTestSmallScale){
+                        if (index >= 2) {
+                            break;
+                        }
+                    }
+                }
 
-                /*try {
-                    Files.write(file,content, StandardCharsets.UTF_8);
+                /*Lấy danh sách điểm mốc lưu vào file*/
+                /*for (WaysItem item : dataWay.getData().getWays()) {
+                    for(MarkPoint point: item.getmFieldDetect().getmListPoint()){
+                        pointsData.add(gson.toJson(point));
+                    }
+                }
+                try {
+                    Files.write(fileMark,pointsData, StandardCharsets.UTF_8,StandardOpenOption.CREATE, StandardOpenOption.APPEND);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }*/
-                RequestGcs requestGcs = new RequestGcs.Builder()
-                        .setDistance(waysItem.getmFieldDetect().getDistance())
-                        .setLocation(waysItem.getmFieldDetect().getCenterLocation())
-                        .setmListener(new RequestGcs.Listener() {
-                            @Override
-                            public void onGetPlacesFisnish(List<ResultsItem> responsePlaces) {
-                                ArrayList<String> content = new ArrayList<>();
-                                for (ResultsItem resultItem : responsePlaces) {
-                                    if (!waysItem.getListLatLng().equals(resultItem.getGeometry().getLocation().toStringForGcs())
-                                            && !waysItem.getListPlaceName().equals(resultItem.getName())) {
-                                        if(!listPlaceNameRequested.contains(resultItem.getName()) && !listLatLngRequested.contains(resultItem.getGeometry().getLocation().toStringForGcs())){
-                                            listPlaceNameRequested.add(resultItem.getName());
-                                            listLatLngRequested.add(resultItem.getGeometry().getLocation().toStringForGcs());
-                                            RequestBodyAddPlace requestBodyAddPlace = new RequestBodyAddPlace();
-                                            requestBodyAddPlace.setLatitude(String.format("%.7f", resultItem.getGeometry().getLocation().getLat()));
-                                            requestBodyAddPlace.setLongitude(String.format("%.7f", resultItem.getGeometry().getLocation().getLng()));
-                                            requestBodyAddPlace.setName(resultItem.getName());
-                                            requestBodyAddPlace.setStreet(resultItem.getVicinity().isEmpty()? "undefined":resultItem.getVicinity());
-                                            int typeId = 114;
-                                            for(String typeItem : resultItem.getTypes()){
-                                                if(!typeItem.equals("real_estate_agency") && !typeItem.equals("establishment") && !typeItem.equals("point_of_interest" )){
-                                                    if(getTypeId(typeItem) != 114 ){
-                                                        typeId = getTypeId(typeItem);
-                                                    }
+            }
+
+            @Override
+            public void onFinshGetListNodes(WaysItem waysItem) {
+                Gson gson = new Gson();
+                for (MarkPoint point : waysItem.getmFieldDetect().getmListPoint()) {
+                    RequestGcs requestGcs = new RequestGcs.Builder()
+                            .setDistance(waysItem.getmFieldDetect().getDistance())
+                            .setLocation(point.getLocation())
+                            .setmListener(new RequestGcs.Listener() {
+                                @Override
+                                public void onGetPlacesFisnish(List<ResultsItem> responsePlaces) {
+                                    ArrayList<String> content = new ArrayList<>();
+                                    ArrayList<String> contentNotDuplicate = new ArrayList<>();
+                                    for (ResultsItem resultItem : responsePlaces) {
+                                        RequestBodyAddPlace requestBodyAddPlace = new RequestBodyAddPlace();
+                                        requestBodyAddPlace.setLatitude(String.format("%.7f", resultItem.getGeometry().getLocation().getLat()));
+                                        requestBodyAddPlace.setLongitude(String.format("%.7f", resultItem.getGeometry().getLocation().getLng()));
+                                        requestBodyAddPlace.setName(resultItem.getName());
+                                        requestBodyAddPlace.setStreet(resultItem.getVicinity().isEmpty() ? "undefined" : resultItem.getVicinity());
+                                        int typeId = 114;
+                                        for (String typeItem : resultItem.getTypes()) {
+                                            if (!typeItem.equals("real_estate_agency") && !typeItem.equals("establishment") && !typeItem.equals("point_of_interest")) {
+                                                if (getTypeId(typeItem) != 114) {
+                                                    typeId = getTypeId(typeItem);
                                                 }
                                             }
-
-                                            requestBodyAddPlace.setType(String.valueOf(typeId));
-                                            requestBodyAddPlace.setStreetNumber(getNumberStreet(requestBodyAddPlace.getStreet()));
-                                            DataForRequestCreatPlaceGmap data = new DataForRequestCreatPlaceGmap(requestBodyAddPlace,waysItem.getId());
-                                            content.add(gson.toJson(data));
                                         }
+                                        requestBodyAddPlace.setType(String.valueOf(typeId));
+                                        requestBodyAddPlace.setStreetNumber(getNumberStreet(requestBodyAddPlace.getStreet()));
+                                        DataForRequestCreatPlaceGmap data = new DataForRequestCreatPlaceGmap(requestBodyAddPlace, waysItem.getId());
+                                        content.add(gson.toJson(data));
+                                        if (!listPlaceNameRequested.contains(resultItem.getName())
+                                                && !listLatLngRequested.contains(resultItem.getGeometry().getLocation().toStringForGcs())) {
+                                            listPlaceNameRequested.add(resultItem.getName());
+                                            listLatLngRequested.add(resultItem.getGeometry().getLocation().toStringForGcs());
+                                            if (!waysItem.getListLatLng().contains(resultItem.getGeometry().getLocation().toStringForGcs())
+                                                    && !waysItem.getListPlaceName().contains(resultItem.getName())) {
+                                                contentNotDuplicate.add(gson.toJson(data));
+                                            }
 
+                                        }
+                                    }
+                                    try {
+                                        Files.write(file, content, StandardCharsets.UTF_8, StandardOpenOption.CREATE, StandardOpenOption.APPEND);
+                                        Files.write(fileNotDuplicate, contentNotDuplicate, StandardCharsets.UTF_8, StandardOpenOption.CREATE, StandardOpenOption.APPEND);
+                                    } catch (IOException e) {
+                                        e.printStackTrace();
                                     }
                                 }
-                                try {
-                                    Files.write(file,content, StandardCharsets.UTF_8,StandardOpenOption.CREATE, StandardOpenOption.APPEND);
-                                } catch (IOException e) {
-                                    e.printStackTrace();
-                                }
-                            }
-                        }).build();
-                requestGcs.requestGoogleService(0, "");
-
+                            }).build();
+                    requestGcs.requestGoogleService(0, "", new ArrayList<>());
+                }
             }
         });
         requestApis.getWays();
@@ -127,7 +204,6 @@ public class Run {
                 }catch (Exception e){
                     e.printStackTrace();
                 }
-//                sb.append(line).append("\n");
             }
             Thread countDownThread = new Thread() {
                 @Override
@@ -186,13 +262,6 @@ public class Run {
             Files.write(file,content, StandardCharsets.UTF_8,StandardOpenOption.CREATE, StandardOpenOption.APPEND);
         } catch (IOException e) {
             e.printStackTrace();
-        }
-    }
-    private void getDataPlace(ResponseWays responseWays) {
-        if (responseWays != null) {
-            for (WaysItem waysItem : responseWays.getData().getWays()) {
-
-            }
         }
     }
 

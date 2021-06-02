@@ -15,7 +15,7 @@ public class ResponsePlaces{
 	private List<ResultsItem> results;
 
 	@SerializedName("status")
-	private String status;
+	private String status = "OK ";
 
 	public String getNextPageToken(){
 		return nextPageToken == null? "" : nextPageToken;
