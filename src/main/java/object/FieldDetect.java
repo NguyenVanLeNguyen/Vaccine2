@@ -40,10 +40,6 @@ public class FieldDetect {
                 hashNumber = 5;
             }
             for(Location location : listLocation){
-                minLat = Math.min(minLat,location.getLat());
-                maxLat = Math.max(maxLat,location.getLat());
-                minLng = Math.min(minLng,location.getLng());
-                maxLng = Math.max(maxLng,location.getLng());
                 if(indexPoint%hashNumber == 0){
                     mListPoint.add(new MarkPoint(location,id));
                 }

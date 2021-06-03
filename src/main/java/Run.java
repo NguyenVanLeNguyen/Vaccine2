@@ -20,12 +20,14 @@ import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Locale;
 
 public class Run {
     final static String ACTION_GETPLACE = "get";
     final static String CREATE_PLACE = "request";
     static Config configData;
     static boolean isTestSmallScale = false;
+
     public static void main(String[] args) {
         if (args.length == 1) {
             String fileName = args[0];
@@ -99,12 +101,14 @@ public class Run {
         //RunStepTwo("noduplicate.txt");
         //updateData("content_request.txt","content_request_2.txt");
     }
+
     static Path file = Paths.get("allplace.txt");
-    static Path fileNotDuplicate = Paths.get("noduplicate.txt");
+    static Path fileNotDuplicate = Paths.get("pre_noduplicate.txt");
     static Path fileMark = Paths.get("mark.txt");
     static private HashSet<String> listPlaceNameRequested = new HashSet<>();
     static private HashSet<String> listLatLngRequested = new HashSet<>();
-    private static void runStepOne(){
+
+    private static void runStepOne() {
         RequestApis requestApis = new RequestApis();
         requestApis.setmListener(new RequestApis.Listener() {
             @Override
@@ -114,12 +118,12 @@ public class Run {
                 Gson gson = new Gson();
                 for (WaysItem item : dataWay.getData().getWays()) {
                     requestApis.getNodesInWay(item,0);
-                    index++;
+                   /* index++;
                     if(isTestSmallScale){
-                        if (index >= 2) {
+                        if (index >= 1) {
                             break;
-                        }
-                    }
+                        }*/
+                    //}
                 }
 
                 /*Lấy danh sách điểm mốc lưu vào file*/
@@ -155,7 +159,7 @@ public class Run {
                                         requestBodyAddPlace.setStreet(resultItem.getVicinity().isEmpty() ? "undefined" : resultItem.getVicinity());
                                         int typeId = 114;
                                         for (String typeItem : resultItem.getTypes()) {
-                                            if (!typeItem.equals("real_estate_agency") && !typeItem.equals("establishment") && !typeItem.equals("point_of_interest")) {
+                                            if ( !typeItem.equals("establishment") && !typeItem.equals("point_of_interest")) {
                                                 if (getTypeId(typeItem) != 114) {
                                                     typeId = getTypeId(typeItem);
                                                 }
@@ -191,7 +195,7 @@ public class Run {
         requestApis.getWays();
     }
 
-    private static void RunStepTwo(String fileName){
+    private static void RunStepTwo(String fileName) {
         StringBuilder sb = new StringBuilder();
         Gson gson = new Gson();
         ArrayList<DataForRequestCreatPlaceGmap> data = new ArrayList<>();
@@ -200,8 +204,8 @@ public class Run {
             String line;
             while ((line = br.readLine()) != null) {
                 try {
-                    data.add(gson.fromJson(line,DataForRequestCreatPlaceGmap.class));
-                }catch (Exception e){
+                    data.add(gson.fromJson(line, DataForRequestCreatPlaceGmap.class));
+                } catch (Exception e) {
                     e.printStackTrace();
                 }
             }
@@ -210,11 +214,11 @@ public class Run {
                 public void run() {
                     RequestApis requestApis = new RequestApis();
                     int count = 0;
-                    for(DataForRequestCreatPlaceGmap request : data){
-                        if(request.getmRequest() != null ){//&& request.getmWayId()== 687216053
+                    for (DataForRequestCreatPlaceGmap request : data) {
+                        if (request.getmRequest() != null) {//&& request.getmWayId()== 687216053
                             requestApis.createNewPlace(request.getmRequest(), request.getmWayId());
                         }
-                        if(count % 100 == 0){
+                        if (count % 100 == 0) {
                             try {
                                 Thread.sleep(1000);
                             } catch (InterruptedException e) {
@@ -233,7 +237,7 @@ public class Run {
 
     }
 
-    private static void updateData(String inputFile,String outputFile){
+    private static void updateData(String inputFile, String outputFile) {
         Gson gson = new Gson();
         ArrayList<DataForRequestCreatPlaceGmap> data = new ArrayList<>();
         Path file = Paths.get(outputFile);
@@ -243,7 +247,13 @@ public class Run {
             while ((line = br.readLine()) != null) {
                 try {
                     DataForRequestCreatPlaceGmap item = gson.fromJson(line, DataForRequestCreatPlaceGmap.class);
-                    item.getmRequest().setStreetNumber(getNumberStreet(item.getmRequest().getStreet()));
+//                    item.getmRequest().setStreetNumber(getNumberStreet(item.getmRequest().getStreet()));
+                    if(item.getmRequest().getType().equals("114")) {
+                        String nameLowcase = item.getmRequest().getName().toLowerCase(Locale.ROOT);
+                        if (nameLowcase.contains("công ty") || nameLowcase.contains("company")) {
+                            item.getmRequest().setType("81");
+                        }
+                    }
                     data.add(item);
 
                 } catch (Exception e) {
@@ -251,44 +261,44 @@ public class Run {
                 }
 //                sb.append(line).append("\n");
             }
-        }catch (IOException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
         ArrayList<String> content = new ArrayList<>();
-        for(DataForRequestCreatPlaceGmap item :data){
+        for (DataForRequestCreatPlaceGmap item : data) {
             content.add(gson.toJson(item));
         }
         try {
-            Files.write(file,content, StandardCharsets.UTF_8,StandardOpenOption.CREATE, StandardOpenOption.APPEND);
+            Files.write(file, content, StandardCharsets.UTF_8, StandardOpenOption.CREATE, StandardOpenOption.APPEND);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private static boolean strIsNumer(String item){
-        try{
+    private static boolean strIsNumer(String item) {
+        try {
             Integer.parseInt(item);
             return true;
-        }catch (NumberFormatException e){
+        } catch (NumberFormatException e) {
             return false;
         }
     }
 
 
-    private static String getNumberStreet(String street){
+    private static String getNumberStreet(String street) {
         String numberStreet = "undefined";
         String[] fisrtSlip = street.split(",");
-        if(fisrtSlip.length >0){
+        if (fisrtSlip.length > 0) {
             String[] secondSlip = fisrtSlip[0].split(" ");
             int index = 0;
-            for(String item2: secondSlip){
-                if(strIsNumer(item2)){
-                    if(index == 0){
+            for (String item2 : secondSlip) {
+                if (strIsNumer(item2)) {
+                    if (index == 0) {
                         return item2;
-                    }else if(index > 0){
-                        String preStr = secondSlip[index-1] ;
-                        if(preStr.equals("Số") || preStr.equals("số")
-                                || preStr.equals("sỐ") || preStr.equals("Nhà") || preStr.equals("nhà")){
+                    } else if (index > 0) {
+                        String preStr = secondSlip[index - 1];
+                        if (preStr.equals("Số") || preStr.equals("số")
+                                || preStr.equals("sỐ") || preStr.equals("Nhà") || preStr.equals("nhà")) {
                             return item2;
                         }
                     }
@@ -324,6 +334,7 @@ public class Run {
             case "department_store":
             case "hardware_store":
             case "store":
+            case "furniture_store":
                 return 93;
             case "book_store":
                 return 89;
@@ -338,11 +349,11 @@ public class Run {
             case "cemetery":
                 return 72;
             case "lawyer":
-            case "real_estate_agency":
             case "veterinary_care":
-            case "insurance_agency":
             case "travel_agency":
             case "roofing_contractor":
+            case "movie_rental":
+            case "plumber":
                 return 103;
             case "local_government_office":
                 return 128;
@@ -352,12 +363,12 @@ public class Run {
             case "hindu_temple":
             case "synagogue":
                 return 67;
-            case "movie_rental":
             case "movie_theater":
                 return 53;
             case "park":
             case "rv_park":
             case "zoo":
+            case "amusement_park":
                 return 54;
             case "parking":
                 return 75;
@@ -375,13 +386,14 @@ public class Run {
             case "city_hall":
                 return 31;
             case "primary_school":
+                return 40;
             case "school":
-            case "secondary_school":
                 return 5;
+            case "secondary_school":
+                return 41;
             case "shopping_mall":
                 return 13;
             case "subway_station":
-            case "fire_station":
             case "train_station":
             case "transit_station":
                 return 113;
@@ -405,7 +417,7 @@ public class Run {
                 return 63;
             case "hospital":
             case "health":
-                return 4;
+                return 36;
             case "tourist_attraction":
                 return 118;
             case "storage":
@@ -416,6 +428,26 @@ public class Run {
                 return 73;
             case "sublocality":
                 return 2;
+            case "police":
+                return 62;
+            case "atm":
+                return 60;
+            case "museum":
+                return 56;
+            case "moving_company":
+            case "insurance_agency":
+            case "accounting":
+            case "real_estate_agency":
+                return 81;
+            case "aquarium":
+            case "casino":
+                return 99;
+            case"town_square":
+                return 127;
+            case "archipelago":
+                return 106;
+            case "food":
+                return 51;
             default:
                 return 114;
         }
