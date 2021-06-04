@@ -20,7 +20,7 @@ public class RequestGcs {
     Location location;
     double distance = 1000.0;
     double ratio = 2.0;
-    int pageNumberRequest = 2;
+    int pageNumberRequest = 1000;
     String requestUrl = "https://maps.googleapis.com/maps/api/place/nearbysearch/json";
 
     public RequestGcs(Location location, Double distance,Listener mListener) {
